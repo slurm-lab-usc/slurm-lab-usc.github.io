@@ -5,7 +5,7 @@ title: Getting Involved
 ---
 
 Thank you for your interest in our research! See below for how you can get
-involved. This information is accurate as of **August 2023**.
+involved. This information is accurate as of **September 2023**.
 
 If you have additional questions after reading the below and want to get
 involved, feel free to email me. Depending on the volume of email, I may be slow
@@ -16,7 +16,7 @@ My contact information is [available on my website](https://danielseita.github.i
 
 ## PhD Students
 
-I am expecting to hire around 3-4 PhD students to start in Fall 2024. Please apply
+I am expecting to hire at least 3 PhD students to start in Fall 2024. Please apply
 to USC for a PhD program and indicate my name in your application. My home
 department is [computer science](https://www.cs.usc.edu/), though I am open to
 co-advising students from other departments. There is no need to email me as
