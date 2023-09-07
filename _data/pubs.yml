@@ -1,0 +1,794 @@
+# When making a new entry, copy the commented out entry, paste it, uncomment, and fill out the fields.
+# If any of the fields are confusing look at previous examples for guidance.
+#- abs: null
+#  authors: null
+#  award: null
+#  bib: null
+#  img: null
+#  links: {}
+#  short_id: null
+#  site: null
+#  title: null
+#  venue: null
+#  video_embed: null
+#  tags: null
+# Current tags for research areas, see the research areas page for more details:
+# deform_obj_manip, 3D_afford_obj_manip, multimodal, rl_algs, auto_driving, active_perception, self_sup_rob
+
+- abs: Many fabric handling and 2D deformable material tasks in homes and
+    industry require singulating layers of material such as opening a bag or
+    arranging garments for sewing. In contrast to methods requiring specialized
+    sensing or end effectors, we use only visual observations with ordinary parallel
+    jaw grippers. We propose SLIP, Singulating Layers using Interactive Perception,
+    and apply SLIP to the task of autonomous bagging. We develop SLIP-Bagging, a
+    bagging algorithm that manipulates a plastic or fabric bag from an unstructured
+    state, and uses SLIP to grasp the top layer of the bag to open it for object
+    insertion. In physical experiments, a YuMi robot achieves a success rate of 67%
+    to 81% across bags of a variety of materials, shapes, and sizes, significantly
+    improving in success rate and generality over prior work. Experiments also
+    suggest that SLIP can be applied to tasks such as singulating layers of folded
+    cloth and garments.
+  authors: Lawrence Yunliang Chen, Baiyu Shi, Roy Lin, Daniel Seita, Ayah Ahmad, Richard Cheng, Thomas Kollar, David Held, Ken Goldberg
+  award: null
+  bib: "@inproceedings{slipbagging2023,\n
+    \ title={{Bagging by Learning to Singulate Layers Using Interactive Perception}},\n
+    \ author={Lawrence Yunliang Chen and Baiyu Shi and Roy Lin and Daniel Seita and Ayah Ahmad and Richard Cheng and Thomas Kollar and David Held and Ken Goldberg},\n
+    \ booktitle={International Conference on Intelligent Robots and Systems (IROS)},\n
+    \ year={2023}\n}"
+  img: ../img/papers/SLIP-Bagging.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2303.16898
+  short_id: 2023slipbagging
+  site: https://sites.google.com/view/slip-bagging/
+  title: "Bagging by Learning to Singulate Layers Using Interactive Perception"
+  venue: International Conference on Intelligent Robots and Systems (IROS), 2023
+  video_embed: null
+  tags:
+    - deformable
+
+- abs: Thin plastic bags are ubiquitous in retail stores, healthcare, food
+    handling, recycling, homes, and school lunchrooms. They are challenging
+    both for perception (due to specularities and occlusions) and for
+    manipulation (due to the dynamics of their 3D deformable structure). We
+    formulate the task of manipulating common plastic shopping bags with two
+    handles from an unstructured initial state to a state where solid objects can
+    be inserted into the bag for transport. We propose a self-supervised learning
+    framework where a dual-arm robot learns to recognize the handles and rim of
+    plastic bags using UV-fluorescent markings; at execution time, the robot does
+    not use UV markings or UV light. We propose Autonomous Bagging (AutoBag), where
+    the robot uses the learned perception model to open plastic bags through
+    iterative manipulation.  We present novel metrics to evaluate the quality of a
+    bag state and new motion primitives for reorienting and opening bags from
+    visual observations. In physical experiments, a YuMi robot using AutoBag is
+    able to open bags and achieve a success rate of 16/30 for inserting at least
+    one item across a variety of initial bag configurations
+  authors: Lawrence Yunliang Chen, Baiyu Shi, Daniel Seita, Richard Cheng, Thomas Kollar, David Held, Ken Goldberg
+  award: null
+  bib: "@inproceedings{autobag2023,\n
+    \ title={{AutoBag: Learning to Open Plastic Bags and Insert Objects}},\n
+    \ author={Lawrence Yunliang Chen and Baiyu Shi and Daniel Seita and Richard Cheng and Thomas Kollar and David Held and Ken Goldberg and Ken Goldberg and Ken Goldberg and Ken Goldberg and Ken Goldberg and Ken Goldberg},\n
+    \ booktitle={International Conference on Robotics and Automation (ICRA)},\n
+    \ year={2023}\n}"
+  img: ../img/papers/autobag-ICRA2023.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2210.17217
+    '[Twitter]': https://twitter.com/Lawrence_Y_Chen/status/1638955099186933761
+  short_id: 2023autobag
+  site: https://sites.google.com/view/autobag
+  title: "AutoBag: Learning to Open Plastic Bags and Insert Objects"
+  venue: International Conference on Robotics and Automation (ICRA), 2023
+  video_embed: null
+  tags:
+    - deformable
+
+- abs: "Point clouds are a widely available and canonical data modality which
+    conveys the 3D geometry of a scene. Despite significant progress in
+    classification and segmentation from point clouds, policy learning from
+    such a modality remains challenging, and most prior works in imitation
+    learning focus on learning policies from images or state information. In
+    this paper, we propose a novel framework for learning policies from point
+    clouds for robotic manipulation with tools. We use a novel neural network,
+    ToolFlowNet, which predicts dense per-point flow on the tool that the robot
+    controls, and then uses the flow to derive the transformation that the robot
+    should execute. We apply this framework to imita- tion learning of
+    challenging deformable object manipulation tasks with continuous movement of
+    tools, including scooping and pouring, and demonstrate significantly
+    improved performance over baselines which do not use flow. We perform 50
+    physical scooping experiments with ToolFlowNet and attain 82% scooping
+    success."
+  authors: "Daniel Seita, Yufei Wang\u2020, Sarthak J Shetty\u2020, Edward Yao Li\u2020\
+    , Zackory Erickson, David Held"
+  award: null
+  bib: "@inproceedings{Seita2022toolflownet,\n
+    \ title={{ToolFlowNet: Robotic Manipulation with Tools via Predicting Tool Flow from Point Clouds}},\n
+    \ author={Seita, Daniel and Wang, Yufei and Shetty, Sarthak, and Li, Edward and Erickson, Zackory and Held, David},\n
+    \ booktitle={Conference on Robot Learning (CoRL)},\n
+    \ year={2022}\n}"
+  img: ../img/papers/toolflownet.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2211.09006
+    '[Poster]': https://docs.google.com/presentation/d/1CqSfyEfcakvNYrZblt4KmScOub06qmN6jRar8YlPHNM/edit?usp=sharing
+    '[Talk]': https://docs.google.com/presentation/d/1IAFnXzlVvSO3GXlX7NfAwVPhl77YgbBnGpkdN6WjIPk/edit?usp=sharing
+    '[Twitter]': https://twitter.com/daniel_t_seita/status/1595269818474692609
+  short_id: 2022corltoolflownet
+  site: https://sites.google.com/view/point-cloud-policy
+  title: 'ToolFlowNet: Robotic Manipulation with Tools via Predicting Tool Flow from
+    Point Clouds'
+  venue: Conference on Robot Learning (CoRL), 2022
+  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/cJbtqOAGyI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  tags:
+    - deformable
+
+- abs: Robotic manipulation of cloth has applications ranging from fabrics manufacturing
+    to handling blankets and laundry. Cloth manipulation is challenging for robots
+    largely due to their high degrees of freedom, complex dynamics, and severe self-occlusions
+    when in folded or crumpled configurations. Prior work on robotic manipulation
+    of cloth relies primarily on vision sensors alone, which may pose challenges for
+    fine-grained manipulation tasks such as grasping a desired number of cloth layers
+    from a stack of cloth. In this paper, we propose to use tactile sensing for cloth
+    manipulation; we attach a tactile sensor (ReSkin) to one of the two fingertips
+    of a Franka robot and train a classifier to determine whether the robot is grasping
+    a specific number of cloth layers. During test-time experiments, the robot uses
+    this classifier as part of its policy to grasp one or two cloth layers using tactile
+    feedback to determine suitable grasping points. Experimental results over 180
+    physical trials suggest that the proposed method outperforms baselines that do
+    not use tactile feedback and has a better generalization to unseen fabrics compared
+    to methods that use image classifiers.
+  authors: Sashank Tirumala*, Thomas Weng*, Daniel Seita*, Oliver Kroemer, Zeynep
+    Temel, David Held
+  award: <award>Best Paper at <a href="https://romado-workshop.github.io/ROMADO2022/">ROMADO-SI</a></award>
+  bib: "@inproceedings{tirumala2022reskin,\n
+    \ title={{Learning to Singulate Layers of Cloth using Tactile Feedback}},\n
+    \ author={Tirumala, Sashank and Weng, Thomas and Seita, Daniel and Kroemer, Oliver and Temel, Zeynep and Held, David},\n
+    \ booktitle={International Conference on Intelligent Robots and Systems (IROS)},\n
+    \ year={2022}\n}"
+  img: ../img/papers/iros2022-singulating-layers-fabric-reskin-220x116.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2207.11196
+    '[Twitter]': https://twitter.com/thomas_weng/status/1583154200162115584
+    '[Cosmos]': https://cosmosmagazine.com/technology/laundry-folding-robot/
+  short_id: 2022reskinfabric
+  site: https://sites.google.com/view/reskin-cloth/home
+  title: Learning to Singulate Layers of Cloth Using Tactile Feedback
+  venue: International Conference on Intelligent Robots and Systems (IROS), 2022
+  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/FTGbx1XDjJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  tags:
+    - deformable
+    - multimodal
+
+- abs: "Recent work has shown that 2-arm 'fling' motions can be effective for
+    garment smoothing. We consider single-arm fling motions. Unlike 2-arm fling
+    motions, which require little robot trajectory parameter tuning, single-arm
+    fling motions are very sensitive to trajectory parameters. We consider a
+    single 6-DOF robot arm that learns fling trajectories to achieve high
+    garment coverage.  Given a garment grasp point, the robot explores different
+    parameterized fling trajectories in physical experiments. To improve
+    learning efficiency, we propose a coarse-to-fine learning method that first
+    uses a multi-armed bandit (MAB) framework to efficiently find a candidate
+    fling action, which it then refines via a continuous optimization method.
+    Further, we propose novel training and execution-time stopping criteria
+    based on fling outcome uncertainty; the training-time stopping criterion
+    increases data efficiency while the execution-time stopping criteria
+    leverage repeated fling actions to increase performance. Compared to
+    baselines, the proposed method significantly accelerates learning. Moreover,
+    with prior experience on similar garments collected through
+    self-supervision, the MAB learning time for a new garment is reduced by up
+    to 87%. We evaluate on 36 real garments: towels, T-shirts, long-sleeve
+    shirts, dresses, sweat pants, and jeans. Results suggest that using prior
+    experience, a robot requires under 30 minutes to learn a fling action for a
+    novel garment that achieves 60-94% coverage."
+  authors: "Lawrence Yunliang Chen*, Huang Huang*, Ellen Novoseller, Daniel Seita, Jeffrey Ichnowski, Michael Laskey, Richard Cheng, Thomas Kollar, Ken Goldberg"
+  award: null
+  bib: "@inproceedings{flinging_2022,\n
+    \ title={{Efficiently Learning Single-Arm Fling Motions to Smooth Garments}},\n
+    \ author={Lawrence Yunliang Chen and Huang Huang and Ellen Novoseller and Daniel Seita and Jeffrey Ichnowski and Michael Laskey and Richard Cheng and Thomas Kollar and Ken Goldberg},\n
+    \ booktitle={International Symposium on Robotics Research (ISRR)},\n
+    \ Year={2022}\n}"
+  img: ../img/papers/Single-arm-fling.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2206.08921
+  short_id: 2022singlearmfling
+  site: https://sites.google.com/view/single-arm-fling/home
+  title: 'Efficiently Learning Single-Arm Fling Motions to Smooth Garments'
+  venue: International Symposium on Robotics Research (ISRR), 2022
+  video_embed: null
+  tags:
+    - deformable
+
+- abs: "Peg transfer is a well-known surgical training task in the Fundamentals
+    of Laparoscopic Surgery (FLS). While human surgeons teleoperate robots such
+    as the da Vinci to perform this task with high speed and accuracy, it is
+    challenging to automate. This paper presents a novel system and control
+    method using a da Vinci Research Kit (dVRK) surgical robot and a Zivid depth
+    sensor, and a human subjects study comparing performance on three variants
+    of the peg-transfer task: unilateral, bilateral without handovers, and
+    bilateral with handovers. The system combines 3D printing, depth sensing,
+    and deep learning for calibration with a new analytic inverse kinematics
+    model and a time-minimized motion controller. In a controlled study of 3384
+    peg transfer trials performed by the system, an expert surgical resident,
+    and 9 volunteers, results suggest that the system achieves accuracy on par
+    with the experienced surgical resident and is significantly faster and more
+    consistent than the surgical resident and volunteers. The system also
+    exhibits the highest consistency and lowest collision rate. To our
+    knowledge, this is the first autonomous system to achieve superhuman
+    performance on a standardized surgical task."
+  authors: Minho Hwang, Jeffrey Ichnowski, Brijen Thananjeyan, Daniel Seita, Samuel Paradis, Danyal Fer, Thomas Low, Ken Goldberg
+  award: null
+  bib: "@inproceedings{minho_superhuman_2022,\n
+    \ title = {{Automating Surgical Peg Transfer: Calibration with Deep Learning Can Exceed Speed, Accuracy, and Consistency of Humans}},\n
+    \ author = {Minho Hwang and Jeffrey Ichnowski and Brijen Thananjeyan and Daniel Seita and Samuel Paradis and Danyal Fer and Thomas Low and Ken Goldberg},\n
+    \ booktitle = {IEEE Transactions on Automation Science and Engineering (TASE)},\n
+    \ Year = {2022}\n}"
+  img: ../img/papers/TASE-surgery-cropped.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2012.12844
+    '[NYTimes]': https://www.nytimes.com/2021/04/30/technology/robot-surgery-surgeon.html
+  short_id: 2022_TASE
+  site: https://sites.google.com/view/surgicalpegtransfer
+  title: "Automating Surgical Peg Transfer: Calibration with Deep Learning Can Exceed Speed, Accuracy, and Consistency of Humans"
+  venue: Transactions on Automation Science and Engineering (T-ASE), 2022
+  video_embed: null
+  tags:
+    - deformable
+
+- abs: "This paper introduces the task of Planar Robot Casting (PRC):
+    where one planar motion of a robot arm holding one end of a cable causes the
+    other end to slide across the plane toward a desired target. PRC allows the
+    cable to reach points beyond the robot workspace and has applications for
+    cable management in homes, warehouses, and factories. To efficiently learn a
+    PRC policy for a given cable, we propose Real2Sim2Real, a self-supervised
+    framework that automatically collects physical trajectory examples to tune
+    parameters of a dynamics simulator using Differential Evolution, generates
+    many simulated examples, and then learns a policy using a weighted
+    combination of simulated and physical data. We evaluate Real2Sim2Real with
+    three simulators, Isaac Gym-segmented, Isaac Gym-hybrid, and PyBullet, two
+    function approximators, Gaussian Processes and Neural Networks (NNs), and
+    three cables with differing stiffness, torsion, and friction. Results with
+    240 physical trials suggest that the PRC policies can attain median error
+    distance (as % of cable length) ranging from 8% to 14%, outperforming
+    baselines and policies trained on only real or only simulated examples."
+  authors: Vincent Lim*, Huang Huang*, Yunliang Chen, Jonathan Wang, Jeffrey Ichnowski, Daniel Seita, Michael Laskey, Ken Goldberg
+  award: null
+  bib: "@inproceedings{lim2022planar,\n
+    \ title = {{Planar Robot Casting with Real2Sim2Real Self-Supervised Learning}},\n
+    \ author = {Vincent Lim and Huang Huang and Lawrence Yunliang Chen and Jonathan Wang and Jeffrey Ichnowski and Daniel Seita and Michael Laskey and Ken Goldberg},\n
+    \ booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},\n
+    \ year = {2022}\n}"
+  img: ../img/papers/PRC-cropped.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2111.04814
+    '[Twitter]': https://twitter.com/RavenHuang4/status/1458125568273108992
+  short_id: 2022PRC
+  site: https://sites.google.com/view/dynamic-cable
+  title: Planar Robot Casting with Real2Sim2Real Self-Supervised Learning
+  venue: International Conference on Robotics and Automation (ICRA), 2022
+  video_embed: null
+  tags:
+    - deformable
+
+- abs: "Robotic fabric manipulation has applications in home robotics, textiles,
+    senior care and surgery. Existing fabric manipulation techniques, however,
+    are designed for specific tasks, making it difficult to generalize across
+    different but related tasks. We build upon the Visual Foresight framework to
+    learn fabric dynamics that can be efficiently reused to accomplish different
+    sequential fabric manipulation tasks with a single goal-conditioned policy.
+    We extend our earlier work on VisuoSpatial Foresight (VSF), which learns
+    visual dynamics on domain randomized RGB images and depth maps
+    simultaneously and completely in simulation. In this earlier work, we
+    evaluated VSF on multi-step fabric smoothing and folding tasks against 5
+    baseline methods in simulation and on the da Vinci Research Kit (dVRK)
+    surgical robot without any demonstrations at train or test time. A key
+    finding was that depth sensing significantly improves performance: RGBD data
+    yields an 80% improvement in fabric folding success rate in simulation over
+    pure RGB data. In this work, we vary 4 components of VSF, including data
+    generation, visual dynamics model, cost function, and optimization
+    procedure. Results suggest that training visual dynamics models using
+    longer, corner-based actions can improve the efficiency of fabric folding by
+    76% and enable a physical sequential fabric folding task that VSF could not
+    previously perform with 90% reliability."
+  authors: Ryan Hoque*, Daniel Seita*, Ashwin Balakrishna, Aditya Ganapathi, Ajay Tanwani, Nawid Jamali, Katsu Yamane, Soshi Iba, Ken Goldberg
+  award: null
+  bib: "@article{fabric_vsf_2021,\n
+    \ title = {{VisuoSpatial Foresight for Physical Sequential Fabric Manipulation}},\n
+    \ author = {Ryan Hoque and Daniel Seita and Ashwin Balakrishna and Aditya Ganapathi and Ajay Tanwani and Nawid Jamali and Katsu Yamane and Soshi Iba and Ken Goldberg},\n
+    \ journal = {arXiv preprint arXiv:2102.09754},\n
+    \ Year = {2021}\n}"
+  img: ../img/papers/VSF-AURO.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2102.09754
+    '[Blog]': https://bair.berkeley.edu/blog/2020/05/05/fabrics/
+  short_id: 2021_vsf_auro
+  site: https://sites.google.com/view/fabric-vsf/
+  title: VisuoSpatial Foresight for Physical Sequential Fabric Manipulation
+  venue: "Autonomous Robots (AURO), 2021"
+  video_embed: null
+  tags: null
+
+- abs: "Corrective interventions while a robot is learning to automate a task
+    provide an intuitive method for a human supervisor to assist the robot and
+    convey information about desired behavior. However, these interventions can
+    impose significant burden on a human supervisor, as each intervention
+    interrupts other work the human is doing, incurs latency with each context
+    switch between supervisor and autonomous control, and requires time to
+    perform. We present LazyDAgger, which extends the interactive imitation
+    learning (IL) algorithm SafeDAgger to reduce context switches between
+    supervisor and autonomous control.  We find that LazyDAgger improves the
+    performance and robustness of the learned policy during both learning and
+    execution while limiting burden on the supervisor. Simulation experiments
+    suggest that LazyDAgger can reduce context switches by an average of 60%
+    over SafeDAgger on 3 continuous control tasks while maintaining
+    state-of-the-art policy performance. In physical fabric manipulation
+    experiments with an ABB YuMi robot, LazyDAgger reduces context switches by
+    60% while achieving a 60% higher success rate than SafeDAgger at execution
+    time."
+  authors: Ryan Hoque, Ashwin Balakrishna, Carl Putterman, Michael Luo, Daniel Brown, Daniel Seita, Brijen Thananjeyan, Ellen Novoseller, Ken Goldberg
+  award: null
+  bib: "@inproceedings{lazydagger_2021,\n
+    \ title = {{LazyDAgger: Reducing Context Switching in Interactive Imitation Learning}},\n
+    \ author = {Ryan Hoque and Ashwin Balakrishna and Carl Putterman and Michael Luo and Daniel S. Brown and Daniel Seita and Brijen Thananjeyan and Ellen Novoseller and Ken Goldberg},\n
+    \ booktitle = {IEEE International Conference on Automation Science and Engineering (CASE)},\n
+    \ Year = {2021}\n}"
+  img: ../img/papers/Lazy-DAgger-CASE.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2104.00053
+  short_id: 2022_LazyDAgger
+  site: https://sites.google.com/view/lazydagger/home
+  title: "LazyDAgger: Reducing Context Switching in Interactive Imitation Learning"
+  venue: International Conference on Automation Science and Engineering (CASE), 2021
+  video_embed: null
+  tags:
+    - deformable
+
+- abs: "Rearranging and manipulating deformable objects such as cables, fabrics,
+    and bags is a long-standing challenge in robotic manipulation. The complex
+    dynamics and high-dimensional configuration spaces of deformables, compared
+    to rigid objects, make manipulation difficult not only for multi-step
+    planning, but even for goal specification. Goals cannot be as easily
+    specified as rigid object poses, and may involve complex relative spatial
+    relations such as 'place the item inside the bag'. In this work, we develop
+    a suite of simulated benchmarks with 1D, 2D, and 3D deformable structures,
+    including tasks that involve image-based goal-conditioning and multi-step
+    deformable manipulation. We propose embedding goal-conditioning into
+    Transporter Networks, a recently proposed model architecture for learning
+    robotic manipulation that rearranges deep features to infer displacements
+    that can represent pick and place actions. In simulation and in physical
+    experiments, we demonstrate that goal-conditioned Transporter Networks
+    enable agents to manipulate deformable structures into flexibly specified
+    configurations without test-time visual anchors for target locations. We
+    also significantly extend prior results using Transporter Networks for
+    manipulating deformable objects by testing on tasks with 2D and 3D
+    deformables."
+  authors: Daniel Seita, Pete Florence, Jonathan Tompson, Erwin Coumans, Vikas Sindhwani, Ken Goldberg, Andy Zeng
+  award: null
+  bib: "@inproceedings{seita_bags_2021,\n
+    \ title = {{Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks}},\n
+    \ author = {Daniel Seita and Pete Florence and Jonathan Tompson and Erwin Coumans and Vikas Sindhwani and Ken Goldberg and Andy Zeng},\n
+    \ booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},\n
+    \ Year = {2021}\n}"
+  img: ../img/papers/GCTN-cropped.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2012.03385
+    '[Blog]': https://ai.googleblog.com/2021/05/learning-to-manipulate-deformable.html
+    '[Talk]': https://www.youtube.com/watch?v=pYPf3JyPnvQ&feature=youtu.be
+  short_id: 2021GCTN
+  site: https://berkeleyautomation.github.io/bags/
+  title: Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks
+  venue: International Conference on Robotics and Automation (ICRA), 2021
+  video_embed: null
+  tags:
+    - deformable
+
+- abs: "We explore how high-speed robot arm motions can dynamically manipulate
+    cables to vault over obstacles, knock objects from pedestals, and weave
+    between obstacles. In this paper, we propose a self-supervised learning
+    framework that enables a UR5 robot to perform these three tasks. The
+    framework finds a 3D apex point for the robot arm, which, together with a
+    task-specific trajectory function, defines an arcing motion that dynamically
+    manipulates the cable to perform tasks with varying obstacle and target
+    locations. The trajectory function computes minimum-jerk motions that are
+    constrained to remain within joint limits and to travel through the 3D apex
+    point by repeatedly solving quadratic programs to find the shortest and
+    fastest feasible motion. We experiment with 5 physical cables with different
+    thickness and mass and compare performance against two baselines in which a
+    human chooses the apex point.  Results suggest that a baseline with a fixed
+    apex across the three tasks achieves respective success rates of 51.7%,
+    36.7%, and 15.0%, and a baseline with human-specified, task-specific apex
+    points achieves 66.7%, 56.7%, and 15.0% success rate respectively, while the
+    robot using the learned apex point can achieve success rates of 81.7% in
+    vaulting, 65.0% in knocking, and 60.0% in weaving."
+  authors: Harry Zhang, Jeffrey Ichnowski, Daniel Seita, Jonathan Wang, Huang Huang, Ken Goldberg
+  award: null
+  bib: "@inproceedings{harry_rope_2021,\n
+    \ title = {{Robots of the Lost Arc: Self-Supervised Learning to Dynamically Manipulate Fixed-Endpoint Cables}},\n
+    \ author = {Harry Zhang and Jeff Ichnowski and Daniel Seita and Jonathan Wang and Huang Huang and Ken Goldberg},\n
+    \ booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},\n
+    \ Year = {2021}\n}"
+  img: ../img/papers/robots_lost_arc_ICRA.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2011.04840
+  short_id: 2021_robots_lost_arc
+  site: https://sites.google.com/berkeley.edu/dynrope/home
+  title: "Robots of the Lost Arc: Self-Supervised Learning to Dynamically Manipulate Fixed-Endpoint Cables"
+  venue: International Conference on Robotics and Automation (ICRA), 2021
+  video_embed: null
+  tags: null
+    - deformable
+
+- abs: "Robotic fabric manipulation is challenging due to the infinite
+    dimensional configuration space, self-occlusion, and complex dynamics of
+    fabrics. There has been significant prior work on learning policies for
+    specific deformable manipulation tasks, but comparatively less focus on
+    algorithms which can efficiently learn many different tasks. In this paper,
+    we learn visual correspondences for deformable fabrics across different
+    configurations in simulation and show that this representation can be used
+    to design policies for a variety of tasks. Given a single demonstration of a
+    new task from an initial fabric configuration, the learned correspondences
+    can be used to compute geometrically equivalent actions in a new fabric
+    configuration. This makes it possible to robustly imitate a broad set of
+    multi-step fabric smoothing and folding tasks on multiple physical robotic
+    systems. The resulting policies achieve 80.3% average task success rate
+    across 10 fabric manipulation tasks on two different robotic systems, the da
+    Vinci surgical robot and the ABB YuMi.  Results also suggest robustness to
+    fabrics of various colors, sizes, and shapes."
+  authors: Aditya Ganapathi, Priya Sundaresan, Brijen Thananjeyan, Ashwin Balakrishna, Daniel Seita, Jennifer Grannen, Minho Hwang, Ryan Hoque, Joseph Gonzalez, Nawid Jamali, Katsu Yamane, Soshi Iba, Ken Goldberg
+  award: null
+  bib: "@inproceedings{descriptors_fabrics_2021,\n
+    \ title = {{Learning Dense Visual Correspondences in Simulation to Smooth and Fold Real Fabrics}},\n
+    \ author = {Aditya Ganapathi and Priya Sundaresan and Brijen Thananjeyan and Ashwin Balakrishna and Daniel Seita and Jennifer Grannen and Minho Hwang and Ryan Hoque and Joseph Gonzalez and Nawid Jamali and Katsu Yamane and Soshi Iba and Ken Goldberg},\n
+    \ booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},\n
+    \ Year = {2021}\n}"
+  img: ../img/papers/Cloth-Descriptor-ICRA.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2003.12698
+  short_id: 2021_cloth_corresp
+  site: https://sites.google.com/view/fabric-descriptors/home
+  title: "Learning Dense Visual Correspondences in Simulation to Smooth and Fold Real Fabrics"
+  venue: International Conference on Robotics and Automation (ICRA), 2021
+  video_embed: null
+  tags: null
+    - deformable
+
+- abs: "Automation of surgical tasks using cable-driven robots is challenging
+    due to backlash, hysteresis, and cable tension, and these issues are
+    exacerbated as surgical instruments must often be changed during an
+    operation. In this work, we propose a framework for automation of
+    high-precision surgical tasks by learning sample efficient, accurate,
+    closed-loop policies that operate directly on visual feedback instead of
+    robot encoder estimates. This framework, which we call intermittent visual
+    servoing (IVS), intermittently switches to a learned visual servo policy for
+    high-precision segments of repetitive surgical tasks while relying on a
+    coarse open-loop policy for the segments where precision is not necessary.
+    To compensate for cable-related effects, we apply imitation learning to
+    rapidly train a policy that maps images of the workspace and instrument from
+    a top-down RGB camera to small corrective motions. We train the policy using
+    only 180 human demonstrations that are roughly 2 seconds each.  Results on a
+    da Vinci Research Kit suggest that combining the coarse policy with half a
+    second of corrections from the learned policy during each high-precision
+    segment improves the success rate on the Fundamentals of Laparoscopic
+    Surgery peg transfer task from 72.9% to 99.2%, 31.3% to 99.2%, and 47.2% to
+    100.0% for 3 instruments with differing cable-related effects. In the
+    contexts we studied, IVS attains the highest published success rates for
+    automated surgical peg transfer and is significantly more reliable than
+    previous techniques when instruments are changed."
+  authors: Samuel Paradis, Minho Hwang, Brijen Thananjeyan, Jeffrey Ichnowski, Daniel Seita, Danyal Fer, Thomas Low, Joseph E. Gonzalez, Ken Goldberg
+  award: null
+  bib: "@inproceedings{sam_ivs_2021,\n
+    \ title = {{Intermittent Visual Servoing: Efficiently Learning Policies Robust to Instrument Changes for High-precision Surgical Manipulation}},\n
+    \ author = {Samuel Paradis and Minho Hwang and Brijen Thananjeyan and Jeffrey Ichnowski and Daniel Seita and Danyal Fer and Thomas Low and Joseph E. Gonzalez and Ken Goldberg},\n
+    \ booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},\n
+    \ Year = {2021}\n}"
+  img: ../img/papers/IVS-cropped.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2011.06163
+  short_id: 2021IVS
+  site: https://sites.google.com/berkeley.edu/ivs/home
+  title: "Intermittent Visual Servoing: Efficiently Learning Policies Robust to Tool Changes for High-precision Surgical Manipulation"
+  venue: International Conference on Robotics and Automation (ICRA), 2021
+  video_embed: null
+  tags: null
+    - deformable
+
+- abs: "Sequential pulling policies to flatten and smooth fabrics have
+    applications from surgery to manufacturing to home tasks such as bed making
+    and folding clothes. Due to the complexity of fabric states and dynamics, we
+    apply deep imitation learning to learn policies that, given color (RGB),
+    depth (D), or combined color-depth (RGBD) images of a rectangular fabric
+    sample, estimate pick points and pull vectors to spread the fabric to
+    maximize coverage. To generate data, we develop a fabric simulator and an
+    algorithmic supervisor that has access to complete state information. We
+    train policies in simulation using domain randomization and dataset
+    aggregation (DAgger) on three tiers of difficulty in the initial randomized
+    configuration. We present results comparing five baseline policies to
+    learned policies and report systematic comparisons of RGB vs D vs RGBD
+    images as inputs. In simulation, learned policies achieve comparable or
+    superior performance to analytic baselines. In 180 physical experiments with
+    the da Vinci Research Kit (dVRK) surgical robot, RGBD policies trained in
+    simulation attain coverage of 83% to 95% depending on difficulty tier,
+    suggesting that effective fabric smoothing policies can be learned from an
+    algorithmic supervisor and that depth sensing is a valuable addition to
+    color alone."
+  authors: Daniel Seita, Aditya Ganapathi, Ryan Hoque, Minho Hwang, Edward Cen, Ajay Kumar Tanwani, Ashwin Balakrishna, Brijen Thananjeyan, Jeffrey Ichnowski, Nawid Jamali, Kastu Yamane, Soshi Iba, John Canny, Ken Goldberg
+  award: null
+  bib: "@inproceedings{seita_fabrics_2020,\n
+    \ title = {{Deep Imitation Learning of Sequential Fabric Smoothing From an Algorithmic Supervisor}},\n
+    \ author = {Daniel Seita and Aditya Ganapathi and Ryan Hoque and Minho Hwang and Edward Cen and Ajay Kumar Tanwani and Ashwin Balakrishna and Brijen Thananjeyan and Jeffrey Ichnowski and Nawid Jamali and Katsu Yamane and Soshi Iba and John Canny and Ken Goldberg},\n
+    \ booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},\n
+    \ Year = {2020}\n}"
+  img: ../img/papers/IROS-2020-cropped.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/1910.04854
+    '[Blog]': https://bair.berkeley.edu/blog/2020/05/05/fabrics/
+  short_id: 2020_gym_cloth
+  site: https://sites.google.com/view/fabric-smoothing
+  title: Deep Imitation Learning of Sequential Fabric Smoothing From an Algorithmic Supervisor
+  venue: International Conference on Intelligent Robots and Systems (IROS), 2020
+  video_embed: null
+  tags: null
+
+- abs: "Automation of surgical subtasks using cable-driven robotic surgical
+    assistants (RSAs) such as Intuitive Surgical's da Vinci Research Kit (dVRK)
+    is challenging due to imprecision in control from cable-related effects such
+    as cable stretching and hysteresis. We propose a novel approach to
+    efficiently calibrate such robots by placing a 3D printed fiducial
+    coordinate frames on the arm and end-effector that is tracked using RGBD
+    sensing. To measure the coupling and history-dependent effects between
+    joints, we analyze data from sampled trajectories and consider 13 approaches
+    to modeling. These models include linear regression and LSTM recurrent
+    neural networks, each with varying temporal window length to provide
+    compensatory feedback. With the proposed method, data collection of 1800
+    samples takes 31 minutes and model training takes under 1 minute. Results on
+    a test set of reference trajectories suggest that the trained model can
+    reduce the mean tracking error of the physical robot from 2.96 mm to 0.65
+    mm. Results on the execution of open-loop trajectories of the FLS peg
+    transfer surgeon training task suggest that the best model increases success
+    rate from 39.4% to 96.7%, producing performance comparable to that of an
+    expert surgical resident."
+  authors: Minho Hwang, Brijen Thananjeyan, Samuel Paradis, Daniel Seita, Jeffrey Ichnowski, Danyal Fer, Thomas Low, Ken Goldberg
+  award: null
+  bib: "@inproceedings{minho_calibration_2020,\n
+    \ title = {{Efficiently Calibrating Cable-Driven Surgical Robots with RGBD Fiducial Sensing and Recurrent Neural Networks}},\n
+    \ author = {Minho Hwang and Brijen Thananjeyan and Samuel Paradis and Daniel Seita and Jeffrey Ichnowski and Danyal Fer and Thomas Low and Ken Goldberg},\n
+    \ booktitle = {IEEE Robotics and Automation Letters (RA-L)},\n
+    \ Year = {2020}\n}"
+  img: ../img/papers/Minho-RAL-2020.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2003.08520
+  short_id: 2020_Minho_RAL
+  site: https://sites.google.com/view/peg-transfer
+  title: Efficiently Calibrating Cable-Driven Surgical Robots with RGBD Fiducial Sensing and Recurrent Neural Networks
+  venue: Robotics and Automation Letters (RA-L), 2020
+  video_embed: null
+  tags: null
+
+- abs: "Robotic fabric manipulation has applications in home robotics, textiles,
+    senior care and surgery. Existing fabric manipulation techniques, however,
+    are designed for specific tasks, making it difficult to generalize across
+    different but related tasks. We extend the Visual Foresight framework to
+    learn fabric dynamics that can be efficiently reused to accomplish different
+    fabric manipulation tasks with a single goal-conditioned policy. We
+    introduce VisuoSpatial Foresight (VSF), which builds on prior work by
+    learning visual dynamics on domain randomized RGB images and depth maps
+    simultaneously and completely in simulation. We experimentally evaluate VSF
+    on multi-step fabric smoothing and folding tasks against 5 baseline methods
+    in simulation and on the da Vinci Research Kit (dVRK) surgical robot without
+    any demonstrations at train or test time. Furthermore, we find that
+    leveraging depth significantly improves performance. RGBD data yields an 80%
+    improvement in fabric folding success rate over pure RGB data."
+  authors: Ryan Hoque*, Daniel Seita*, Ashwin Balakrishna, Aditya Ganapathi, Ajay Tanwani, Nawid Jamali, Katsu Yamane, Soshi Iba, Ken Goldberg
+  award: null
+  bib: "@inproceedings{fabric_vsf_2020,\n
+    \ title = {{VisuoSpatial Foresight for Multi-Step, Multi-Task Fabric Manipulation}},\n
+    \ author = {Ryan Hoque and Daniel Seita and Ashwin Balakrishna and Aditya Ganapathi and Ajay Tanwani and Nawid Jamali and Katsu Yamane and Soshi Iba and Ken Goldberg},\n
+    \ booktitle = {Robotics: Science and Systems (RSS)},\n
+    \ Year = {2020}\n}"
+  img: ../img/papers/VSF-RSS.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2003.09044
+    '[Blog]': https://bair.berkeley.edu/blog/2020/05/05/fabrics/
+  short_id: 2020_vsf_rss
+  site: https://sites.google.com/view/fabric-vsf/
+  title: VisuoSpatial Foresight for Multi-Step, Multi-Task Fabric Manipulation
+  venue: "Robotics: Science and Systems (RSS), 2020"
+  video_embed: null
+  tags: null
+
+- abs: "Recent advances in depth-sensing have significantly increased accuracy,
+    resolution, and frame rate, as shown in the 1920x1200 resolution and 13
+    frames per second Zivid RGBD camera. In this study, we explore the potential
+    of depth sensing for efficient and reliable automation of surgical subtasks.
+    We consider a monochrome (all red) version of the peg transfer task from the
+    Fundamentals of Laparoscopic Surgery training suite implemented with the da
+    Vinci Research Kit (dVRK). We use calibration techniques that allow the
+    imprecise, cable-driven da Vinci to reduce error from 4-5 mm to 1-2 mm in
+    the task space. We report experimental results for a handover-free version
+    of the peg transfer task, performing 20 and 5 physical episodes with single-
+    and bilateral-arm setups, respectively. Results over 236 and 49 total block
+    transfer attempts for the single- and bilateral-arm peg transfer cases
+    suggest that reliability can be attained with 86.9 % and 78.0 % for each
+    individual block, with respective block transfer speeds of 10.02 and 5.72
+    seconds."
+  authors: Minho Hwang*, Daniel Seita*, Brijen Thananjeyan, Jeff Ichnowski, Samuel Paradis,  Danyal Fer, Thomas Low, Ken Goldberg
+  award: null
+  bib: "@inproceedings{minho_pegs_2020,\n
+    \ title = {{Applying Depth-Sensing to Automated Surgical Manipulation with a da Vinci Robot}},\n
+    \ author = {Minho Hwang and Daniel Seita and Brijen Thananjeyan and Jeffrey Ichnowski and Samuel Paradis and Danyal Fer and Thomas Low and Ken Goldberg},\n
+    \ booktitle = {International Symposium on Medical Robotics (ISMR)},\n
+    \ Year = {2020}\n}"
+  img: ../img/papers/ismr_pegs.png
+  links:
+    '[arXiv]': https://arxiv.org/abs/2002.06302
+  short_id: 2020ismr
+  site: https://sites.google.com/view/peg-transfer
+  title: Applying Depth-Sensing to Automated Surgical Manipulation with a da Vinci Robot
+  venue: International Symposium on Medical Robotics (ISMR), 2020
+  video_embed: null
+  tags: null
+
+- abs: "A fundamental challenge in manipulating fabric for clothes folding and
+    textiles manufacturing is computing 'pick points' to effectively modify the
+    state of an uncertain manifold. We present a supervised deep transfer
+    learning approach to locate pick points using depth images for invariance to
+    color and texture. We consider the task of bed-making, where a robot
+    sequentially grasps and pulls at pick points to increase blanket coverage.
+    We perform physical experiments with two mobile manipulator robots, the
+    Toyota HSR and the Fetch, and three blankets of different colors and
+    textures. We compare coverage results from (1) human supervision, (2) a
+    baseline of picking at the uppermost blanket point, and (3) learned pick
+    points. On a quarter-scale twin bed, a model trained with combined data from
+    the two robots achieves 92% blanket coverage compared with 83% for the
+    baseline and 95% for human supervisors. The model transfers to two novel
+    blankets and achieves 93% coverage. Average coverage results of 92% for 193
+    beds suggest that transfer-invariant robot pick points on fabric can be
+    effectively learned."
+  authors: Daniel Seita*, Nawid Jamali*, Michael Laskey*, Ron Berenstein, Ajay Tanwani, Prakash Baskaran, Soshi Iba, John Canny, Ken Goldberg
+  award: null
+  bib: "@inproceedings{seita_bedmake_2019,\n
+    \ title = {{Deep Transfer Learning of Pick Points on Fabric for Robot Bed-Making}},\n
+    \ author = {Daniel Seita and Nawid Jamali and Michael Laskey and Ron Berenstein and Ajay Kumar Tanwani and Prakash Baskaran and Soshi Iba and John Canny and Ken Goldberg},\n
+    \ booktitle = {International Symposium on Robotics Research (ISRR)},\n
+    \ Year = {2019}\n}"
+  img: ../img/papers/Bed-Make-ISRR.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/1809.09810
+    '[Blog]': https://bair.berkeley.edu/blog/2018/10/23/depth-sensing/
+  short_id: 2019_bedmake
+  site: https://sites.google.com/view/bed-make/
+  title: "Deep Transfer Learning of Pick Points on Fabric for Robot Bed-Making"
+  venue: International Symposium on Robotics Research (ISRR), 2019
+  video_embed: null
+  tags: null
+
+- abs: "Deep reinforcement learning has recently made significant progress in
+    solving computer games and robotic control tasks. A known problem, though,
+    is that policies overfit to the training environment and may not avoid rare,
+    catastrophic events such as automotive accidents. A classical technique for
+    improving the robustness of reinforcement learning algorithms is to train on
+    a set of randomized environments, but this approach only guards against
+    common situations. Recently, robust adversarial reinforcement learning
+    (RARL) was developed, which allows efficient applications of random and
+    systematic perturbations by a trained adversary. A limitation of RARL is
+    that only the expected control objective is optimized; there is no explicit
+    modeling or optimization of risk. Thus the agents do not consider the
+    probability of catastrophic events (i.e., those inducing abnormally large
+    negative reward), except through their effect on the expected objective. In
+    this paper we introduce risk-averse robust adversarial reinforcement
+    learning (RARARL), using a risk-averse protagonist and a risk-seeking
+    adversary. We test our approach on a self-driving vehicle controller. We use
+    an ensemble of policy networks to model risk as the variance of value
+    functions. We show through experiments that a risk-averse agent is better
+    equipped to handle a risk-seeking adversary, and experiences substantially
+    fewer crashes compared to agents trained without an adversary."
+  authors: Xinlei Pan, Daniel Seita, Yang Gao, John Canny
+  award: null
+  bib: "@inproceedings{xinlei_icra_2019,\n
+    \ title = {{Risk Averse Robust Adversarial Reinforcement Learning}},\n
+    \ author = {Xinlei Pan and Daniel Seita and Yang Gao and John Canny},\n
+    \ booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},\n
+    \ Year = {2019}\n}"
+  img: ../img/papers/rararl.png
+  links:
+    '[arXiv]': https://arxiv.org/abs/1904.00511
+  short_id: 2019rararl
+  site: https://sites.google.com/view/rararl
+  title: Risk Averse Robust Adversarial Reinforcement Learning
+  venue: International Conference on Robotics and Automation (ICRA), 2019
+  video_embed: null
+  tags: null
+
+- abs: "Automating precision subtasks such as debridement (removing dead or
+    diseased tissue fragments) with Robotic Surgical Assistants (RSAs) such as
+    the da Vinci Research Kit (dVRK) is challenging due to inherent
+    non-linearities in cable-driven systems. We propose and evaluate a novel
+    two-phase coarse-to-fine calibration method. In Phase I (coarse), we place a
+    red calibration marker on the end effector and let it randomly move through
+    a set of open-loop trajectories to obtain a large sample set of camera
+    pixels and internal robot end-effector configurations. This coarse data is
+    then used to train a Deep Neural Network (DNN) to learn the coarse
+    transformation bias. In Phase II (fine), the bias from Phase I is applied to
+    move the end-effector toward a small set of specific target points on a
+    printed sheet. For each target, a human operator manually adjusts the
+    end-effector position by direct contact (not through teleoperation) and the
+    residual compensation bias is recorded. This fine data is then used to train
+    a Random Forest (RF) to learn the fine transformation bias. Subsequent
+    experiments suggest that without calibration, position errors average
+    4.55mm. Phase I can reduce average error to 2.14mm and the combination of
+    Phase I and Phase II can reduces average error to 1.08mm. We apply these
+    results to debridement of raisins and pumpkin seeds as fragment phantoms.
+    Using an endoscopic stereo camera with standard edge detection, experiments
+    with 120 trials achieved average success rates of 94.5%, exceeding prior
+    results with much larger fragments (89.4%) and achieving a speedup of 2.1x,
+    decreasing time per fragment from 15.8 seconds to 7.3 seconds."
+  authors: Daniel Seita, Sanjay Krishnan, Roy Fox, Stephen McKinley, John Canny, Ken Goldberg
+  award: null
+  bib: "@inproceedings{seita_icra_2018,\n
+    \ title = {{Fast and Reliable Autonomous Surgical Debridement with Cable-Driven Robots Using a Two-Phase Calibration Procedure}},\n
+    \ author = {Daniel Seita and Sanjay Krishnan and Roy Fox and Stephen McKinley and John Canny and Kenneth Goldberg},\n
+    \ booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},\n
+    \ Year = {2018}\n}"
+  img: ../img/papers/debridement.png
+  links:
+    '[arXiv]': https://arxiv.org/abs/1709.06668
+  short_id: 2018debridement
+  site: https://sites.google.com/view/calib-icra/
+  title: Fast and Reliable Autonomous Surgical Debridement with Cable-Driven Robots Using a Two-Phase Calibration Procedure
+  venue: International Conference on Robotics and Automation (ICRA), 2018
+  video_embed: null
+  tags: null
+
+- abs: "We present a novel Metropolis-Hastings method for large datasets that uses
+    small expected-size minibatches of data. Previous work on reducing the cost
+    of Metropolis-Hastings tests yield variable data consumed per sample, with
+    only constant factor reductions versus using the full dataset for each
+    sample. Here we present a method that can be tuned to provide arbitrarily
+    small batch sizes, by adjusting either proposal step size or temperature.
+    Our test uses the noise-tolerant Barker acceptance test with a novel
+    additive correction variable. The resulting test has similar cost to a
+    normal SGD update. Our experiments demonstrate several order-of-magnitude
+    speedups over previous work."
+  authors: Daniel Seita, Xinlei Pan, Haoyu Chen, John Canny
+  award: Honorable Mention for Best Student Paper
+  bib: "@inproceedings{seita_uai_2017,\n
+    \ title = {{An Efficient Minibatch Acceptance Test for Metropolis-Hastings}},\n
+    \ author = {Seita, Daniel and Pan, Xinlei and Chen, Haoyu and Canny, John},\n
+    \ booktitle = {Conference on Uncertainty in Artificial Intelligence (UAI)},\n
+    \ year = {2017}\n}"
+  img: ../img/papers/minibatch-mh.png
+  links:
+    '[arXiv]': https://arxiv.org/abs/1610.06848
+    '[Blog]': https://bair.berkeley.edu/blog/2017/08/02/minibatch-metropolis-hastings/
+  short_id: 2017efficientMH
+  site: https://arxiv.org/abs/1610.06848
+  title: An Efficient Minibatch Acceptance Test for Metropolis-Hastings
+  venue: Uncertainty in Artificial Intelligence (UAI), 2017
+  video_embed: null
+  tags: null
+
+- abs: "The robustness of a parallel-jaw grasp can be estimated by Monte Carlo
+    sampling of perturbations in pose and friction but this is not
+    computationally efficient. As an alternative, we consider fast methods using
+    large-scale supervised learning, where the input is a description of a local
+    surface patch at each of two contact points. We train and test with disjoint
+    subsets of a corpus of 1.66 million grasps where robustness is estimated by
+    Monte Carlo sampling using Dex-Net 1.0. We use the BIDMach machine learning
+    toolkit to compare the performance of two supervised learning methods:
+    Random Forests and Deep Learning. We find that both of these methods learn
+    to estimate grasp robustness fairly reliably in terms of Mean Absolute Error
+    (MAE) and ROC Area Under Curve (AUC) on a held-out test set. Speedups over
+    Monte Carlo sampling are approximately 7500x for Random Forests and 1500x
+    for Deep Learning."
+  authors: Daniel Seita, Florian T. Pokorny, Jeffrey Mahler, Danica Kragic, Michael Franklin, John Canny, Ken Goldberg
+  award: null
+  bib: "@inproceedings{seita_simpar_2016,\n
+    \ title = {{Large-Scale Supervised Learning of the Grasp Robustness of Surface Patch Pairs}},\n
+    \ author = {Daniel Seita and Florian T. Pokorny and Jeffrey Mahler and Danica Kragic and Michael Franklin and John Canny and Ken Goldberg},\n
+    \ booktitle = {IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR)},\n
+    \ Year = {2016}\n}"
+  img: ../img/papers/simpar.png
+  links:
+    '[PDF]': https://www.cs.cmu.edu/~dseita/data/daniel_seita_simpar_camera_ready_oct2016.pdf
+  short_id: 2016simpar
+  site: https://www.cs.cmu.edu/~dseita/data/daniel_seita_simpar_camera_ready_oct2016.pdf
+  title: Large-Scale Supervised Learning of the Grasp Robustness of Surface Patch Pairs
+  venue: International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR), 2016
+  video_embed: null
+  tags: null
