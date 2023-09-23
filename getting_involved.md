@@ -31,7 +31,7 @@ and a *range* of available times.
 ## Masters and Undergraduate Students at USC
 
 Please fill out
-[the following application](https://docs.google.com/forms/d/e/1FAIpQLSc0GzWxX3vGoNFGGHwIk-2SjCAO6npQzN7WsVJjaUfymiEDiA/viewform?usp=sf_link).
+[the following application](https://docs.google.com/forms/d/e/1FAIpQLSc0GzWxX3vGoNFGGHwIk-2SjCAO6npQzN7WsVJjaUfymiEDiA/viewform?usp=sf_link). We will reach out to you if we decide to interview you.
 
 ## Postdocs
 
@@ -41,6 +41,5 @@ consider options.
 
 ## External Visitors not at USC
 
-I may be able to eventually support visiting students or potential internships
-from students not currently at USC. However, I am prioritizing collaborations
-with people who are already at USC.
+I may eventually be able to work with external visitors who are not currently
+at USC, but I expect this to be a very rare circumstance.
