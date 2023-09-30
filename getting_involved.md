@@ -5,33 +5,48 @@ title: Getting Involved
 ---
 
 Thank you for your interest in our research! See below for how you can get
-involved. This information is accurate as of **September 2023**.
+involved. This information is accurate as of **October 2023**.
 
-If you have additional questions after reading the below and want to get
-involved, feel free to email me. Depending on the volume of email, I may be slow
-to respond. I encourage you to read [Yonatan Bisk's FAQ](https://yonatanbisk.com/emailing_professors.html)
-about emailing professors. 
-
+If you have additional questions after reading the below and want to get involved, feel free to email me. 
 My contact information is [available on my website](https://danielseita.github.io/).
+Depending on the volume of email, I may be slow to respond. 
+I encourage you to read [Yonatan Bisk's FAQ](https://yonatanbisk.com/emailing_professors.html) about emailing professors. 
 
 ## PhD Students
 
-I am expecting to hire at least 3 PhD students to start in Fall 2024. Please apply
+*I am expecting to hire 4-5 PhD students to start in Fall 2024*. Please apply
 to USC for a PhD program and indicate my name in your application. My home
 department is [computer science](https://www.cs.usc.edu/), though I am open to
-co-advising students from other departments. There is no need to email me as
-part of this application process. I will make sure to carefully check
-applications which list my name as a potential PhD advisor.
+co-advising students from other departments (as well as co-advising within
+computer science). There is no need to email me as part of this application
+process. I will make sure to carefully check applications which list my name as
+a potential PhD advisor. Please also check out my [advising statement](#advising-statement).
 
-If you are a PhD student already at USC and interested in collaborating with me
-in any capacity, feel free to email me to schedule a time to chat. To reduce
-back-and-forth emails, please clearly indicate *what* you would like to discuss
-and a *range* of available times.
+I just joined USC in Fall 2023 and am excited to be starting a new lab. I am
+especially interested in hiring students with the following experience, skills,
+or criteria:
+
+- who have significant experience in deep learning and reinforcement learning.
+- who have built, fixed, and engineered robotics hardware.
+- who have implemented robotics or physics simulators.
+- who have applied robotics to fields such as agriculture and health care.
+- who come from underrepresented, non-traditional, and/or low-income
+backgrounds, but who have reasonably "maxed out" their available resources to
+learn about robotics and machine learning.
+
+I think this is a great time to be working in robotics. We have a wonderful (and
+growing) [robotics group at USC][3]. Furthermore, the computer science
+department will have a [brand new building][4] ready in 2024 for us!
+
+If you are a PhD student already at USC and interested in collaborating with me,
+feel free to email me to schedule a time to chat. To reduce back-and-forth
+emails, please clearly indicate *what* you would like to discuss and a *range*
+of available times.
 
 ## Masters and Undergraduate Students at USC
 
-Please fill out
-[the following application](https://docs.google.com/forms/d/e/1FAIpQLSc0GzWxX3vGoNFGGHwIk-2SjCAO6npQzN7WsVJjaUfymiEDiA/viewform?usp=sf_link). We will reach out to you if we decide to interview you.
+Please fill out [the following application][1].
+We will reach out to you if we decide to interview you.
 
 ## Postdocs
 
@@ -43,3 +58,29 @@ consider options.
 
 I may eventually be able to work with external visitors who are not currently
 at USC, but I expect this to be a very rare circumstance.
+
+
+## Advising Statement
+
+Here is my brief perspective on advising.
+
+- I want to work on high-impact problems in robotics, and especially robotic
+manipulation. Whenever possible, projects and/or papers should show a real world
+demonstration of a robot adjusting its environment. I am less interested in
+projects which eke out small improvements on benchmarks.
+- I am a very hands-on advisor who actively works closely with all lab members.
+I am available for regular or impromptu in-person meetings, and am available on
+the lab's Slack for additional communication.
+- I want my students to be successful and will support academic, industry, or
+other career paths.
+- I will follow a code of conduct which includes an anti-harassment policy.
+I share the policy with lab members and ask that they follow it as well.
+- Students should feel welcomed to challenge me. If a lab policy is not working,
+or if my research suggestion does not make sense, say so.
+
+If this all sounds good, please apply to work with me!
+
+
+[1]:https://docs.google.com/forms/d/e/1FAIpQLSc0GzWxX3vGoNFGGHwIk-2SjCAO6npQzN7WsVJjaUfymiEDiA/viewform?usp=sf_link
+[3]:https://rasc.usc.edu/
+[4]:https://viterbischool.usc.edu/ginsburghall/
