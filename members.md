@@ -18,9 +18,9 @@ members:
     list:
       - full: true
         list:
-          - name: To Be Decided
-            photo_url: /img/USC_Slogan.png
-            web_url: https://slurm-lab.github.io/
+          - name: Vishesh Mittal
+            photo_url: /img/VisheshMittal.png
+            web_url: https://vishesh-mittal.github.io/
           - name: To Be Decided
             photo_url: /img/USC_Slogan.png
             web_url: https://slurm-lab.github.io/
