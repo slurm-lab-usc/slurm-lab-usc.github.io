@@ -14,7 +14,7 @@ I encourage you to read [Yonatan Bisk's FAQ](https://yonatanbisk.com/emailing_pr
 
 ## PhD Students
 
-*I am expecting to hire 4-5 PhD students to start in Fall 2024*. Please apply
+*I am expecting to hire about 3 PhD students to start in Fall 2024*. Please apply
 to USC for a PhD program and indicate my name in your application. My home
 department is [computer science](https://www.cs.usc.edu/), though I am open to
 co-advising students from other departments (as well as co-advising within
