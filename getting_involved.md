@@ -75,7 +75,9 @@ the lab's Slack for additional communication.
   other career paths. I will regularly discuss with students about how to
   facilitate their career growth.
 - I will follow a code of conduct which includes an anti-harassment policy.
-I share the policy with lab members and ask that they follow it as well.
+I share the policy with lab members and ask that they follow it as well. As per
+the policy, if you meet with me, you can expect me to conduct myself
+professionally in our interactions both within the lab and outside of it.
 - Students should feel welcomed to challenge me. If a lab policy is not working,
 or if my research suggestion does not make sense, say so.
 
