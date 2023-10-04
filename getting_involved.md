@@ -72,7 +72,8 @@ projects which eke out small improvements on benchmarks.
 I am available for regular or impromptu in-person meetings, and am available on
 the lab's Slack for additional communication.
 - I want my students to be successful and will support academic, industry, or
-other career paths.
+  other career paths. I will regularly discuss with students about how to
+  facilitate their career growth.
 - I will follow a code of conduct which includes an anti-harassment policy.
 I share the policy with lab members and ask that they follow it as well.
 - Students should feel welcomed to challenge me. If a lab policy is not working,
