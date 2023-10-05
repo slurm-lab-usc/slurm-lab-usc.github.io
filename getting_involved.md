@@ -26,7 +26,8 @@ I just joined USC in Fall 2023 and am excited to be starting a new lab. I am
 especially interested in hiring students with the following experience, skills,
 or criteria:
 
-- who have significant experience in deep learning and reinforcement learning.
+- who have significant experience in deep learning, reinforcement learning, and
+  vision-language (foundation) models.
 - who have built, fixed, and engineered robotics hardware.
 - who have implemented robotics or physics simulators.
 - who have applied robotics to fields such as agriculture and health care.
