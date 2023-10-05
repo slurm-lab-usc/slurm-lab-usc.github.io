@@ -69,6 +69,8 @@ Here is my brief perspective on advising.
 manipulation. Whenever possible, projects and/or papers should show a real world
 demonstration of a robot adjusting its environment. I am less interested in
 projects which eke out small improvements on benchmarks.
+- Unless we are legally forbidden from doing so, all papers/projects will have code,
+  data, and other supplementary material available to help with reproducing results.
 - I am a very hands-on advisor who actively works closely with all lab members.
 I am available for regular or impromptu in-person meetings, and am available on
 the lab's Slack for additional communication.
