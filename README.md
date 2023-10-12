@@ -24,9 +24,14 @@ Configuration file: /home/seita/slurm-lab-usc.github.io/_config.yml
 ```
 
 And you should be able to access the website locally by going to
-http://127.0.0.1:4000 in your web browser. If you are updating this website,
-make changes locally and preview to make sure it is correct. **Then submit a pull
-request. Do NOT submit it directly to the `main` branch.**
+http://127.0.0.1:4000 in your web browser. 
+
+If you are updating this website, make changes locally and preview to make sure
+it is correct. **Then submit a pull request. Do NOT submit it directly to the
+`main` branch.**
+
+For adding photos, please add them to the `img/people` folder. Please also make
+them roughly in "portrait" mode in a 1.5:1 ratio.
 
 
 # References
