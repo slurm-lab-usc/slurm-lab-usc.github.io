@@ -19,7 +19,7 @@ members:
       - full: true
         list:
           - name: Vishesh Mittal
-            photo_url: /img/VisheshMittal.png
+            photo_url: /img/people/VisheshMittal.jpg
             web_url: https://vishesh-mittal.github.io/
           - name: To Be Decided
             photo_url: /img/USC_Slogan.png
