@@ -32,8 +32,9 @@ You can also find publications on <a href="https://scholar.google.com/citations?
 
 **Workshop Papers**
 
+<!--Daniel: uses the same pub.html, but a different data.workshop_pubs -->
 <table cellpadding="10" width="100%">
     {% for pub in site.data.workshop_pubs %}
-        {% include workshop_pub.html %}
+        {% include pub.html %}
     {% endfor %}
 </table>
