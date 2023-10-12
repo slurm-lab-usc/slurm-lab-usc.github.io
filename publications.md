@@ -25,3 +25,15 @@ You can also find publications on <a href="https://scholar.google.com/citations?
     {% for pub in site.data.pubs %}
         {% include pub.html %}
     {% endfor %}
+</table>
+
+<!-- Daniel: doing this to add a separate workshop publication section. -->
+<div style="height: 40px;"></div>
+
+**Workshop Papers**
+
+<table cellpadding="10" width="100%">
+    {% for pub in site.data.workshop_pubs %}
+        {% include workshop_pub.html %}
+    {% endfor %}
+</table>

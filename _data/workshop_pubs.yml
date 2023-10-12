@@ -1,0 +1,48 @@
+# When making a new entry, copy the commented out entry, paste it, uncomment, and fill out the fields.
+# If any of the fields are confusing look at previous examples for guidance.
+#- abs: null
+#  authors: null
+#  award: null
+#  bib: null
+#  img: null
+#  links: {}
+#  short_id: null
+#  site: null
+#  title: null
+#  venue: null
+#  video_embed: null
+#  tags: null
+# Current tags for research areas, see the research areas page for more details:
+# deform_obj_manip, 3D_afford_obj_manip, multimodal, rl_algs, auto_driving, active_perception, self_sup_rob
+
+- abs: Rearranging and manipulating highly deformable bags is common in daily
+    life, such as when we put food in grocery bags or papers in backpacks or
+    garbage in trash bags. In contrast to rigid object manipulation, manipulating
+    deformable objects is challenging for robots due to complex object
+    configurations and dynamics. Furthermore, the task of manipulating highly
+    deformable bags introduces extra complexities due to reasoning about
+    3-dimensional space. In this work, we consider a novel task of grasping and
+    lifting physical bags to contain items. Using a bimanual ABB YuMi robot we
+    test three grasping methods, where positions are determined via a human, a
+    random baseline, and a baseline based on grasping the leftmost and rightmost
+    points of the bag (``Maximum Width''). Across experiments where the YuMi
+    grasps and lift bags to contain a fabric and a cable, we perform 15 trials for
+    each method. Results demonstrate that the human has the best success rates
+    (14/15), followed by Maximum Width (10/15) and then random (5/15).
+  authors: Daniel Seita, Justin Kerr, John Canny, Ken Goldberg
+  award: null
+  bib: "@inproceedings{initial_results_bags_2021,\n
+    \ title={{Initial Results on Grasping and Lifting Physical Deformable Bags with a Bimanual Robot}},\n
+    \ author={Daniel Seita and Justin Kerr and John Canny and Ken Goldberg},\n
+    \ booktitle={IROS Workshop on Deformable Object Manipulation},\n
+    \ year={2021}\n}"
+  img: ../img/papers/init_results_bags_283x150.gif
+  links:
+    '[PDF]': ../assets/papers/Seita_Physical-Bag-Manipulation_Sept05_final.pdf
+  short_id: 2021_bag_initial
+  site: https://sites.google.com/view/physical-bags/home
+  title: "Initial Results on Grasping and Lifting Physical Deformable Bags with a Bimanual Robot"
+  venue: Workshop at International Conference on Intelligent Robots and Systems (IROS), 2021
+  video_embed: null
+  tags:
+    - deformable
