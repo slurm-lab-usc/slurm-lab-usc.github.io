@@ -31,8 +31,7 @@ it is correct. **Then submit a pull request. Do NOT submit it directly to the
 `main` branch.**
 
 For adding photos, please add them to the `img/people` folder. Please also make
-them roughly in "portrait" mode in a 1.5-to-1 ratio, so that the photo is about
-1.5x "taller" than it is wide.
+them equal in height and width ratio (i.e., the image is "square").
 
 
 # References
