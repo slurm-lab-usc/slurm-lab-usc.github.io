@@ -47,7 +47,7 @@ members:
       - full: true
         list:
           - name: Daniel Seita
-            photo_url: https://danielseita.github.io/images/photos/Daniel_DTLA_Aug_2023.png
+            photo_url: /img/people/Daniel_2023_square.png
             web_url: https://danielseita.github.io/
 
   - name: <a name="alumni"></a>Alumni
