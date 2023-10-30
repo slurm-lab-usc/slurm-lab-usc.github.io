@@ -24,7 +24,7 @@ navbar-links:
   Members: "members"
   #Research Areas: "areas"  # TODO(daniel): get this done later
   Publications: "publications"
-  Getting Invovled: "getting_involved"
+  Getting Involved: "getting_involved"
   # About Me: "aboutme"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
