@@ -31,7 +31,8 @@ it is correct. **Then submit a pull request. Do NOT submit it directly to the
 `main` branch.**
 
 For adding photos, please add them to the `img/people` folder. Please also make
-them equal in height and width ratio (i.e., the image is "square").
+them equal in height and width ratio (i.e., the image is "square"). I recommend
+photos that are about 1MB or smaller in size.
 
 
 # References

@@ -24,15 +24,6 @@ members:
           - name: Vedant Raval
             photo_url: /img/people/VedantRaval.jpeg
             web_url: https://www.linkedin.com/in/vedantraval23/
-          - name: To Be Decided
-            photo_url: /img/USC_Slogan.png
-            web_url: https://slurm-lab.github.io/
-          - name: To Be Decided
-            photo_url: /img/USC_Slogan.png
-            web_url: https://slurm-lab.github.io/
-          - name: To Be Decided
-            photo_url: /img/USC_Slogan.png
-            web_url: https://slurm-lab.github.io/
 
   - name: Undergraduate Students
     list:
