@@ -5,7 +5,7 @@ title: Getting Involved
 ---
 
 Thank you for your interest in our research! See below for how you can get
-involved. This information is accurate as of **October 2023**.
+involved. This information is accurate as of **November 2023**.
 
 If you have additional questions after reading the below and want to get involved, feel free to email me. 
 My contact information is [available on my website](https://danielseita.github.io/).
