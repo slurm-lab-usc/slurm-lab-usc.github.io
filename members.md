@@ -24,6 +24,9 @@ members:
           - name: Vedant Raval
             photo_url: /img/people/VedantRaval.jpeg
             web_url: https://www.linkedin.com/in/vedantraval23/
+          - name: Anupam Patil
+            photo_url: /img/people/AnupamPatil.jpeg
+            web_url: https://www.linkedin.com/in/anupam-patil-114b841b0/
 
   - name: Undergraduate Students
     list:
