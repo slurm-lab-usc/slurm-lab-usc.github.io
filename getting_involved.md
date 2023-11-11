@@ -69,23 +69,28 @@ at USC, but I expect this to be a very rare circumstance.
 Here is my brief perspective on advising.
 
 - I want to work on high-impact problems in robotics, and especially robotic
-manipulation. Whenever possible, projects and/or papers should show a real world
-demonstration of a robot adjusting its environment. I am less interested in
-projects which eke out small improvements on benchmarks.
-- Unless we are legally forbidden from doing so, all papers/projects will have code,
-  data, and other supplementary material available to help with reproducing results.
+  manipulation. Whenever possible, projects and/or papers should show a real
+  world demonstration of a robot adjusting its environment. I am less
+  interested in projects which eke out small improvements on benchmarks. 
+- For presenting research, our target conferences are ICRA, IROS, RSS, and
+  CoRL, though we will consider other venues as appropriate (such as machine
+  learning conferences).
+- Unless we are legally forbidden from doing so, all papers/projects will have
+  code, data, and other supplementary material available to help with
+  reproducing results.
 - I am a very hands-on advisor who actively works closely with all lab members.
-I am available for regular or impromptu in-person meetings, and am available on
-the lab's Slack for additional communication.
+  I am available for regular or impromptu in-person meetings, and am available
+  on the lab's Slack for additional communication.
 - I want my students to be successful and will support academic, industry, or
   other career paths. I will regularly discuss with students about how to
-  facilitate their career growth.
+  facilitate their career growth. I encourage PhD students to have 1-3
+  internships at top industry labs.
 - I will follow a code of conduct which includes an anti-harassment policy.
-I share the policy with lab members and ask that they follow it as well. As per
-the policy, if you meet with me, you can expect me to conduct myself
-professionally in our interactions both within the lab and outside of it.
+  I share the policy with lab members and ask that they follow it as well. As
+  per the policy, if you meet with me, you can expect me to conduct myself
+  professionally in our interactions both within the lab and outside of it.
 - Students should feel welcomed to challenge me. If a lab policy is not working,
-or if my research suggestion does not make sense, say so.
+  or if my research suggestion does not make sense, say so.
 
 If this all sounds good, please apply to work with me!
 
