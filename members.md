@@ -9,7 +9,7 @@ members:
         list:
           - name: To Be Decided
             photo_url: /img/USC_Slogan.png
-            web_url: https://slurm-lab.github.io/
+            web_url: https://slurm-lab-usc.github.io/
 
   - name: Master's Students
     list:
@@ -23,13 +23,13 @@ members:
             web_url: https://www.linkedin.com/in/anupam-patil-114b841b0/
           - name: Dhanush Penmetsa
             photo_url: /img/USC_Slogan.png
-            web_url: https://slurm-lab.github.io/
+            web_url: https://slurm-lab-usc.github.io/
           - name: Vedant Raval
             photo_url: /img/people/VedantRaval.jpeg
             web_url: https://www.linkedin.com/in/vedantraval23/
           - name: Yuhai Wang
             photo_url: /img/USC_Slogan.png
-            web_url: https://slurm-lab.github.io/
+            web_url: https://slurm-lab-usc.github.io/
 
   - name: Undergraduate Students
     list:
@@ -37,10 +37,10 @@ members:
         list:
           - name: Hao Jiang
             photo_url: /img/USC_Slogan.png
-            web_url: https://slurm-lab.github.io/
+            web_url: https://slurm-lab-usc.github.io/
           - name: Emily Zhu
             photo_url: /img/USC_Slogan.png
-            web_url: https://slurm-lab.github.io/
+            web_url: https://slurm-lab-usc.github.io/
 
   - name: Faculty
     list:
