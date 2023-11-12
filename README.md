@@ -28,7 +28,7 @@ http://127.0.0.1:4000 in your web browser.
 
 If you are updating this website, make changes locally and preview to make sure
 it is correct. **Then submit a pull request. Do NOT submit it directly to the
-`main` branch.**
+`main` branch.** You can do this by making a fork of this repository.
 
 For adding photos, please add them to the `img/people` folder. Please also make
 them equal in height and width ratio (i.e., the image is "square"). I recommend
