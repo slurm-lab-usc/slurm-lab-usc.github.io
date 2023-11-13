@@ -69,9 +69,10 @@ at USC, but I expect this to be a very rare circumstance.
 Here is my brief perspective on advising.
 
 - I want to work on high-impact problems in robotics, and especially robotic
-  manipulation. Whenever possible, projects and/or papers should show a real
-  world demonstration of a robot adjusting its environment. I am less
-  interested in projects which eke out small improvements on benchmarks. 
+  manipulation. Whenever possible, projects and/or papers should show *many*
+  real world examples of a robot adjusting its environment (including successes
+  *and* failures). I am less interested in projects which eke out small
+  improvements on benchmarks. 
 - For presenting research, our target conferences are ICRA, IROS, RSS, and
   CoRL, though we will consider other venues as appropriate (such as machine
   learning conferences).
