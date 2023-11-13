@@ -28,8 +28,8 @@ members:
             photo_url: /img/people/VedantRaval.jpeg
             web_url: https://www.linkedin.com/in/vedantraval23/
           - name: Yuhai Wang
-            photo_url: /img/USC_Slogan.png
-            web_url: https://slurm-lab-usc.github.io/
+            photo_url: /img/people/Yuhai.jpg
+            web_url: https://yuhaiw.github.io/
 
   - name: Undergraduate Students
     list:
