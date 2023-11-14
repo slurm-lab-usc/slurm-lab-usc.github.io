@@ -39,8 +39,8 @@ members:
             photo_url: /img/USC_Slogan.png
             web_url: https://slurm-lab-usc.github.io/
           - name: Emily Zhu
-            photo_url: /img/USC_Slogan.png
-            web_url: https://slurm-lab-usc.github.io/
+            photo_url: /img/EmilyZhu.JPG
+            web_url: https://github.com/emilyzhu2027
 
   - name: Faculty
     list:
