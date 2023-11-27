@@ -30,6 +30,9 @@ members:
           - name: Yuhai Wang
             photo_url: /img/people/Yuhai.jpg
             web_url: https://yuhaiw.github.io/
+          - name: Kriti Asija
+            photo_url: /img/people/KritiAsija.jpg
+            web_url: https://www.linkedin.com/in/kriti-asija-72638a176/
 
   - name: Undergraduate Students
     list:
