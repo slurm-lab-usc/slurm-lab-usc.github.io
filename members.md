@@ -15,9 +15,6 @@ members:
     list:
       - full: true
         list:
-          - name: Vishesh Mittal
-            photo_url: /img/people/VisheshMittal.jpg
-            web_url: https://vishesh-mittal.github.io/
           - name: Anupam Patil
             photo_url: /img/people/AnupamPatil.jpeg
             web_url: https://www.linkedin.com/in/anupam-patil-114b841b0/
