@@ -11,6 +11,7 @@ If you have additional questions after reading the below and want to get involve
 My contact information is [available on my website](https://danielseita.github.io/).
 Depending on the volume of email, I may be slow to respond. 
 I encourage you to read [Yonatan Bisk's FAQ](https://yonatanbisk.com/emailing_professors.html) about emailing professors. 
+I will be *much* more likely to respond to emails that are tailored to me to some extent, and *less* likely to respond to mass emails.
 
 ## PhD Students
 
@@ -41,6 +42,10 @@ learn about robotics and machine learning.
 I think this is a great time to be working in robotics. We have a wonderful (and
 growing) [robotics group at USC][3]. Furthermore, the computer science
 department will have a [brand new building][4] ready in 2024 for us!
+
+PhD students will receive funding. The normal requirement is to TA for two
+semesters. Beyond those two semesters, I will do my best to support you with as
+much research funding as I can.
 
 If you are a PhD student already at USC and interested in collaborating with me,
 feel free to email me to schedule a time to chat. To reduce back-and-forth
