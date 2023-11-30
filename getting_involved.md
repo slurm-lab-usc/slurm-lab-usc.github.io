@@ -5,13 +5,13 @@ title: Getting Involved
 ---
 
 Thank you for your interest in our research! See below for how you can get
-involved. This information is accurate as of **November 2023**.
+involved. This information is accurate as of **December 2023**.
 
 If you have additional questions after reading the below and want to get involved, feel free to email me. 
 My contact information is [available on my website](https://danielseita.github.io/).
 Depending on the volume of email, I may be slow to respond. 
 I encourage you to read [Yonatan Bisk's FAQ](https://yonatanbisk.com/emailing_professors.html) about emailing professors. 
-I will try to respond to emails that are tailored to me to some extent. 
+I will try to respond to emails that are tailored to me. 
 I kindly ask that you not send the same generic email to a long list of professors.
 
 ## PhD Students
