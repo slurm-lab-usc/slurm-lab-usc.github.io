@@ -11,7 +11,8 @@ If you have additional questions after reading the below and want to get involve
 My contact information is [available on my website](https://danielseita.github.io/).
 Depending on the volume of email, I may be slow to respond. 
 I encourage you to read [Yonatan Bisk's FAQ](https://yonatanbisk.com/emailing_professors.html) about emailing professors. 
-I will be *much* more likely to respond to emails that are tailored to me to some extent, and *less* likely to respond to mass emails.
+I will try to respond to emails that are tailored to me to some extent. 
+I kindly ask that you not send the same generic email to a long list of professors.
 
 ## PhD Students
 
