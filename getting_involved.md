@@ -9,7 +9,6 @@ involved. This information is accurate as of **December 2023**.
 
 If you have additional questions after reading the below and want to get involved, feel free to email me. 
 My contact information is [available on my website](https://danielseita.github.io/).
-Depending on the volume of email, I may be slow to respond. 
 I encourage you to read [Yonatan Bisk's FAQ](https://yonatanbisk.com/emailing_professors.html) about emailing professors. 
 I will try to respond to emails that are tailored to me. 
 I kindly ask that you not send the same generic email to a long list of professors.
@@ -20,12 +19,13 @@ I kindly ask that you not send the same generic email to a long list of professo
 apply to USC for a PhD program and indicate my name in your application. My
 home department is [computer science](https://www.cs.usc.edu/), though I am
 open to co-advising students from other departments (as well as co-advising
-within computer science). There is no need to email me as part of this
-application process, since I need to see the full application (which includes
-confidential letters of recommendation). Nonetheless, you are welcome to email
-me if you feel like our research interests are especially aligned. I will make
-sure to carefully check applications which list my name as a potential PhD
-advisor. Please also check out my [advising statement](#advising-statement).
+within computer science). There is no need to email me as part of this process,
+since I need to see the full application, which includes confidential letters
+of recommendation. Nonetheless, you are welcome to email me if you feel like
+our research interests are especially aligned. I sometimes respond to these
+"cold" emails, especially if the email is tailored to me. I will make sure to
+carefully check applications which list my name as a potential PhD advisor.
+Please also check out my [advising statement](#advising-statement).
 
 I just joined USC in Fall 2023 and am excited to be starting a new lab. I am
 especially interested in hiring students with the following experience, skills,
