@@ -33,6 +33,10 @@ members:
           - name: Karan Owalekar
             photo_url: /img/people/karanOwalekar.jpg
             web_url: https://www.linkedin.com/in/karan-owalekar/
+          - name: Enyu Zhao
+            photo_url: /img/people/Enyu.jpeg
+            web_url: https://www.linkedin.com/in/enyu-zhao-564566250/
+          
 
   - name: Undergraduate Students
     list:
