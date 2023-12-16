@@ -36,6 +36,9 @@ members:
           - name: Enyu Zhao
             photo_url: /img/people/Enyu.jpeg
             web_url: https://www.linkedin.com/in/enyu-zhao-564566250/
+          - name: Charlene Yuen
+            photo_url: /img/people/Charlene.jpg
+            web_url: https://lazerbird.github.io/
           
 
   - name: Undergraduate Students
