@@ -46,8 +46,8 @@ members:
       - full: true
         list:
           - name: Hao Jiang
-            photo_url: /img/USC_Slogan.png
-            web_url: https://slurm-lab-usc.github.io/
+            photo_url: /img/people/HaoJiang.jpg
+            web_url: https://linkedin.com/in/hao-jiang-1a3a73225
           - name: Emily Zhu
             photo_url: /img/people/EmilyZhu.JPG
             web_url: https://github.com/emilyzhu2027
