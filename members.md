@@ -51,6 +51,10 @@ members:
           - name: Emily Zhu
             photo_url: /img/people/EmilyZhu.JPG
             web_url: https://github.com/emilyzhu2027
+          - name: Oluwatobiloba Adesanya
+            photo_url: /img/people/TobiAdesanya.jpeg
+            web_url: https://www.linkedin.com/in/oluwatobilobaadesanya   
+
 
   - name: Faculty
     list:
