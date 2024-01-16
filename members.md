@@ -40,7 +40,7 @@ members:
             photo_url: /img/people/Charlene.jpg
             web_url: https://lazerbird.github.io/
           - name: Harshitha B R
-            photo_url: /img/people/HBR.jpg
+            photo_url: /img/people/HBR.JPG
             web_url: https://www.linkedin.com/in/harshitha-b-r-2ab510190/
           
           
