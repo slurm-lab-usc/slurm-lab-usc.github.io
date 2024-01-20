@@ -785,9 +785,9 @@
     \ Year = {2016}\n}"
   img: ../img/papers/simpar.png
   links:
-    '[PDF]': https://www.cs.cmu.edu/~dseita/data/daniel_seita_simpar_camera_ready_oct2016.pdf
+    '[PDF]': https://goldberg.berkeley.edu/pubs/daniel_seita_simpar_camera_ready_oct2016.pdf
   short_id: 2016simpar
-  site: https://www.cs.cmu.edu/~dseita/data/daniel_seita_simpar_camera_ready_oct2016.pdf
+  site: https://goldberg.berkeley.edu/pubs/daniel_seita_simpar_camera_ready_oct2016.pdf
   title: Large-Scale Supervised Learning of the Grasp Robustness of Surface Patch Pairs
   venue: International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR), 2016
   video_embed: null
