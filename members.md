@@ -58,7 +58,9 @@ members:
           - name: Oluwatobiloba Adesanya
             photo_url: /img/people/TobiAdesanya.jpeg
             web_url: https://www.linkedin.com/in/oluwatobilobaadesanya   
-
+          - name: Peter Wang
+            photo_url: /img/people/PeterWang.png
+            web_url: https://pwang649.github.io/
 
   - name: Faculty
     list:
