@@ -5,36 +5,39 @@ title: Getting Involved
 ---
 
 Thank you for your interest in our research! See below for how you can get
-involved. This information is accurate as of **December 2023**.
+involved. This information is accurate as of **February 2023**.
 
-If you have additional questions after reading the below and want to get involved, feel free to email me. 
+If you have additional questions after reading the below and want to get involved, feel free to email me.
 My contact information is [available on my website](https://danielseita.github.io/).
-I encourage you to read [Yonatan Bisk's FAQ](https://yonatanbisk.com/emailing_professors.html) about emailing professors. 
-I will try to respond to emails that are tailored to me. 
+I encourage you to read [Yonatan Bisk's FAQ](https://yonatanbisk.com/emailing_professors.html) about emailing professors.
+I will try to respond to emails that are tailored to me.
 I kindly ask that you not send the same generic email to a long list of professors.
 
 ## PhD Students
 
-*I am expecting to hire about 3 PhD students to start in Fall 2024*. Please 
-apply to USC for a PhD program and indicate my name in your application. My
-home department is [computer science](https://www.cs.usc.edu/), though I am
+I am recruiting PhD students to start in Fall 2024. I will post an update
+about Fall 2025 admits later.
+
+For anyone applying to a PhD:
+Please apply to USC for a PhD program and indicate my name in your application.
+My home department is [computer science](https://www.cs.usc.edu/), though I am
 open to co-advising students from other departments (as well as co-advising
-within computer science). There is no need to email me as part of this process,
-since I need to see the full application, which includes confidential letters
-of recommendation. Nonetheless, you are welcome to email me if you feel like
-our research interests are especially aligned. I sometimes respond to these
-"cold" emails, especially if the email is tailored to me. I will make sure to
+within computer science). You do not need to email me, because I need to see
+your full application to make a decision (these include confidential letters of
+recommendation). Nonetheless, you are welcome to email me if you feel like our
+research interests are especially aligned. I sometimes respond to these "cold"
+emails, especially if the email is tailored to me. I will make sure to
 carefully check applications which list my name as a potential PhD advisor.
 Please also check out my [advising statement](#advising-statement).
 
 I just joined USC in Fall 2023 and am excited to be starting a new lab. I am
-especially interested in hiring students with the following experience, skills,
-or criteria:
+especially interested in working with students with the following experience,
+skills, or criteria:
 
-- who have significant experience in deep learning, reinforcement learning, and
-  vision-language (foundation) models.
 - who have built, fixed, and engineered robotics hardware.
 - who have implemented robotics or physics simulators.
+- who have significant experience in deep learning, imitation/reinforcement
+  learning, and vision-language (foundation) models.
 - who have applied robotics to fields such as agriculture and health care.
 - who come from underrepresented, non-traditional, and/or low-income
 backgrounds, but who have reasonably "maxed out" their available resources to
@@ -78,7 +81,7 @@ Here is my brief perspective on advising.
   manipulation. Whenever possible, projects and/or papers should show *many*
   real world examples of a robot adjusting its environment (including successes
   *and* failures). I am less interested in projects which eke out small
-  improvements on benchmarks. 
+  improvements on benchmarks.
 - For presenting research, our target conferences are ICRA, IROS, RSS, and
   CoRL, though we will consider other venues as appropriate (such as machine
   learning conferences).
