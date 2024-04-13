@@ -4,6 +4,15 @@ Install dependencies. On Ubuntu:
 
 ```
 sudo apt install ruby-bundler ruby-dev
+sudo apt-get install build-essential
+sudo gem install http_parser.rb -v 0.8.0
+```
+
+Add `vendor` in `_config.yml` line 285:
+
+```
+exclude:
+  - vendor
 ```
 
 Inside the `~/slurm-lab-usc.github.io` directory, run `bundle install`.
