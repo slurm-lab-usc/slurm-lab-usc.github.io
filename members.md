@@ -10,6 +10,9 @@ members:
           - name: To Be Decided
             photo_url: /img/USC_Slogan.png
             web_url: https://slurm-lab-usc.github.io/
+          - name: Zeyu Shangguan
+            photo_url: /img/people/ZeyuShangguan.jpeg
+            web_url: https://zshanggu.github.io/
 
   - name: Master's Students
     list:
