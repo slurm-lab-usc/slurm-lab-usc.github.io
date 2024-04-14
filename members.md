@@ -13,6 +13,9 @@ members:
           - name: Yunshuang Li
             photo_url: /img/people/Yunshuang.jpeg
             web_url: https://li-yunshuang.github.io/
+          - name: Yiyang Ling
+            photo_url: /img/people/Yiyang.jpg
+            web_url: https://yiyang0207.github.io/
   - name: Master's Students
     list:
       - full: true
