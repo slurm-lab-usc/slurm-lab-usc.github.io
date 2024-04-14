@@ -10,7 +10,9 @@ members:
           - name: Zeyu Shangguan
             photo_url: /img/people/ZeyuShangguan.jpeg
             web_url: https://zshanggu.github.io/
-
+          - name: Yunshuang Li
+            photo_url: /img/people/Yunshuang.jpg
+            web_url: https://li-yunshuang.github.io/
   - name: Master's Students
     list:
       - full: true
