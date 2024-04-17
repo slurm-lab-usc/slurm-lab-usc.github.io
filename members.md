@@ -58,6 +58,10 @@ members:
           - name: Peter Wang
             photo_url: /img/people/PeterWang.png
             web_url: https://pwang649.github.io/
+          - name: Jonathan Ong
+            photo_url: /img/people/JonathanOng.jpg
+            web_url: https://www.linkedin.com/in/ongjonathand
+
 
   - name: Faculty
     list:
