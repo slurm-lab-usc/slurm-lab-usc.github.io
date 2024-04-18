@@ -5,7 +5,7 @@ title: Getting Involved
 ---
 
 Thank you for your interest in our research! See below for how you can get
-involved. This information is accurate as of **February 2024**.
+involved. This information is accurate as of **April 2024**.
 
 If you have additional questions after reading the below and want to get involved, feel free to email me.
 My contact information is [available on my website](https://danielseita.github.io/).
@@ -15,8 +15,7 @@ I kindly ask that you not send the same generic email to a long list of professo
 
 ## PhD Students
 
-I am recruiting PhD students to start in Fall 2024. I will post an update
-about Fall 2025 admits later.
+I will take either 0 or 1 new PhD students to start in Fall 2025. 
 
 For anyone applying to a PhD:
 Please apply to USC for a PhD program and indicate my name in your application.
@@ -58,8 +57,8 @@ of available times.
 
 ## Masters and Undergraduate Students at USC
 
-Please fill out [the following application][1].
-We will reach out to you if we decide to interview you.
+Please fill out [the following application][1] and send me an email reminder to
+check the form.  We will reach out to you if we decide to interview you.
 
 ## Postdocs
 
@@ -70,7 +69,8 @@ consider options.
 ## External Visitors not at USC
 
 I may eventually be able to work with external visitors who are not currently
-at USC, but I expect this to be a very rare circumstance.
+at USC, but I expect this to be a very rare circumstance. 
+To apply, *email me by pitching me a 1-2 page project idea*.
 
 
 ## Advising Statement
