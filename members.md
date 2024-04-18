@@ -7,6 +7,9 @@ members:
     list:
       - full: true
         list:
+          - name: Minjune Hwang
+            photo_url: /img/people/MinjuneHwang.png
+            web_url: https://mj-hwang.github.io/
           - name: Zeyu Shangguan
             photo_url: /img/people/ZeyuShangguan.jpeg
             web_url: https://zshanggu.github.io/
