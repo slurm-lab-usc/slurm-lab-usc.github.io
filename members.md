@@ -65,6 +65,13 @@ members:
             photo_url: /img/people/JonathanOng.jpg
             web_url: https://www.linkedin.com/in/ongjonathand
 
+  - name: Interns and Visitors
+    list:
+      - full: true
+        list:
+          - name: Kartika Santoso
+            photo_url: /img/people/KartikaSantoso.jpg
+            web_url: https://www.linkedin.com/in/kartika-s/
 
   - name: Faculty
     list:
