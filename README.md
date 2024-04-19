@@ -7,6 +7,15 @@ instructions depending on your system.*
 
 <details>
 <summary>
+Instructions to preview the lab website (on OS X systems):
+</summary>
+
+In progress.
+
+</details>
+
+<details>
+<summary>
 Instructions to preview the lab website (on Ubuntu machines):
 </summary>
 
