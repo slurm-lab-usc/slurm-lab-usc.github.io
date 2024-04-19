@@ -1,5 +1,24 @@
 # Instructions for Updating Lab Website
 
+*Daniel note: these installation instructions need to be updated, but they are
+mainly if you want to preview the website. You may need to fix these
+instructions depending on your system.*
+
+
+<details>
+<summary>
+Instructions to preview the lab website (on OS X systems):
+</summary>
+
+In progress.
+
+</details>
+
+<details>
+<summary>
+Instructions to preview the lab website (on Ubuntu machines):
+</summary>
+
 Install dependencies. On Ubuntu:
 
 ```
@@ -34,12 +53,12 @@ Configuration file: /home/seita/slurm-lab-usc.github.io/_config.yml
 
 And you should be able to access the website locally by going to
 http://127.0.0.1:4000 in your web browser. 
+</details>
 
-**You can add yourself by editing `members.md`**. See the pattern we use for this.
-
-If you are updating this website, make changes locally and preview to make sure
-it is correct. **Then submit a pull request. Do NOT submit it directly to the
-`main` branch.** You can do this by making a fork of this repository.
+**You can add yourself by editing `members.md`**. See the pattern we use for
+this.  If you are updating this website, make changes locally and preview (if
+possible) to make sure it is correct. **Then submit a pull request.** You can
+do this by making a fork of this repository.
 
 For adding photos, please add them to the `img/people` folder. Please also make
 them equal in height and width ratio (i.e., the image is "square"). I recommend
