@@ -64,6 +64,9 @@ members:
           - name: Jonathan Ong
             photo_url: /img/people/JonathanOng.jpg
             web_url: https://www.linkedin.com/in/ongjonathand
+          - name: Vijay Kumaravelrajan
+            photo_url: /img/people/VijayKumaravelrajan.jpg
+            web_url: https://www.linkedin.com/in/vijay-kumaravelrajan/
 
 
   - name: Faculty
