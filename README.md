@@ -44,7 +44,7 @@ Configuration file: /home/seita/slurm-lab-usc.github.io/_config.yml
 
 And you should be able to access the website locally by going to
 http://127.0.0.1:4000 in your web browser. 
-<details>
+</details>
 
 **You can add yourself by editing `members.md`**. See the pattern we use for
 this.  If you are updating this website, make changes locally and preview (if
