@@ -67,6 +67,9 @@ members:
           - name: Vijay Kumaravelrajan
             photo_url: /img/people/VijayKumaravelrajan.jpg
             web_url: https://www.linkedin.com/in/vijay-kumaravelrajan/
+          - name: Anisha Chitta
+            photo_url: /img/people/AnishaChitta.jpg
+            web_url: https://www.linkedin.com/in/anisha-chitta/
 
   - name: Interns and Visitors
     list:
