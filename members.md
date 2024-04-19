@@ -64,6 +64,9 @@ members:
           - name: Jonathan Ong
             photo_url: /img/people/JonathanOng.jpg
             web_url: https://www.linkedin.com/in/ongjonathand
+          - name: Zitong Huang
+            photo_url: img/people/Cynthia.jpg
+            web_url: https://www.linkedin.com/in/zitong-huang/
 
 
   - name: Faculty
