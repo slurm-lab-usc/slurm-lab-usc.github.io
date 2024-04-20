@@ -19,6 +19,7 @@ members:
           - name: Yiyang Ling
             photo_url: /img/people/Yiyang.jpg
             web_url: https://yiyang0207.github.io/
+  
   - name: Master's Students
     list:
       - full: true
@@ -71,7 +72,7 @@ members:
             photo_url: /img/people/Cynthia.jpeg
             web_url: https://www.linkedin.com/in/zitong-huang/
           - name: Anisha Chitta
-            photo_url: /img/people/AnishaChitta.jpg
+            photo_url: /img/people/AnishaChitta.jpeg
             web_url: https://www.linkedin.com/in/anisha-chitta/
 
   - name: Interns and Visitors
