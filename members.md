@@ -70,6 +70,9 @@ members:
           - name: Zitong Huang
             photo_url: img/people/Cynthia.jpeg
             web_url: https://www.linkedin.com/in/zitong-huang/
+          - name: Anisha Chitta
+            photo_url: /img/people/AnishaChitta.jpg
+            web_url: https://www.linkedin.com/in/anisha-chitta/
 
   - name: Interns and Visitors
     list:
