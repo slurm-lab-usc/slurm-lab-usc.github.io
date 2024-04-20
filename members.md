@@ -67,6 +67,9 @@ members:
           - name: Vijay Kumaravelrajan
             photo_url: /img/people/VijayKumaravelrajan.jpg
             web_url: https://www.linkedin.com/in/vijay-kumaravelrajan/
+          - name: Zitong Huang
+            photo_url: img/people/Cynthia.jpeg
+            web_url: https://www.linkedin.com/in/zitong-huang/
           - name: Anisha Chitta
             photo_url: /img/people/AnishaChitta.jpg
             web_url: https://www.linkedin.com/in/anisha-chitta/
