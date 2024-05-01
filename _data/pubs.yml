@@ -101,7 +101,7 @@
   award: null
   bib: "@inproceedings{Seita2022toolflownet,\n
     \ title={{ToolFlowNet: Robotic Manipulation with Tools via Predicting Tool Flow from Point Clouds}},\n
-    \ author={Seita, Daniel and Wang, Yufei and Shetty, Sarthak, and Li, Edward and Erickson, Zackory and Held, David},\n
+    \ author={Seita, Daniel and Wang, Yufei and Shetty, Sarthak and Li, Edward and Erickson, Zackory and Held, David},\n
     \ booktitle={Conference on Robot Learning (CoRL)},\n
     \ year={2022}\n}"
   img: ../img/papers/toolflownet.gif
