@@ -17,21 +17,17 @@ I kindly ask that you not send the same generic email to a long list of professo
 
 I will take either 0 or 1 new PhD students to start in Fall 2025. 
 
-For anyone applying to a PhD:
-Please apply to USC for a PhD program and indicate my name in your application.
-My home department is [computer science](https://www.cs.usc.edu/), though I am
-open to co-advising students from other departments (as well as co-advising
-within computer science). You do not need to email me, because I need to see
-your full application to make a decision (these include confidential letters of
-recommendation). Nonetheless, you are welcome to email me if you feel like our
-research interests are especially aligned. I sometimes respond to these "cold"
-emails, especially if the email is tailored to me. I will make sure to
-carefully check applications which list my name as a potential PhD advisor.
+For PhD applicants: please apply to USC for a PhD program and indicate my name in 
+your application. My home department is [computer science](https://www.cs.usc.edu/), 
+though I am open to co-advising students from other departments (and co-advising
+within computer science). You do not need to email me, because I need to see your
+full application to make a decision (these include confidential letters of
+recommendation). If you email me, I will try to respond if the email is well-tailored. 
+I will check all applications which list my name as a potential PhD advisor. 
 Please also check out my [advising statement](#advising-statement).
 
-I just joined USC in Fall 2023 and am excited to be starting a new lab. I am
-especially interested in working with students with the following experience,
-skills, or criteria:
+I recently joined am excited to be starting a new lab. I am especially interested in 
+working with students with the following experience, skills, or criteria:
 
 - who have built, fixed, and engineered robotics hardware.
 - who have implemented robotics or physics simulators.
@@ -64,13 +60,13 @@ check the form.  We will reach out to you if we decide to interview you.
 
 I am not actively searching for postdocs. However, if you feel like there's a
 good match and that there might be opportunities to get funding, I am happy to
-consider options.
+consider options. You can email me and suggest 2 project ideas we could work on.
 
 ## External Visitors not at USC
 
 I may eventually be able to work with external visitors who are not currently
 at USC, but I expect this to be a very rare circumstance. 
-To apply, *email me by pitching me a 1-2 page project idea*.
+To apply, *email me by pitching me a 1-page project idea*.
 
 
 ## Advising Statement
