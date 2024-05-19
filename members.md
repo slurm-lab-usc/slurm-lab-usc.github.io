@@ -19,7 +19,7 @@ members:
           - name: Yiyang Ling
             photo_url: /img/people/Yiyang.jpg
             web_url: https://yiyang0207.github.io/
-  
+
   - name: Master's Students
     list:
       - full: true
@@ -58,7 +58,7 @@ members:
             web_url: https://linkedin.com/in/hao-jiang-1a3a73225
           - name: Oluwatobiloba Adesanya
             photo_url: /img/people/TobiAdesanya.jpeg
-            web_url: https://www.linkedin.com/in/oluwatobilobaadesanya   
+            web_url: https://www.linkedin.com/in/oluwatobilobaadesanya
           - name: Jonathan Ong
             photo_url: /img/people/JonathanOng.jpg
             web_url: https://www.linkedin.com/in/ongjonathand
@@ -93,14 +93,6 @@ members:
           - name: Daniel Seita
             photo_url: /img/people/Daniel_2023_square.png
             web_url: https://danielseita.github.io/
-
-  - name: <a name="alumni"></a>Alumni\n
-    list:
-      - name: Undergraduate students
-        full: false
-        list:
-          - name: Peter Wang -> PhD in CS at Yale University
-            web_url: https://pwang649.github.io/
 
 ---
 
