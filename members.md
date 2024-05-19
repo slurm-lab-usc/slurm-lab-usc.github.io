@@ -94,7 +94,7 @@ members:
             photo_url: /img/people/Daniel_2023_square.png
             web_url: https://danielseita.github.io/
 
-  - name: <a name="alumni"></a>Alumni
+  - name: <a name="alumni"></a>Alumni\n
     list:
       - name: Undergraduate students
         full: false
