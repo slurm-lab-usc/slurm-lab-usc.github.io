@@ -97,7 +97,7 @@ members:
   - name: <a name="alumni"></a>Alumni
     list:
       - name: Undergraduate students
-        full: true 
+        full: false
         list:
           - name: Peter Wang -> PhD in CS at Yale University
             web_url: https://pwang649.github.io/
