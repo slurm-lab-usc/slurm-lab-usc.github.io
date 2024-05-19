@@ -59,9 +59,6 @@ members:
           - name: Oluwatobiloba Adesanya
             photo_url: /img/people/TobiAdesanya.jpeg
             web_url: https://www.linkedin.com/in/oluwatobilobaadesanya   
-          - name: Peter Wang
-            photo_url: /img/people/PeterWang.png
-            web_url: https://pwang649.github.io/
           - name: Jonathan Ong
             photo_url: /img/people/JonathanOng.jpg
             web_url: https://www.linkedin.com/in/ongjonathand
@@ -82,6 +79,12 @@ members:
           - name: Kartika Santoso
             photo_url: /img/people/KartikaSantoso.jpg
             web_url: https://www.linkedin.com/in/kartika-s/
+          - name: Gayathri Rajesh
+            photo_url: /img/USC_Slogan.png
+            web_url: https://slurm-lab-usc.github.io/
+          - name: Abhinav Pillai
+            photo_url: /img/USC_Slogan.png
+            web_url: https://slurm-lab-usc.github.io/
 
   - name: Faculty
     list:
@@ -92,16 +95,12 @@ members:
             web_url: https://danielseita.github.io/
 
   - name: <a name="alumni"></a>Alumni
-    # list:
-    #   - name: PhD alumni
-    #     full: False
-    #     list:
-    #       - name: Siddharth Ancha (co-advised with Srinivasa Narasimhan) -> Post-doc with Nick Roy at MIT
-    #         web_url: https://siddancha.github.io/
-    #       - name: Xingyu Lin -> Post-doc with Pieter Abbeel at UC Berkeley
-    #         web_url: https://xingyu-lin.github.io/
-    #       - name: Brian Okorn (co-advised with Martial Hebert) -> Boston Dynamics AI Institute
-    #         web_url: https://www.ri.cmu.edu/ri-people/brian-e-okorn/
+    list:
+      - name: Undergraduate students
+        full: true 
+        list:
+          - name: Peter Wang -> PhD in CS at Yale University
+            web_url: https://pwang649.github.io/
 
 ---
 
