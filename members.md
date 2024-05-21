@@ -49,7 +49,7 @@ members:
             photo_url: /img/people/HBR.JPG
             web_url: https://www.linkedin.com/in/harshitha-b-r-2ab510190/
           - name: Hanyang Zhou
-            photo_url: /img/people/HanyangZHOU.JPG
+            photo_url: /img/people/HanyangZHOU.png
             web_url: https://www.linkedin.com/in/hanyang-zhou-usc
 
   - name: Undergraduate Students
