@@ -48,6 +48,9 @@ members:
           - name: Harshitha B R
             photo_url: /img/people/HBR.JPG
             web_url: https://www.linkedin.com/in/harshitha-b-r-2ab510190/
+          - name: Hanyang Zhou
+            photo_url: /img/people/HanyangZHOU.JPG
+            web_url: https://www.linkedin.com/in/hanyang-zhou-usc
 
   - name: Undergraduate Students
     list:
@@ -93,7 +96,6 @@ members:
           - name: Daniel Seita
             photo_url: /img/people/Daniel_2023_square.png
             web_url: https://danielseita.github.io/
-
 ---
 
 <div class="row">
