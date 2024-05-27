@@ -79,9 +79,6 @@ members:
     list:
       - full: true
         list:
-          - name: Kartika Santoso
-            photo_url: /img/people/KartikaSantoso.jpg
-            web_url: https://www.linkedin.com/in/kartika-s/
           - name: Gayathri Rajesh
             photo_url: /img/USC_Slogan.png
             web_url: https://slurm-lab-usc.github.io/
