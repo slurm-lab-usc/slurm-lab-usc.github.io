@@ -74,6 +74,9 @@ members:
           - name: Anisha Chitta
             photo_url: /img/people/AnishaChitta.jpeg
             web_url: https://www.linkedin.com/in/anisha-chitta/
+          - name: Letian Zhang
+            photo_url: /img/people/LetianZhang.jpeg
+            web_url: https://www.linkedin.com/in/letian-zhang-630b37235/
 
   - name: Interns and Visitors
     list:
