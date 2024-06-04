@@ -96,6 +96,16 @@ members:
           - name: Daniel Seita
             photo_url: /img/people/Daniel_2023_square.png
             web_url: https://danielseita.github.io/
+            
+  - name: Alumni
+    list:
+      # - full: true
+      - name: Undergraduate Students
+        list:
+          - name: Qian (Peter Wang) -> Yale University CS PhD
+            web_url: https://pwang649.github.io/
+
+    
 ---
 
 <div class="row">
