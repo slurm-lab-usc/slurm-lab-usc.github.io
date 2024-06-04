@@ -34,7 +34,7 @@ exclude:
   - vendor
 ```
 
-Inside the `~/slurm-lab-usc.github.io` directory, run `bundle install`. You may need `sudo`.
+Inside the `~/slurm-lab-usc.github.io` directory, run `bundle install`.
 
 Assuming that worked, then do `bundle exec jekyll serve`:
 
