@@ -1,0 +1,69 @@
+.jumbotron-main {
+  color: white;
+  background-color: black;
+  padding-top: 0;
+  padding-bottom: 0;
+  position: relative;
+}
+
+.lab-photo {
+  background: linear-gradient(to bottom, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0.4) 100%),
+    url("/img/lab.jpg") no-repeat center center;
+    /* url("/DavidHeld_files/rpad group pic - Aug 2020 - fix.png") no-repeat center center; */
+  background-size: cover;
+  background-color: black;
+  min-height: 550px;
+  /* padding-top: 8%; */
+  position: relative;
+}
+@media only screen and (max-width: 900px) {
+  .lab-photo {
+    background-size: contain;
+  }
+}
+@media only screen and (max-width: 300px) {
+  .lab-photo {
+    background-size: contain;
+    min-height: 300px;
+  }
+}
+
+.main-news {
+  height: 500px;
+  box-shadow: 0 0.5em 1em -0.125em rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.02)
+}
+
+.main-highlights {
+  height: 500px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.footer-logo {
+  height: 75px;
+}
+
+.footer-logo img {
+  height: inherit;
+}
+
+.member-col {
+  height: 350px;
+}
+
+.member-col img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  max-height: 250px;
+  min-height: 250px;
+  height: auto;
+  width: auto;
+}
+
+.video_embed {
+  margin-top: 5px;
+}

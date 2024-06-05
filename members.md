@@ -97,48 +97,56 @@ members:
             photo_url: /img/people/Daniel_2023_square.png
             web_url: https://danielseita.github.io/
 
+  # - name: Alumni
+  #   web_url: https://zshanggu.github.io/zeyu-slurm-lab-usc.github.io/alumni/
+
   - name: Alumni
-    web_url: https://zshanggu.github.io/zeyu-slurm-lab-usc.github.io/alumni/
+    list:
+      - name: Undergraduate students
+        full: False
+        list:
+          - name: Qian (Peter) Wang -> Yale University CS PhD
+            web_url: https://pwang649.github.io/
 ---
 
 <div class="row">
   {% for big_group in page.members %}
     {% if big_group.web_url %}
-      <h1> <a href="{{big_group.web_url}}"> {{big_group.name}} </a></h1>
+      <h1> <a href="{{big_group.web_url}}"> {{big_group.name}} </a> </h1>
     {% else %}
       <h1> {{big_group.name}} </h1>
-    {% endif %}
-    {% for group in big_group.list %}
-    {% if group.list.size > 0 %}
-      {% if group.name %}
-        <h2> {{ group.name }} </h2>
-      {% endif %}
-      {% if group.full %}
-      <div class="row member-row">
-        {% for member in group.list %}
-          <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
-            <a target="_blank" href="{{ member.web_url }}">
-              <img class="img-responsive" src="{{ member.photo_url }}" alt="{{member.name}}">
-            </a>
-            <a target="_blank" href="{{ member.web_url }}">
-              {{ member.name }}
-            </a>
+      {% for group in big_group.list %}
+        {% if group.list.size > 0 %}
+          {% if group.name %}
+            <h2 style="text-align: left; margin-bottom: 20px;"> {{ group.name }} </h2>
+          {% endif %}
+          {% if group.full %}
+          <div class="row member-row">
+            {% for member in group.list %}
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+                <a target="_blank" href1="{{ member.web_url }}">
+                  <img class="img-responsive" src="{{ member.photo_url }}" alt="{{member.name}}">
+                </a>
+                <a target="_blank" href="{{ member.web_url }}">
+                  {{ member.name }}
+                </a>
+              </div>
+            {% endfor %}
           </div>
-        {% endfor %}
-      </div>
-      {% else %}
-        <ul>
-          {% for member in group.list %}
-            {% if member.web_url %}
-              <li><a href="{{member.web_url}}"> {{member.name}} </a></li>
-            {% else %}
-              <li><a> {{member.name}} </a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      {% endif %}
-    <br>
+          {% else %}
+            <ul>
+              {% for member in group.list %}
+                {% if member.web_url %}
+                  <li><a href="{{member.web_url}}"> {{member.name}} </a></li>
+                {% else %}
+                  <li><a> {{member.name}} </a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          {% endif %}
+        <br>
+        {% endif %}
+      {% endfor %}
     {% endif %}
-    {% endfor %}
   {% endfor %}
 </div>
