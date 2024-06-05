@@ -96,15 +96,22 @@ members:
           - name: Daniel Seita
             photo_url: /img/people/Daniel_2023_square.png
             web_url: https://danielseita.github.io/
+
+  - name: Alumni
+    web_url: https://zshanggu.github.io/zeyu-slurm-lab-usc.github.io/alumni/
 ---
 
 <div class="row">
   {% for big_group in page.members %}
-    <h1> {{big_group.name}} </h1>
+    {% if big_group.web_url %}
+      <h1> <a href="{{big_group.web_url}}"> {{big_group.name}} </a></h1>
+    {% else %}
+      <h1> {{big_group.name}} </h1>
+    {% endif %}
     {% for group in big_group.list %}
     {% if group.list.size > 0 %}
       {% if group.name %}
-        <h2>{{ group.name }}</h2>
+        <h2> {{ group.name }} </h2>
       {% endif %}
       {% if group.full %}
       <div class="row member-row">
