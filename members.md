@@ -8,16 +8,16 @@ members:
       - full: true
         list:
           - name: Minjune Hwang
-            photo_url: /img/people/MinjuneHwang.png
+            photo_url: https://slurm-lab-usc.github.io/img/people/MinjuneHwang.png
             web_url: https://mj-hwang.github.io/
           - name: Zeyu Shangguan
-            photo_url: /img/people/ZeyuShangguan.jpeg
+            photo_url: https://slurm-lab-usc.github.io/img/people/ZeyuShangguan.jpeg
             web_url: https://zshanggu.github.io/
           - name: Yunshuang Li
-            photo_url: /img/people/Yunshuang.jpeg
+            photo_url: https://slurm-lab-usc.github.io/img/people/Yunshuang.jpeg
             web_url: https://li-yunshuang.github.io/
           - name: Yiyang Ling
-            photo_url: /img/people/Yiyang.jpg
+            photo_url: https://slurm-lab-usc.github.io/img/people/Yiyang.jpg
             web_url: https://yiyang0207.github.io/
 
   - name: Master's Students
@@ -25,31 +25,31 @@ members:
       - full: true
         list:
           - name: Anupam Patil
-            photo_url: /img/people/AnupamPatil.jpeg
+            photo_url: https://slurm-lab-usc.github.io/img/people/AnupamPatil.jpeg
             web_url: https://www.linkedin.com/in/anupam-patil-114b841b0/
           - name: Dhanush Penmetsa
-            photo_url: /img/USC_Slogan.png
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
             web_url: https://slurm-lab-usc.github.io/
           - name: Vedant Raval
-            photo_url: /img/people/VedantRaval.jpeg
+            photo_url: https://slurm-lab-usc.github.io/img/people/VedantRaval.jpeg
             web_url: https://www.linkedin.com/in/vedantraval23/
           - name: Yuhai Wang
-            photo_url: /img/people/Yuhai.jpg
+            photo_url: https://slurm-lab-usc.github.io/img/people/Yuhai.jpg
             web_url: https://yuhaiw.github.io/
           - name: Karan Owalekar
-            photo_url: /img/people/karanOwalekar.jpg
+            photo_url: https://slurm-lab-usc.github.io/img/people/karanOwalekar.jpg
             web_url: https://www.linkedin.com/in/karan-owalekar/
           - name: Enyu Zhao
-            photo_url: /img/people/Enyu.jpeg
+            photo_url: https://slurm-lab-usc.github.io/img/people/Enyu.jpeg
             web_url: https://www.linkedin.com/in/enyu-zhao-564566250/
           - name: Charlene Yuen
-            photo_url: /img/people/Charlene.jpg
+            photo_url: https://slurm-lab-usc.github.io/img/people/Charlene.jpg
             web_url: https://lazerbird.github.io/
           - name: Harshitha B R
-            photo_url: /img/people/HBR.JPG
+            photo_url: https://slurm-lab-usc.github.io/img/people/HBR.JPG
             web_url: https://www.linkedin.com/in/harshitha-b-r-2ab510190/
           - name: Hanyang Zhou
-            photo_url: /img/people/HanyangZHOU.png
+            photo_url: https://slurm-lab-usc.github.io/img/people/HanyangZHOU.png
             web_url: https://www.linkedin.com/in/hanyang-zhou-usc
 
   - name: Undergraduate Students
@@ -57,25 +57,25 @@ members:
       - full: true
         list:
           - name: Hao Jiang
-            photo_url: /img/people/HaoJiang.jpg
+            photo_url: https://slurm-lab-usc.github.io/img/people/HaoJiang.jpg
             web_url: https://linkedin.com/in/hao-jiang-1a3a73225
           - name: Oluwatobiloba Adesanya
-            photo_url: /img/people/TobiAdesanya.jpeg
+            photo_url: https://slurm-lab-usc.github.io/img/people/TobiAdesanya.jpeg
             web_url: https://www.linkedin.com/in/oluwatobilobaadesanya
           - name: Jonathan Ong
-            photo_url: /img/people/JonathanOng.jpg
+            photo_url: https://slurm-lab-usc.github.io/img/people/JonathanOng.jpg
             web_url: https://www.linkedin.com/in/ongjonathand
           - name: Vijay Kumaravelrajan
-            photo_url: /img/people/VijayKumaravelrajan.jpg
+            photo_url: https://slurm-lab-usc.github.io/img/people/VijayKumaravelrajan.jpg
             web_url: https://www.linkedin.com/in/vijay-kumaravelrajan/
           - name: Zitong Huang
-            photo_url: /img/people/Cynthia.jpeg
+            photo_url: https://slurm-lab-usc.github.io/img/people/Cynthia.jpeg
             web_url: https://www.linkedin.com/in/zitong-huang/
           - name: Anisha Chitta
-            photo_url: /img/people/AnishaChitta.jpeg
+            photo_url: https://slurm-lab-usc.github.io/img/people/AnishaChitta.jpeg
             web_url: https://www.linkedin.com/in/anisha-chitta/
           - name: Letian Zhang
-            photo_url: /img/people/LetianZhang.jpeg
+            photo_url: https://slurm-lab-usc.github.io/img/people/LetianZhang.jpeg
             web_url: https://www.linkedin.com/in/letian-zhang-630b37235/
 
   - name: Interns and Visitors
@@ -83,10 +83,10 @@ members:
       - full: true
         list:
           - name: Gayathri Rajesh
-            photo_url: /img/USC_Slogan.png
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
             web_url: https://slurm-lab-usc.github.io/
           - name: Abhinav Pillai
-            photo_url: /img/USC_Slogan.png
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
             web_url: https://slurm-lab-usc.github.io/
 
   - name: Faculty
@@ -94,11 +94,11 @@ members:
       - full: true
         list:
           - name: Daniel Seita
-            photo_url: /img/people/Daniel_2023_square.png
+            photo_url: https://slurm-lab-usc.github.io/img/people/Daniel_2023_square.png
             web_url: https://danielseita.github.io/
 
   # - name: Alumni
-  #   web_url: https://zshanggu.github.io/zeyu-slurm-lab-usc.github.io/alumni/
+  #   web_url: https://slurm-lab-usc.github.io/alumni/
 
   - name: Alumni
     list:
