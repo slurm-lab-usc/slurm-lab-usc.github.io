@@ -124,7 +124,7 @@ members:
           <div class="row member-row">
             {% for member in group.list %}
               <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
-                <a target="_blank" href1="{{ member.web_url }}">
+                <a target="_blank" href="{{ member.web_url }}">
                   <img class="img-responsive" src="{{ member.photo_url }}" alt="{{member.name}}">
                 </a>
                 <a target="_blank" href="{{ member.web_url }}">
