@@ -22,7 +22,7 @@ description: SLURM Lab at USC
 navbar-links:
   Home: "/"
   Members: "members"
-  Research Areas: "areas"
+  # Research Areas: "areas"
   Publications: "publications"
   Getting Involved: "getting_involved"
   # About Me: "aboutme"
@@ -65,7 +65,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Robots Lab
+  name: SLURM Lab at USC
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
