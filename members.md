@@ -54,6 +54,9 @@ members:
           - name: Sicheng He
             photo_url: https://slurm-lab-usc.github.io/img/people/hesicheng.jpg
             web_url: https://hesic73.github.io/
+          - name: Jonathan Zamora
+            photo_url: https://slurm-lab-usc.github.io/img/people/jonzamora.jpg
+            web_url: https://jonzamora.dev/
 
   - name: Undergraduate Students
     list:
