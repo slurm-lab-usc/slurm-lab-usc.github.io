@@ -52,8 +52,8 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/HanyangZHOU.png
             web_url: https://www.linkedin.com/in/hanyang-zhou-usc
           - name: Sicheng He
-            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
-            web_url: https://slurm-lab-usc.github.io/
+            photo_url: https://slurm-lab-usc.github.io/img/people/hesicheng.jpg
+            web_url: https://hesic73.github.io/
 
   - name: Undergraduate Students
     list:
