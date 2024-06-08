@@ -51,6 +51,9 @@ members:
           - name: Hanyang Zhou
             photo_url: https://slurm-lab-usc.github.io/img/people/HanyangZHOU.png
             web_url: https://www.linkedin.com/in/hanyang-zhou-usc
+          - name: Sicheng He
+            photo_url: https://slurm-lab-usc.github.io/img/people/hesicheng.jpg
+            web_url: https://hesic73.github.io/
 
   - name: Undergraduate Students
     list:
@@ -88,6 +91,9 @@ members:
           - name: Abhinav Pillai
             photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
             web_url: https://slurm-lab-usc.github.io/
+          - name: Ebonee Davis
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
+            web_url: https://slurm-lab-usc.github.io/
 
   - name: Faculty
     list:
@@ -105,8 +111,13 @@ members:
       - name: Undergraduate students
         full: False
         list:
-          - name: Qian (Peter) Wang -> Yale University CS PhD
+          - name: Qian (Peter) Wang -> Yale University, PhD in CS
             web_url: https://pwang649.github.io/
+      - name: Visitors
+        full: False
+        list:
+          - name: Ce (Chris) Wang -> SWE at Ambarella Inc
+            web_url: https://www.linkedin.com/in/wangce94/
 ---
 
 <div class="row">
