@@ -52,14 +52,15 @@ Configuration file: /home/seita/slurm-lab-usc.github.io/_config.yml
 ```
 
 And you should be able to access the website locally by going to
-http://127.0.0.1:4000 in your web browser. 
+http://127.0.0.1:4000 in your web browser (Chrome is suggested). 
 
 Daniel has tested this on an Ubuntu 18.04 machine.
+Zeyu has tested this on an Ubuntu 20.04 physical machine and an Ubuntu 22.04 virtual machine.
 </details>
 
 **You can add yourself by editing `members.md`**. See the pattern we use for
 this.  If you are updating this website, make changes locally and please
-preview to make sure it is correct. **Then submit a pull request.** You can do
+preview to make sure it is correct. **Then submit a pull request to the dev branch.** You can do
 this by making a fork of this repository.
 
 For adding photos, please add them to the `img/people` folder. Please also make
