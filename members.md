@@ -95,8 +95,8 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
             web_url: https://slurm-lab-usc.github.io/
           - name: Ebonee Davis
-            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
-            web_url: https://slurm-lab-usc.github.io/
+            photo_url: https://slurm-lab-usc.github.io/img/people/EboneeDavis.jpeg
+            web_url: https://www.linkedin.com/in/eboneetdavis/
 
   - name: Faculty
     list:
