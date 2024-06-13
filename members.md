@@ -89,8 +89,8 @@ members:
       - full: true
         list:
           - name: Gayathri Rajesh
-            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
-            web_url: https://slurm-lab-usc.github.io/
+            photo_url: https://slurm-lab-usc.github.io/img/people/gayathri.jpg
+            web_url: https://www.linkedin.com/in/gayathri-rajesh-b84560228/
           - name: Abhinav Pillai
             photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
             web_url: https://slurm-lab-usc.github.io/
