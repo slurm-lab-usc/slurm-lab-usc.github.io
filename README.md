@@ -60,7 +60,7 @@ Zeyu has tested this on an Ubuntu 20.04 physical machine and an Ubuntu 22.04 vir
 
 **You can add yourself by editing `members.md`**. See the pattern we use for
 this.  If you are updating this website, make changes locally and please
-preview to make sure it is correct. **Then submit a pull request to the dev branch.** You can do
+preview to make sure it is correct. **Then submit a pull request to the main branch.** You can do
 this by making a fork of this repository.
 
 For adding photos, please add them to the `img/people` folder. Please also make
