@@ -5,29 +5,29 @@ title: Getting Involved
 ---
 
 Thank you for your interest in our research! See below for how you can get
-involved. This information is accurate as of **April 2024**.
+involved. This information is accurate as of **June 2024**.
 
 If you have additional questions after reading the below and want to get involved, feel free to email me.
 My contact information is [available on my website](https://danielseita.github.io/).
-I encourage you to read [Yonatan Bisk's FAQ](https://yonatanbisk.com/emailing_professors.html) about emailing professors.
-I will try to respond to emails that are tailored to me.
-I kindly ask that you not send the same generic email to a long list of professors.
+I encourage you to read [Yonatan Bisk's FAQ][2] about emailing professors.
+I will try to respond to emails that are *tailored* to me.
+Please do *not* send the same generic mass email to a long list of professors.
 
 ## PhD Students
 
-I will take either 0 or 1 new PhD students to start in Fall 2025. 
+I will take either 0 or 1 new PhD students to start in Fall 2025.
 
-For PhD applicants: please apply to USC for a PhD program and indicate my name in 
-your application. My home department is [computer science](https://www.cs.usc.edu/), 
+For PhD applicants: please apply to USC for a PhD program and indicate my name in
+your application. My home department is [computer science](https://www.cs.usc.edu/),
 though I am open to co-advising students from other departments (and co-advising
 within computer science). You do not need to email me, because I need to see your
 full application to make a decision (these include confidential letters of
-recommendation). If you email me, I will try to respond if the email is well-tailored. 
-I will check all applications which list my name as a potential PhD advisor. 
+recommendation). If you email me, I will try to respond if the email is well-tailored.
+I will check all applications which list my name as a potential PhD advisor.
 Please also check out my [advising statement](#advising-statement).
 
-I recently joined am excited to be starting a new lab. I am especially interested in 
-working with students with the following experience, skills, or criteria:
+I am especially interested in working with students with the following
+experience, skills, or criteria:
 
 - who have built, fixed, and engineered robotics hardware.
 - who have implemented robotics or physics simulators.
@@ -35,8 +35,8 @@ working with students with the following experience, skills, or criteria:
   learning, and vision-language (foundation) models.
 - who have applied robotics to fields such as agriculture and health care.
 - who come from underrepresented, non-traditional, and/or low-income
-backgrounds, but who have reasonably "maxed out" their available resources to
-learn about robotics and machine learning.
+  backgrounds, but who have reasonably "maxed out" their available resources to
+  learn about robotics and machine learning.
 
 I think this is a great time to be working in robotics. We have a wonderful (and
 growing) [robotics group at USC][3]. Furthermore, the computer science
@@ -53,19 +53,23 @@ of available times.
 
 ## Masters and Undergraduate Students at USC
 
-Please fill out [the following application][1] and send me an email reminder to
-check the form.  We will reach out to you if we decide to interview you.
+Please fill out [the following application][1]. While we actively monitor this
+form, it can help to send me a brief email reminder to check the form. Do *not*
+attach any documents to this email, since you can upload them in the form. We
+will reach out if we decide to interview you.
 
 ## Postdocs
 
 I am not actively searching for postdocs. However, if you feel like there's a
 good match and that there might be opportunities to get funding, I am happy to
-consider options. You can email me and suggest 2 project ideas we could work on.
+consider options. Please email me with (i) a summary of two project ideas we
+could work on, (ii) contact information for two references, and (iii) links to
+your research website(s).
 
 ## External Visitors not at USC
 
 I may eventually be able to work with external visitors who are not currently
-at USC, but I expect this to be a very rare circumstance. 
+at USC, but I expect this to be a very rare circumstance.
 To apply, *email me by pitching me a 1-page project idea*.
 
 
@@ -102,5 +106,6 @@ If this all sounds good, please apply to work with me!
 
 
 [1]:https://docs.google.com/forms/d/e/1FAIpQLSc0GzWxX3vGoNFGGHwIk-2SjCAO6npQzN7WsVJjaUfymiEDiA/viewform?usp=sf_link
+[2]:https://talkingtorobots.com/FAQ.html
 [3]:https://rasc.usc.edu/
 [4]:https://viterbischool.usc.edu/ginsburghall/
