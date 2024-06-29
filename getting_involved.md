@@ -38,9 +38,8 @@ experience, skills, or criteria:
   backgrounds, but who have reasonably "maxed out" their available resources to
   learn about robotics and machine learning.
 
-I think this is a great time to be working in robotics. We have a wonderful (and
-growing) [robotics group at USC][3]. Furthermore, the computer science
-department will have a [brand new building][4] ready in 2024 for us!
+I think this is a great time to be working in robotics. 
+We also have an excellent [robotics group at USC][3].
 
 PhD students will receive funding. The normal requirement is to TA for two
 semesters. Beyond those two semesters, I will do my best to support you with as
