@@ -62,8 +62,8 @@ will reach out if we decide to interview you.
 I am not actively searching for postdocs. However, if you feel like there's a
 good match and that there might be opportunities to get funding, I am happy to
 consider options. Please email me and include at least this information: (i) a
-summary of two project ideas we could work on, (ii) contact information for two
-references, and (iii) your one or two strongest research papers. 
+brief summary of two project ideas we could work on, (ii) contact information 
+for at least two references, and (iii) your one or two strongest papers. 
 
 ## External Visitors not at USC
 
