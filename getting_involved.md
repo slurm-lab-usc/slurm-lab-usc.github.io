@@ -104,8 +104,7 @@ Here is my brief perspective on advising.
 
 If this all sounds good, please apply to work with me!
 
-
-[1]:https://docs.google.com/forms/d/e/1FAIpQLSc0GzWxX3vGoNFGGHwIk-2SjCAO6npQzN7WsVJjaUfymiEDiA/viewform?usp=sf_link
+[1]:https://docs.google.com/forms/d/e/1FAIpQLSd3dFwQE4xSsBJw1QQsRkYo6RxrEabIGwkKZh_w3FcRWK2P5g/viewform
 [2]:https://talkingtorobots.com/FAQ.html
 [3]:https://rasc.usc.edu/
 [4]:https://viterbischool.usc.edu/ginsburghall/
