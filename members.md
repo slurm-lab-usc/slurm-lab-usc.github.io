@@ -63,7 +63,7 @@ members:
       - full: true
         list:
           - name: Hao Jiang
-            photo_url: https://slurm-lab-usc.github.io/img/people/HaoJiang.jpg
+            photo_url: https://slurm-lab-usc.github.io/img/people/HaoJiang.jpeg
             web_url: https://linkedin.com/in/hao-jiang-1a3a73225
           - name: Oluwatobiloba Adesanya
             photo_url: https://slurm-lab-usc.github.io/img/people/TobiAdesanya.jpeg
