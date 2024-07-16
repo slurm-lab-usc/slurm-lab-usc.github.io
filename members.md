@@ -92,8 +92,8 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/gayathri.jpg
             web_url: https://www.linkedin.com/in/gayathri-rajesh-b84560228/
           - name: Abhinav Pillai
-            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
-            web_url: https://slurm-lab-usc.github.io/
+            photo_url: https://slurm-lab-usc.github.io/img/people/Abhinav_Pillai.jpg
+            web_url: https://www.linkedin.com/in/abhinav-pillai-62244b237
           - name: Ebonee Davis
             photo_url: https://slurm-lab-usc.github.io/img/people/EboneeDavis.jpeg
             web_url: https://www.linkedin.com/in/eboneetdavis/
