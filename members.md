@@ -83,6 +83,9 @@ members:
           - name: Letian Zhang
             photo_url: https://slurm-lab-usc.github.io/img/people/LetianZhang.jpeg
             web_url: https://www.linkedin.com/in/letian-zhang-630b37235/
+          - name: Jason Chen
+            photo_url: https://slurm-lab-usc.github.io/img/people/JasonChen.jpeg
+            web_url: https://jasoonchen.com/
 
   - name: Interns and Visitors
     list:
