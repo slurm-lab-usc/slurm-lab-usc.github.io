@@ -5,7 +5,7 @@ title: Getting Involved
 ---
 
 Thank you for your interest in our research! See below for how you can get
-involved. This information is accurate as of **July 2024**.
+involved. This information is accurate as of **August 2024**.
 
 If you have additional questions after reading the below and want to get involved, feel free to email me.
 My contact information is [available on my website](https://danielseita.github.io/).
@@ -59,7 +59,8 @@ will reach out if we decide to interview you.
 
 ## Postdocs
 
-I am not actively searching for postdocs. However, if you feel like there's a
+I am not actively searching for postdocs and I also do not have funding for one. 
+However, if you feel like there's a
 good match and that there might be opportunities to get funding, I am happy to
 consider options. Please email me and include at least this information: (i) a
 brief summary of two project ideas we could work on, (ii) contact information 
@@ -70,6 +71,7 @@ for at least two references, and (iii) your one or two strongest papers.
 I may eventually be able to work with external visitors who are not currently
 at USC, but I expect this to be a very rare circumstance.
 To apply, *email me by pitching me a 1-page project idea*.
+I do not have any funding for such positions at the moment.
 
 
 ## Advising Statement
