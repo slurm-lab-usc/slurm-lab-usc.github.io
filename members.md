@@ -19,6 +19,9 @@ members:
           - name: Yiyang Ling
             photo_url: https://slurm-lab-usc.github.io/img/people/Yiyang.jpg
             web_url: https://yiyang0207.github.io/
+          - name: Ayano Hiranaka
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
+            web_url: https://slurm-lab-usc.github.io/
 
   - name: Master's Students
     list:
@@ -57,6 +60,12 @@ members:
           - name: Jonathan Zamora
             photo_url: https://slurm-lab-usc.github.io/img/people/jonzamora.jpg
             web_url: https://jonzamora.dev/
+          - name: Wenhao Liu
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
+            web_url: https://slurm-lab-usc.github.io/
+          - name: Rajas Chitale
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
+            web_url: https://slurm-lab-usc.github.io/
 
   - name: Undergraduate Students
     list:
@@ -86,20 +95,20 @@ members:
           - name: Jason Chen
             photo_url: https://slurm-lab-usc.github.io/img/people/JasonChen.jpeg
             web_url: https://jasoonchen.com/
+          - name: Rida Faraz
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
+            web_url: https://slurm-lab-usc.github.io/
+          - name: Siddarth Rudraraju
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
+            web_url: https://slurm-lab-usc.github.io/
 
   - name: Interns and Visitors
     list:
       - full: true
         list:
-          - name: Gayathri Rajesh
-            photo_url: https://slurm-lab-usc.github.io/img/people/gayathri.jpg
-            web_url: https://www.linkedin.com/in/gayathri-rajesh-b84560228/
-          - name: Abhinav Pillai
-            photo_url: https://slurm-lab-usc.github.io/img/people/Abhinav_Pillai.jpg
-            web_url: https://www.linkedin.com/in/abhinav-pillai-62244b237
-          - name: Ebonee Davis
-            photo_url: https://slurm-lab-usc.github.io/img/people/EboneeDavis.jpeg
-            web_url: https://www.linkedin.com/in/eboneetdavis/
+          - name: Coming
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
+            web_url: https://slurm-lab-usc.github.io/
 
   - name: Faculty
     list:
@@ -119,11 +128,25 @@ members:
         list:
           - name: Qian (Peter) Wang -> Yale University, PhD in CS
             web_url: https://pwang649.github.io/
+          - name: Emily Zhu -> USC
+            web_url: https://slurm-lab-usc.github.io/
       - name: Visitors
         full: False
         list:
           - name: Ce (Chris) Wang -> SWE at Ambarella Inc
             web_url: https://www.linkedin.com/in/wangce94/
+      - name: Interns
+        full: False
+        list:
+          - name: Gayathri Rajesh (NIT)
+            photo_url: https://slurm-lab-usc.github.io/img/people/gayathri.jpg
+            web_url: https://www.linkedin.com/in/gayathri-rajesh-b84560228/
+          - name: Abhinav Pillai (ITT-K)
+            photo_url: https://slurm-lab-usc.github.io/img/people/Abhinav_Pillai.jpg
+            web_url: https://www.linkedin.com/in/abhinav-pillai-62244b237
+          - name: Ebonee Davis (MIT)
+            photo_url: https://slurm-lab-usc.github.io/img/people/EboneeDavis.jpeg
+            web_url: https://www.linkedin.com/in/eboneetdavis/
 ---
 
 <div class="row">
