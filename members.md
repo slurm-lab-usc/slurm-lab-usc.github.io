@@ -20,8 +20,8 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/Yiyang.jpg
             web_url: https://yiyang0207.github.io/
           - name: Ayano Hiranaka
-            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
-            web_url: https://slurm-lab-usc.github.io/
+            photo_url: https://slurm-lab-usc.github.io/img/people/AyanoHiranaka.jpg
+            web_url: https://misoshiruseijin.github.io
 
   - name: Master's Students
     list:
