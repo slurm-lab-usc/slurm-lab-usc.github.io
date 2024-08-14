@@ -53,7 +53,7 @@ members:
             web_url: https://www.linkedin.com/in/harshitha-b-r-2ab510190/
           - name: Hanyang Zhou
             photo_url: https://slurm-lab-usc.github.io/img/people/HanyangZHOU.png
-            web_url: https://www.linkedin.com/in/hanyang-zhou-usc
+            web_url: https://hanyang-zhou.github.io/
           - name: Sicheng He
             photo_url: https://slurm-lab-usc.github.io/img/people/hesicheng.jpg
             web_url: https://hesic73.github.io/
