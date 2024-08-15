@@ -67,6 +67,7 @@ For adding photos, please add them to the `img/people` folder. Please also make
 them equal in height and width ratio (i.e., the image is "square"). I recommend
 photos that are about 1MB or smaller in size.
 
+For step-by-step instructions, please refer to https://docs.google.com/presentation/d/10d1aXpl_xcZ1eZSv1WFHLoQEZaeZA-bI/edit?usp=sharing&ouid=102267118200150194489&rtpof=true&sd=true
 
 # References
 
