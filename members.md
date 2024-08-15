@@ -34,7 +34,7 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
             web_url: https://slurm-lab-usc.github.io/
           - name: Vedant Raval
-            photo_url: /img/people/VedantRaval.jpeg
+            photo_url: https://slurm-lab-usc.github.io/img/people/VedantRaval.jpeg
             web_url: https://vedant2311.github.io
           - name: Yuhai Wang
             photo_url: https://slurm-lab-usc.github.io/img/people/Yuhai.jpg
