@@ -64,8 +64,8 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
             web_url: https://slurm-lab-usc.github.io/
           - name: Rajas Chitale
-            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
-            web_url: https://slurm-lab-usc.github.io/
+            photo_url: https://slurm-lab-usc.github.io/img/RajasChitale.JPG
+            web_url: https://www.linkedin.com/in/rajas-chitale-rcv/
 
   - name: Undergraduate Students
     list:
