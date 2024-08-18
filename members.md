@@ -61,8 +61,8 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/jonzamora.jpg
             web_url: https://jonzamora.dev/
           - name: Wenhao Liu
-            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
-            web_url: https://slurm-lab-usc.github.io/
+            photo_url: https://slurm-lab-usc.github.io/img/people/WenhaoLiu.jpg
+            web_url: https://Liu-wenhao-1223.github.io/
           - name: Rajas Chitale
             photo_url: https://slurm-lab-usc.github.io/img/people/RajasChitale.JPG
             web_url: https://www.linkedin.com/in/rajas-chitale-rcv/
