@@ -31,8 +31,8 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/AnupamPatil.jpeg
             web_url: https://www.linkedin.com/in/anupam-patil-114b841b0/
           - name: Dhanush Penmetsa
-            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
-            web_url: https://slurm-lab-usc.github.io/
+            photo_url: https://slurm-lab-usc.github.io/img/people/dhanush_varma.jpeg
+            web_url: https://www.linkedin.com/in/dhanush-varma/
           - name: Vedant Raval
             photo_url: https://slurm-lab-usc.github.io/img/people/VedantRaval.jpeg
             web_url: https://vedant2311.github.io
