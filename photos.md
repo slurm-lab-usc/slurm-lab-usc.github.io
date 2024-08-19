@@ -9,9 +9,9 @@ lab_photos:
       - month: August
         list:
           - event: Detroit Pizza Depot, August 2024
-            photo_url: /img/lab_photos/Lab_social.jpeg
+            photo_url: /img/lab_photos/Lab_social.jpg
           - event: Happy birthday to Daniel!🎂
-            photo_url: /img/lab_photos/Birthday.jpeg
+            photo_url: /img/lab_photos/Birthday.jpg
 ---
 
 <!-- ## Summer 2024
