@@ -10,12 +10,12 @@ involved. This information is accurate as of **September 2024**.
 If you have additional questions after reading the below and want to get involved, feel free to email me.
 My contact information is [available on my website](https://danielseita.github.io/).
 I encourage you to read [Yonatan Bisk's FAQ][2] about emailing professors.
-I will try to respond to emails that are *tailored* to me.
+I will try to respond to emails that are tailored to me. For example, they might explain why my lab is a good fit.
 Please do *not* send the same generic mass email to a long list of professors.
 
 ## PhD Students
 
-*I am not hiring new PhD students for the upcoming 2024-2025 application cycle.*
+*For students seeking PhDs to start in Fall 2024: I am not hiring new PhD students for the upcoming 2024-2025 application cycle.*
 
 For PhD applicants: please apply to USC for a PhD program and indicate my name in
 your application. My home department is [computer science](https://www.cs.usc.edu/),
@@ -70,7 +70,7 @@ for at least two references, and (iii) your one or two strongest papers.
 
 I may eventually be able to work with external visitors who are not currently
 at USC, but I expect this to be a very rare circumstance.
-To apply, *email me by pitching me a 1-page project idea*.
+To apply, *email me by pitching me a project idea (0.5 to 1.0 pages)*.
 I do not have any funding for such positions at the moment.
 
 
