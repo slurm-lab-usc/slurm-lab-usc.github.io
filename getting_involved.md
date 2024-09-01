@@ -15,7 +15,7 @@ Please do *not* send the same generic mass email to a long list of professors.
 
 ## PhD Students
 
-*For students seeking PhDs to start in Fall 2025: I am not hiring new PhD students for the upcoming 2024-2025 application cycle.*
+*For students looking to begin a PhD in Fall 2025: I am not hiring new PhD students for the upcoming 2024-2025 application cycle.*
 
 For PhD applicants: please apply to USC for a PhD program and indicate my name in
 your application. My home department is [computer science](https://www.cs.usc.edu/),
