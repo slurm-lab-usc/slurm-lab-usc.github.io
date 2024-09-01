@@ -4,11 +4,19 @@ title: Lab Photos
 # slim: true
 
 lab_photos:
+  - semester: Fall 2024
+    list:
+      - month: August
+        list:
+          - event: Unitree G1 demo, August
+            photo_url: /img/lab_photos/Unitree_G1.jpg
+          - event: Unitree Go2 demo, August
+            photo_url: /img/lab_photos/Unitree_Go2.jpg
   - semester: Summer 2024
     list:
       - month: August
         list:
-          - event: Detroit Pizza Depot, August 2024
+          - event: Detroit Pizza Depot, August
             photo_url: /img/lab_photos/Lab_social.jpg
           - event: Happy birthday to Daniel!🎂
             photo_url: /img/lab_photos/Birthday.jpg
@@ -36,13 +44,13 @@ lab_photos:
         <!-- {% if group.month %}
           <h2 style="text-align: left; margin-bottom: 20px;"> {{ group.month }} </h2>
         {% endif %} -->
-        <div class="row lab_photos-row">
-          {% for lab_photos in group.list %}
-            <div class="col-xl-6 col-lg-6 col-md-6 text-center col-sm-12 col-xs-12 lab_photos-col">
-              <img class="img-responsive" src="{{ lab_photos.photo_url }}" alt="{{lab_photos.event}}">  
-            {{ lab_photos.event }}
-            </div>
-          {% endfor %}
+        <div class="row lab_photos-row">  
+          {% for lab_photos in group.list %}  
+            <div class="col-xl-6 col-lg-6 col-md-6 text-center col-sm-12 col-xs-12 lab_photos-col">  
+              <img class="lab-photo img-responsive" src="{{ lab_photos.photo_url }}" alt="{{ lab_photos.event }}">    
+              <div class="photo-caption">{{ lab_photos.event }}</div>  
+            </div>  
+          {% endfor %}  
         </div>
       <br>
       {% endif %}
