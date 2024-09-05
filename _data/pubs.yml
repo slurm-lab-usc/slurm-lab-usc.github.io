@@ -33,7 +33,7 @@
     the model's language understanding capability. We evaluate our model on
     common standard cross-domain object detection datasets and demonstrate that
     our approach considerably outperforms existing FSOD methods.
-  authors: "Zeyu Shangguan and Daniel Seita and Mohammad Rostami"
+  authors: "Zeyu Shangguan, Daniel Seita, Mohammad Rostami"
   award: null
   bib: "@inproceedings{zeyu2025cdmmfsod,\n
     \ title = {{Cross-domain Multi-modal Few-shot Object Detection via Rich Text}},\n
@@ -68,7 +68,7 @@
     generalize to objects with different physics properties. To our knowledge,
     this is the first paper to leverage granular media avalanche dynamics to
     indirectly manipulate objects on granular slopes.
-  authors: "Haodi Hu and Feifei Qian\u2020, Daniel Seita\u2020"
+  authors: "Haodi Hu, Feifei Qian\u2020, Daniel Seita\u2020"
   award: null
   bib: "@inproceedings{hu2024grain,\n
     \ title = {{Learning Granular Media Avalanche Behavior for Indirectly Manipulating Obstacles on a Granular Slope}},\n
