@@ -107,7 +107,7 @@
     \ author = {I-Chun Arthur Liu and Sicheng He and Daniel Seita and Gaurav Sukhatme},\n
     \ booktitle = {Conference on Robot Learning (CoRL)},\n
     \ Year = {2024}\n}"
-  img: ../img/papers/corl_placeholder.png
+  img: ../img/papers/voxact-b-CORL2024.gif
   links:
     '[arXiv]': https://arxiv.org/abs/2407.04152
   short_id: 2024_VoxActB
