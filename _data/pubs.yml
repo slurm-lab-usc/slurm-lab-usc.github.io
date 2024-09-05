@@ -15,6 +15,110 @@
 # Current tags for research areas, see the research areas page for more details:
 # deform_obj_manip, 3D_afford_obj_manip, multimodal, rl_algs, auto_driving, active_perception, self_sup_rob
 
+- abs: Cross-modal feature extraction and integration have led to steady
+    performance improvements in few-shot learning tasks due to generating
+    richer features. However, existing multi-modal object detection (MM-OD)
+    methods degrade when facing significant domain-shift and are sample
+    insufficient. We hypothesize that rich text information could more
+    effectively help the model to build a knowledge relationship between the
+    vision instance and its language description and can help mitigate domain
+    shift. Specifically, we study the Cross-Domain few-shot generalization of
+    MM-OD (CDMM-FSOD) and propose a meta-learning based multi-modal few-shot
+    object detection method that utilizes rich text semantic information as an
+    auxiliary modality to achieve domain adaptation in the context of FSOD. Our
+    proposed network contains (i) a multi-modal feature aggregation module that
+    aligns the vision and language support feature embeddings and (ii) a rich
+    text semantic rectify module that utilizes bidirectional text feature
+    generation to reinforce multi-modal feature alignment and thus to enhance
+    the model's language understanding capability. We evaluate our model on
+    common standard cross-domain object detection datasets and demonstrate that
+    our approach considerably outperforms existing FSOD methods.
+  authors: "Zeyu Shangguan and Daniel Seita and Mohammad Rostami"
+  award: null
+  bib: "@inproceedings{zeyu2025cdmmfsod,\n
+    \ title = {{Cross-domain Multi-modal Few-shot Object Detection via Rich Text}},\n
+    \ author = {Zeyu Shangguan and Daniel Seita and Mohammad Rostami},\n
+    \ booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},\n
+    \ Year = {2025}\n}"
+  img: ../img/papers/wacv_placeholder.png
+  links:
+    '[arXiv]': https://arxiv.org/abs/2403.16188
+  short_id: 2025_CDMMFSOD
+  site: https://arxiv.org/abs/2403.16188
+  title: "Cross-domain Multi-modal Few-shot Object Detection via Rich Text"
+  venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+  video_embed: null
+  tags:
+    - vision
+
+- abs: Legged robot locomotion on sand slopes is challenging due to the complex
+    dynamics of granular media and how the lack of solid surfaces can hinder
+    locomotion. A promising strategy, inspired by ghost crabs and other
+    organisms in nature, is to strategically interact with rocks, debris, and
+    other obstacles to facilitate movement. To provide legged robots with this
+    ability, we present a novel approach that leverages avalanche dynamics to
+    indirectly manipulate objects on a granular slope. We use a Vision
+    Transformer (ViT) to process image representations of granular dynamics and
+    robot excavation actions. The ViT predicts object movement, which we use to
+    determine which leg excavation action to execute. We collect training data
+    from 100 real physical trials and, at test time, deploy our trained model
+    in novel settings. Experimental results suggest that our model can
+    accurately predict object movements and achieve a success rate ≥80% in a
+    variety of manipulation tasks with up to four obstacles, and can also
+    generalize to objects with different physics properties. To our knowledge,
+    this is the first paper to leverage granular media avalanche dynamics to
+    indirectly manipulate objects on granular slopes.
+  authors: "Haodi Hu and Feifei Qian\u2020, Daniel Seita\u2020"
+  award: null
+  bib: "@inproceedings{hu2024grain,\n
+    \ title = {{Learning Granular Media Avalanche Behavior for Indirectly Manipulating Obstacles on a Granular Slope}},\n
+    \ author = {Haodi Hu and Feifei Qian and Daniel Seita},\n
+    \ booktitle = {Conference on Robot Learning (CoRL)},\n
+    \ Year = {2024}\n}"
+  img: ../img/papers/corl_placeholder.png
+  links:
+    '[arXiv]': https://arxiv.org/abs/2407.01898
+  short_id: 2024_GRAIN
+  site: https://sites.google.com/view/grain-corl2024/home
+  title: "Learning Granular Media Avalanche Behavior for Indirectly Manipulating Obstacles on a Granular Slope"
+  venue: Conference on Robot Learning (CoRL), 2024
+  video_embed: null
+  tags:
+    - quadruped
+
+- abs: Bimanual manipulation is critical to many robotics applications. In
+    contrast to single-arm manipulation, bimanual manipulation tasks are
+    challenging due to higher-dimensional action spaces. Prior works leverage
+    large amounts of data and primitive actions to address this problem, but
+    may suffer from sample inefficiency and limited generalization across
+    various tasks. To this end, we propose VoxAct-B, a language-conditioned,
+    voxel-based method that leverages Vision Language Models (VLMs) to
+    prioritize key regions within the scene and reconstruct a voxel grid. We
+    provide this voxel grid to our bimanual manipulation policy to learn acting
+    and stabilizing actions.  This approach enables more efficient policy
+    learning from voxels and is generalizable to different tasks. In
+    simulation, we show that VoxAct-B outperforms strong baselines on
+    fine-grained bimanual manipulation tasks.  Furthermore, we demonstrate
+    VoxAct-B on real-world Open Drawer and Open Jar tasks using two UR5s.
+  authors: "I-Chun Arthur Liu, Sicheng He, Daniel Seita\u2020, Gaurav Sukhatme\u2020"
+  award: null
+  bib: "@inproceedings{liu2024voxactb,\n
+    \ title = {{VoxAct-B: Voxel-Based Acting and Stabilizing Policy for Bimanual Manipulation}},\n
+    \ author = {I-Chun Arthur Liu and Sicheng He and Daniel Seita and Gaurav Sukhatme},\n
+    \ booktitle = {Conference on Robot Learning (CoRL)},\n
+    \ Year = {2024}\n}"
+  img: ../img/papers/corl_placeholder.png
+  links:
+    '[arXiv]': https://arxiv.org/abs/2407.04152
+  short_id: 2024_VoxActB
+  site: https://voxact-b.github.io/
+  title: "VoxAct-B: Voxel-Based Acting and Stabilizing Policy for Bimanual Manipulation"
+  venue: Conference on Robot Learning (CoRL), 2024
+  video_embed: null
+  tags:
+    - bimanual
+    - 3D
+
 - abs: Many fabric handling and 2D deformable material tasks in homes and
     industry require singulating layers of material such as opening a bag or
     arranging garments for sewing. In contrast to methods requiring specialized
@@ -45,6 +149,7 @@
   video_embed: null
   tags:
     - deformable
+    - bimanual
 
 - abs: Thin plastic bags are ubiquitous in retail stores, healthcare, food
     handling, recycling, homes, and school lunchrooms. They are challenging
@@ -80,6 +185,7 @@
   video_embed: null
   tags:
     - deformable
+    - bimanual
 
 - abs: "Point clouds are a widely available and canonical data modality which
     conveys the 3D geometry of a scene. Despite significant progress in
@@ -112,12 +218,12 @@
     '[Twitter]': https://twitter.com/daniel_t_seita/status/1595269818474692609
   short_id: 2022corltoolflownet
   site: https://sites.google.com/view/point-cloud-policy
-  title: 'ToolFlowNet: Robotic Manipulation with Tools via Predicting Tool Flow from
-    Point Clouds'
+  title: "ToolFlowNet: Robotic Manipulation with Tools via Predicting Tool Flow from Point Clouds"
   venue: Conference on Robot Learning (CoRL), 2022
   video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/cJbtqOAGyI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   tags:
     - deformable
+    - 3D
 
 - abs: Robotic manipulation of cloth has applications ranging from fabrics manufacturing
     to handling blankets and laundry. Cloth manipulation is challenging for robots
@@ -299,8 +405,8 @@
     '[Blog]': https://bair.berkeley.edu/blog/2020/05/05/fabrics/
   short_id: 2021_vsf_auro
   site: https://sites.google.com/view/fabric-vsf/
-  title: VisuoSpatial Foresight for Physical Sequential Fabric Manipulation
-  venue: "Autonomous Robots (AURO), 2021"
+  title: "VisuoSpatial Foresight for Physical Sequential Fabric Manipulation"
+  venue: Autonomous Robots (AURO), 2021
   video_embed: null
   tags: null
 
