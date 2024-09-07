@@ -66,6 +66,9 @@ members:
           - name: Rajas Chitale
             photo_url: https://slurm-lab-usc.github.io/img/people/RajasChitale.JPG
             web_url: https://www.linkedin.com/in/rajas-chitale-rcv/
+          - name: Diya Saraf
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
+            web_url: https://slurm-lab-usc.github.io/
 
   - name: Undergraduate Students
     list:
@@ -80,15 +83,6 @@ members:
           - name: Jonathan Ong
             photo_url: https://slurm-lab-usc.github.io/img/people/JonathanOng.jpg
             web_url: https://www.linkedin.com/in/ongjonathand
-          - name: Vijay Kumaravelrajan
-            photo_url: https://slurm-lab-usc.github.io/img/people/VijayKumaravelrajan.jpg
-            web_url: https://www.linkedin.com/in/vijay-kumaravelrajan/
-          - name: Zitong Huang
-            photo_url: https://slurm-lab-usc.github.io/img/people/Cynthia.jpeg
-            web_url: https://www.linkedin.com/in/zitong-huang/
-          - name: Anisha Chitta
-            photo_url: https://slurm-lab-usc.github.io/img/people/AnishaChitta.jpeg
-            web_url: https://www.linkedin.com/in/anisha-chitta/
           - name: Letian Zhang
             photo_url: https://slurm-lab-usc.github.io/img/people/LetianZhang.jpeg
             web_url: https://www.linkedin.com/in/letian-zhang-630b37235/
@@ -98,17 +92,23 @@ members:
           - name: Rida Faraz
             photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
             web_url: https://slurm-lab-usc.github.io/
-          - name: Siddarth Rudraraju
+          - name: Sam Burns
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
+            web_url: https://slurm-lab-usc.github.io/
+          - name: Maria Guerrero Cordoba
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
+            web_url: https://slurm-lab-usc.github.io/
+          - name: David Kim
             photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
             web_url: https://slurm-lab-usc.github.io/
 
-  - name: Interns and Visitors
-    list:
-      - full: true
-        list:
-          - name: Coming
-            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
-            web_url: https://slurm-lab-usc.github.io/
+  # - name: Interns and Visitors
+  #   list:
+  #     - full: true
+  #       list:
+  #         - name: Coming
+  #           photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
+  #           web_url: https://slurm-lab-usc.github.io/
 
   - name: Faculty
     list:
@@ -126,25 +126,31 @@ members:
       - name: Undergraduate students
         full: False
         list:
-          - name: Qian (Peter) Wang -> Yale University, PhD in CS
+          - name: Qian (Peter) Wang (2023-2024) -> Yale University, PhD in CS
             web_url: https://pwang649.github.io/
-          - name: Emily Zhu -> USC
-            web_url: https://slurm-lab-usc.github.io/
+          - name: Emily Zhu (2023-2024)
+            web_url: https://www.linkedin.com/in/emily-k-zhu/
+          - name: Vijay Kumaravelrajan (2024)
+            web_url: https://www.linkedin.com/in/vijay-kumaravelrajan/
+          - name: Zitong Huang (2024)
+            web_url: https://www.linkedin.com/in/zitong-huang/
+          - name: Anisha Chitta (2024)
+            web_url: https://www.linkedin.com/in/anisha-chitta/
       - name: Visitors
         full: False
         list:
-          - name: Ce (Chris) Wang -> SWE at Ambarella Inc
+          - name: Ce (Chris) Wang (2024) -> SWE at Ambarella Inc
             web_url: https://www.linkedin.com/in/wangce94/
       - name: Interns
         full: False
         list:
-          - name: Gayathri Rajesh (NIT)
+          - name: Gayathri Rajesh (IUSSTF-Viterbi 2024; National Institute of Technology, Tiruchirappalli)
             photo_url: https://slurm-lab-usc.github.io/img/people/gayathri.jpg
             web_url: https://www.linkedin.com/in/gayathri-rajesh-b84560228/
-          - name: Abhinav Pillai (ITT-K)
+          - name: Abhinav Pillai (USC REU 2024; Indian Institute of Technology, Kharagpur)
             photo_url: https://slurm-lab-usc.github.io/img/people/Abhinav_Pillai.jpg
             web_url: https://www.linkedin.com/in/abhinav-pillai-62244b237
-          - name: Ebonee Davis (MIT)
+          - name: Ebonee Davis (USC SURE 2024; Massachusetts Institute of Technology)
             photo_url: https://slurm-lab-usc.github.io/img/people/EboneeDavis.jpeg
             web_url: https://www.linkedin.com/in/eboneetdavis/
 ---
