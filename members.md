@@ -126,33 +126,51 @@ members:
       - name: Undergraduate students
         full: False
         list:
-          - name: Qian (Peter) Wang (2023-2024) -> Yale University, PhD in CS
+          - name: Qian (Peter) Wang
             web_url: https://pwang649.github.io/
-          - name: Emily Zhu (2023-2024)
+            period: 2023-2024 (CS & AM)
+            next_step: PhD in CS, Yale University
+          - name: Emily Zhu
             web_url: https://www.linkedin.com/in/emily-k-zhu/
-          - name: Vijay Kumaravelrajan (2024)
+            period: 2023-2024 (CS & BA)
+            next_step: 
+          - name: Vijay Kumaravelrajan
             web_url: https://www.linkedin.com/in/vijay-kumaravelrajan/
-          - name: Zitong Huang (2024)
+            period: 2024 (CS & AM)
+            next_step: 
+          - name: Zitong Huang
             web_url: https://www.linkedin.com/in/zitong-huang/
-          - name: Anisha Chitta (2024)
+            period: 2024 (CECS)
+            next_step: 
+          - name: Anisha Chitta
             web_url: https://www.linkedin.com/in/anisha-chitta/
+            period: 2024 (CSBA)
+            next_step: 
       - name: Visitors
         full: False
         list:
-          - name: Ce (Chris) Wang (2024) -> SWE at Ambarella Inc
+          - name: Ce (Chris) Wang
             web_url: https://www.linkedin.com/in/wangce94/
+            period: 2024 (Remote collaborator)
+            next_step: SWE at Ambarella Inc
       - name: Interns
         full: False
         list:
-          - name: Gayathri Rajesh (IUSSTF-Viterbi 2024; National Institute of Technology, Tiruchirappalli)
+          - name: Gayathri Rajesh
             photo_url: https://slurm-lab-usc.github.io/img/people/gayathri.jpg
             web_url: https://www.linkedin.com/in/gayathri-rajesh-b84560228/
-          - name: Abhinav Pillai (USC REU 2024; Indian Institute of Technology, Kharagpur)
+            period: IUSSTF-Viterbi 2024 (Undergrad at National Institute of Technology, Tiruchirappalli)
+            next_step: 
+          - name: Abhinav Pillai
             photo_url: https://slurm-lab-usc.github.io/img/people/Abhinav_Pillai.jpg
             web_url: https://www.linkedin.com/in/abhinav-pillai-62244b237
-          - name: Ebonee Davis (USC SURE 2024; Massachusetts Institute of Technology)
+            period: USC REU 2024 (Undergrad at Indian Institute of Technology, Kharagpur)
+            next_step: 
+          - name: Ebonee Davis
             photo_url: https://slurm-lab-usc.github.io/img/people/EboneeDavis.jpeg
             web_url: https://www.linkedin.com/in/eboneetdavis/
+            period: USC SURE 2024 (Undergrad at MIT)
+            next_step: 
 ---
 
 <div class="row">
@@ -181,13 +199,32 @@ members:
           </div>
           {% else %}
             <ul>
-              {% for member in group.list %}
-                {% if member.web_url %}
+              {% if big_group.name == 'Alumni' %}
+                <!-- {% if member.web_url %}
                   <li><a href="{{member.web_url}}"> {{member.name}} </a></li>
                 {% else %}
                   <li><a> {{member.name}} </a></li>
-                {% endif %}
-              {% endfor %}
+                {% endif %} -->
+                <div id="alumni">
+                  <!-- <h2 class="row-label" id="alumni-label">Alumni</h2> -->
+                  <div class="alumni-entries">
+                    <div class="alumni-names grid-child">{{ "Name" }}</div>
+                    <div class="alumni-period grid-child" style="font-weight: bold;">{{ "Period" }}</div>
+                    <div class="alumni-next_step grid-child" style="font-weight: bold;">{{ "Next step (known)" }}</div>
+                  </div>
+                  {% for member in group.list %}
+                  <div class="alumni-entries">
+                    <div class="alumni-names grid-child">
+                      {% if member.web_url != "" %}
+                      <a href="{{ member.web_url }}" target="_blank">{{ member.name }}</a>
+                      {% else %} {{ member.name }} {% endif %}
+                    </div>
+                    <div class="alumni-period grid-child">{{ member.period }}</div>
+                    <div class="alumni-next_step grid-child">{{ member.next_step }}</div>
+                  </div>
+                  {% endfor %}
+                </div>
+              {% endif %}
             </ul>
           {% endif %}
         <br>

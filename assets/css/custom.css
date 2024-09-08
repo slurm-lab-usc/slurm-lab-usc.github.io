@@ -93,3 +93,61 @@
 .video_embed {
   margin-top: 5px;
 }
+
+/* Lab alumni */
+#alumni {
+  /* padding-left: 50px; */
+}
+
+#alumni-label {
+  font-weight: 700;
+  padding-top: 50px;
+}
+
+.alumni-entries {
+  display: grid;
+  grid-template-columns: 200px 400px auto;
+  grid-template-rows: 1fr;
+  grid-template-areas: "name dept job";
+  column-gap: 20px;
+  margin-bottom: 5px;
+}
+
+.pub-grid-parent {
+  display: grid;
+  grid-template-columns: 200px auto;
+  grid-template-rows: 1fr;
+  column-gap: 20px;
+  margin-bottom: 20px;
+}
+
+.pub-grid-child {
+  justify-self: start;
+  align-self: start;
+}
+
+.grid-parent {
+  display: grid;
+  grid-template-columns: 80px auto;
+  grid-template-rows: 1fr;
+  column-gap: 20px;
+  margin-bottom: 20px;
+}
+
+.grid-child {
+  justify-self: start;
+  align-self: start;
+}
+
+.alumni-names {
+  grid-area: name;
+  font-weight: bold;
+}
+
+.alumni-department {
+  grid-area: dept;
+}
+
+.alumni-job {
+  grid-area: job;
+}
