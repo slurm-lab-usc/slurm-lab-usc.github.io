@@ -49,38 +49,45 @@
   height: inherit;
 }
 
-.member-col {
-  height: 350px;
-}
-
-.member-col img {
+.member-col { 
+  margin-bottom: 20px;
+   
+  padding: 10px;
+}  
+  
+.member-col img {  
+  height: 200px; 
+  object-fit: cover;  
+  display: block;  
+  margin: 0 auto;  
+   
+}  
+  
+.member-col a {
+  word-wrap: break-word;
+  font-size: 16px;
+  /* color: #333;  */  
+ 
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 100%;
-  max-height: 250px;
-  /* min-height: 250px; */
-  height: auto;
-  width: auto;
+  margin-top: 10px;
 }
 
 
 .lab-photo {  
-  width: 100%; /* 使图片宽度充满容器 */  
-  height: 300px; /* 设置图片的高度，根据需要调整 */  
-  object-fit: cover; /* 保持图片的宽高比同时覆盖整个容器 */  
-  display: block; /* 移除图片下方的默认空间 */  
-  margin: 0 auto; /* 可选：水平居中图片 */  
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
 }  
   
 .lab_photos-col {  
-  padding-bottom: 16px; /* 根据需要调整，确保文字有足够的空间 */  
+  padding-bottom: 16px;
 }  
   
-.photo-caption {  
-  /* 可以添加一些样式来美化文字，如字体大小、颜色等 */  
+.photo-caption { 
   font-size: 16px;  
-  color: #333;  
+  /* color: #333;  */
 }
 
 .video_embed {
