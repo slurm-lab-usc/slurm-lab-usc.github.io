@@ -90,8 +90,8 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/JasonChen.jpeg
             web_url: https://jasoonchen.com/
           - name: Rida Faraz
-            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
-            web_url: https://slurm-lab-usc.github.io/
+            photo_url: https://slurm-lab-usc.github.io/img/people/ridafaraz.jpg
+            web_url: https://www.linkedin.com/in/rida-faraz/
           - name: Samuel Burns
             photo_url: https://slurm-lab-usc.github.io/img/people/SamBurns.jpeg
             web_url: https://www.linkedin.com/in/samuel-burns-75702526b/
