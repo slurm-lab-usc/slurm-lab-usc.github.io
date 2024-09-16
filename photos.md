@@ -6,17 +6,21 @@ title: Lab Photos
 lab_photos:
   - semester: Fall 2024
     list:
+      - month: September
+        list:
+          - event: Welcome Ph.D. students
+            photo_url: /img/lab_photos/phd_welcome.jpg
       - month: August
         list:
-          - event: Unitree G1 demo, August
+          - event: Unitree G1 demo
             photo_url: /img/lab_photos/Unitree_G1.jpg
-          - event: Unitree Go2 demo, August
+          - event: Unitree Go2 demo
             photo_url: /img/lab_photos/Unitree_Go2.jpg
   - semester: Summer 2024
     list:
       - month: August
         list:
-          - event: Detroit Pizza Depot, August
+          - event: Detroit Pizza Depot
             photo_url: /img/lab_photos/Lab_social.jpg
           - event: Happy birthday to Daniel!🎂
             photo_url: /img/lab_photos/Birthday.jpg
@@ -41,9 +45,9 @@ lab_photos:
     <h1> {{big_group.semester}} </h1>
     {% for group in big_group.list %}
       {% if group.list.size > 0 %}
-        <!-- {% if group.month %}
+        {% if group.month %}
           <h2 style="text-align: left; margin-bottom: 20px;"> {{ group.month }} </h2>
-        {% endif %} -->
+        {% endif %}
         <div class="row lab_photos-row">  
           {% for lab_photos in group.list %}  
             <div class="col-xl-6 col-lg-6 col-md-6 text-center col-sm-12 col-xs-12 lab_photos-col">  
