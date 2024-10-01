@@ -12,6 +12,16 @@ Instructions to preview the lab website (on OS X systems):
 
 In progress.
 
+However, Daniel was able to preview on a clean Macbook Pro (OS 13.2.1) just with this command to get things started:
+
+```
+bundle install --path vendor/bundle
+```
+
+(Run it inside the home directory, i.e., `slurm-lab-usc.github.io/`.)
+
+Then `bundle exec jekyll serve` worked.
+
 </details>
 
 <details>

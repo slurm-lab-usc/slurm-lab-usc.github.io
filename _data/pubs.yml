@@ -40,7 +40,7 @@
     \ author = {Zeyu Shangguan and Daniel Seita and Mohammad Rostami},\n
     \ booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},\n
     \ Year = {2025}\n}"
-  img: ../img/papers/wacv_placeholder.png
+  img: ../img/papers/placeholder_wacv.png
   links:
     '[arXiv]': https://arxiv.org/abs/2403.16188
   short_id: 2025_CDMMFSOD
@@ -50,6 +50,79 @@
   video_embed: null
   tags:
     - vision
+
+- abs: Robotic object singulation, where a robot must isolate, grasp, and
+    retrieve a target object in a cluttered environment, is a fundamental
+    challenge in robotic manipulation. This task is difficult due to occlusions
+    and how other objects act as obstacles for manipulation. A robot must also
+    reason about the effect of object-object interactions as it tries to
+    singulate the target. Prior work has explored object singulation in
+    scenarios where there is enough free space to perform relatively long pushes
+    to separate objects, in contrast to when space is tight and objects have
+    little separation from each other. In this paper, we propose the Singulating
+    Objects in Packed Environments (SOPE) framework. We propose a novel method
+    that involves a displacement-based state representation and a multi-phase
+    reinforcement learning procedure that enables singulation using the 16-DOF
+    Allegro Hand. We demonstrate extensive experiments in Isaac Gym simulation,
+    showing the ability of our system to singulate a target object in clutter.
+    We directly transfer the policy trained in simulation to the real world.
+    Over 250 physical robot manipulation trials, our method obtains success
+    rates of 79.2%, outperforming alternative learning and non-learning methods.
+  authors: "Hao Jiang, Yuhai Wang\u2020, Hanyang Zhou\u2020, Daniel Seita"
+  award: null
+  bib: "@inproceedings{Hao2024SopeDex,\n
+    \ title = {{Learning to Singulate Objects in Packed Environments using a Dexterous Hand}},\n
+	  \ author = {Hao Jiang and Yuhai Wang and Hanyang Zhou and Daniel Seita}, \n
+    \ booktitle = {International Symposium of Robotics Research (ISRR)},\n
+    \ Year = {2024}\n}"
+  img: ../img/papers/placeholder_isrr.png
+  links:
+    '[arXiv]': https://arxiv.org/abs/2409.00643
+  short_id: 2024_SOPE
+  site: https://sope-dex.github.io/
+  title: "Learning to Singulate Objects in Packed Environments using a Dexterous Hand"
+  venue: International Symposium of Robotics Resaerch (ISRR), 2024
+  video_embed: null
+  tags:
+    - dexterous_hands
+    - deep_rl
+
+- abs: Fabric manipulation has applications in folding blankets, handling
+    patient clothing, and protecting items with covers. It is challenging for
+    robots to perform fabric manipulation since fabrics have
+    infinite-dimensional configuration spaces, complex dynamics, and may be in
+    folded or crumpled configurations with severe self-occlusions. Prior work on
+    robotic fabric manipulation relies either on heavily engineered setups or
+    learning-based approaches that create and train on robot-fabric interaction
+    data. In this paper, we propose GPT-Fabric for the canonical tasks of fabric
+    folding and smoothing, where GPT directly outputs an action informing a
+    robot where to grasp and pull a fabric. We perform extensive experiments in
+    simulation to test GPT-Fabric against prior state of the art methods for
+    folding and smoothing. We obtain comparable or better performance to most
+    methods even without explicitly training on a fabric-specific dataset (i.e.,
+    zero-shot manipulation).  Furthermore, we apply GPT-Fabric in physical
+    experiments over 12 folding and 10 smoothing rollouts. Our results suggest
+    that GPT-Fabric is a promising approach for high-precision fabric
+    manipulation tasks.
+  authors: "Vedant Raval*, Enyu Zhao*, Hejia Zhang, Stefanos Nikolaidis, Daniel Seita"
+  award: null
+  bib: "@inproceedings{liu2024voxactb,\n
+    \ title = {{GPT-Fabric: Folding and Smoothing Fabric by Leveraging Pre-Trained Foundation Models}},\n
+    \ author = {Vedant Raval and Enyu Zhao and Hejia Zhang and Stefanos Nikolaidis and Daniel Seita},\n
+    \ booktitle = {International Symposium of Robotics Research (ISRR)},\n
+    \ Year = {2024}\n}"
+  img: ../img/papers/placeholder_isrr.png
+  links:
+    '[arXiv]': https://arxiv.org/abs/2406.09640
+  short_id: 2024_GPTFabric
+  site: https://sites.google.com/usc.edu/gpt-fabrics/home
+  title: "GPT-Fabric: Folding and Smoothing Fabric by Leveraging Pre-Trained Foundation Models"
+  venue: International Symposium of Robotics Resaerch (ISRR), 2024
+  video_embed: null
+  tags:
+    - vlm
+    - deformable
+
 
 - abs: Legged robot locomotion on sand slopes is challenging due to the complex
     dynamics of granular media and how the lack of solid surfaces can hinder
