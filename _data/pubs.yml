@@ -106,7 +106,7 @@
     manipulation tasks.
   authors: "Vedant Raval*, Enyu Zhao*, Hejia Zhang, Stefanos Nikolaidis, Daniel Seita"
   award: null
-  bib: "@inproceedings{liu2024voxactb,\n
+  bib: "@inproceedings{raval2024gptfabric,\n
     \ title = {{GPT-Fabric: Folding and Smoothing Fabric by Leveraging Pre-Trained Foundation Models}},\n
     \ author = {Vedant Raval and Enyu Zhao and Hejia Zhang and Stefanos Nikolaidis and Daniel Seita},\n
     \ booktitle = {International Symposium of Robotics Research (ISRR)},\n
