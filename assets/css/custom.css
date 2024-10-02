@@ -74,7 +74,7 @@
 
 
 .lab-photo {  
-  width: 100%;
+  width: 480px;
   height: 300px;
   object-fit: cover;
   display: block;
