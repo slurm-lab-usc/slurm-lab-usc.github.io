@@ -81,7 +81,7 @@
   short_id: 2024_SOPE
   site: https://sope-dex.github.io/
   title: "Learning to Singulate Objects in Packed Environments using a Dexterous Hand"
-  venue: International Symposium of Robotics Resaerch (ISRR), 2024
+  venue: International Symposium of Robotics Research (ISRR), 2024
   video_embed: null
   tags:
     - dexterous_hands
@@ -117,7 +117,7 @@
   short_id: 2024_GPTFabric
   site: https://sites.google.com/usc.edu/gpt-fabrics/home
   title: "GPT-Fabric: Folding and Smoothing Fabric by Leveraging Pre-Trained Foundation Models"
-  venue: International Symposium of Robotics Resaerch (ISRR), 2024
+  venue: International Symposium of Robotics Research (ISRR), 2024
   video_embed: null
   tags:
     - vlm
