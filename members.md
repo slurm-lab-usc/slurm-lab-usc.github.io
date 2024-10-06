@@ -99,7 +99,7 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
             web_url: https://slurm-lab-usc.github.io/
           - name: David Kim
-            photo_url: https://slurm-lab-usc.github.io/img/DavidKim.png
+            photo_url: https://slurm-lab-usc.github.io/img/DavidKim.jpeg
             web_url: https://www.linkedin.com/in/david-kim-b50046206/
 
   # - name: Interns and Visitors
