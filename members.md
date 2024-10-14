@@ -97,7 +97,7 @@ members:
             web_url: https://www.linkedin.com/in/samuel-burns-75702526b/
           - name: Maria Guerrero Cordoba
             photo_url: https://slurm-lab-usc.github.io/img/people/MariaGC.jpg
-            web_url: https://slurm-lab-usc.github.io/
+            web_url: https://www.linkedin.com/in/maria-guerrero-cordoba-80a116333
           - name: David Kim
             photo_url: https://slurm-lab-usc.github.io/img/people/DavidKim.jpeg
             web_url: https://www.linkedin.com/in/david-kim-b50046206/
