@@ -75,7 +75,7 @@
 	  \ author = {Hao Jiang and Yuhai Wang and Hanyang Zhou and Daniel Seita}, \n
     \ booktitle = {International Symposium of Robotics Research (ISRR)},\n
     \ Year = {2024}\n}"
-  img: ../img/papers/placeholder_isrr.png
+  img: ../img/papers/SOPE-2024-ISRR.gif
   links:
     '[arXiv]': https://arxiv.org/abs/2409.00643
   short_id: 2024_SOPE
