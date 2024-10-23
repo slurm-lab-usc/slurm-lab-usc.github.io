@@ -27,9 +27,6 @@ members:
     list:
       - full: true
         list:
-          - name: Anupam Patil
-            photo_url: https://slurm-lab-usc.github.io/img/people/AnupamPatil.jpeg
-            web_url: https://www.linkedin.com/in/anupam-patil-114b841b0/
           - name: Dhanush Penmetsa
             photo_url: https://slurm-lab-usc.github.io/img/people/dhanush_varma.jpg
             web_url: https://www.linkedin.com/in/dhanush-varma/
@@ -123,7 +120,7 @@ members:
 
   - name: Alumni
     list:
-      - name: Undergraduate students
+      - name: Undergraduate Students
         full: False
         list:
           - name: Qian (Peter) Wang
@@ -133,20 +130,27 @@ members:
           - name: Emily Zhu
             web_url: https://www.linkedin.com/in/emily-k-zhu/
             period: 2023-2024 (CS & BA)
-            next_step: 
+            next_step:
           - name: Vijay Kumaravelrajan
             web_url: https://www.linkedin.com/in/vijay-kumaravelrajan/
             period: 2024 (CS & AM)
-            next_step: 
+            next_step:
           - name: Zitong Huang
             web_url: https://www.linkedin.com/in/zitong-huang/
             period: 2024 (CECS)
-            next_step: 
+            next_step:
           - name: Anisha Chitta
             web_url: https://www.linkedin.com/in/anisha-chitta/
             period: 2024 (CSBA)
-            next_step: 
-      - name: Visitors
+            next_step:
+      - name: Master's Students
+        full: False
+        list:
+          - name: Anupam Patil
+            photo_url: https://slurm-lab-usc.github.io/img/people/AnupamPatil.jpeg
+            web_url: https://www.linkedin.com/in/anupam-patil-114b841b0/
+            period: 2023-2024 (CS)
+      - name: Visitors / Volunteers
         full: False
         list:
           - name: Ce (Chris) Wang
@@ -160,17 +164,17 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/gayathri.jpg
             web_url: https://www.linkedin.com/in/gayathri-rajesh-b84560228/
             period: IUSSTF-Viterbi 2024 (Undergrad at National Institute of Technology, Tiruchirappalli)
-            next_step: 
+            next_step:
           - name: Abhinav Pillai
             photo_url: https://slurm-lab-usc.github.io/img/people/Abhinav_Pillai.jpg
             web_url: https://www.linkedin.com/in/abhinav-pillai-62244b237
             period: USC REU 2024 (Undergrad at Indian Institute of Technology, Kharagpur)
-            next_step: 
+            next_step:
           - name: Ebonee Davis
             photo_url: https://slurm-lab-usc.github.io/img/people/EboneeDavis.jpeg
             web_url: https://www.linkedin.com/in/eboneetdavis/
             period: USC SURE 2024 (Undergrad at MIT)
-            next_step: 
+            next_step:
 ---
 
 <div class="row">
