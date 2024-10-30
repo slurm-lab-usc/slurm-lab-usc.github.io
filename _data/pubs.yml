@@ -95,28 +95,28 @@
     robotic fabric manipulation relies either on heavily engineered setups or
     learning-based approaches that create and train on robot-fabric interaction
     data. In this paper, we propose GPT-Fabric for the canonical tasks of fabric
-    folding and smoothing, where GPT directly outputs an action informing a
+    smoothing and folding, where GPT directly outputs an action informing a
     robot where to grasp and pull a fabric. We perform extensive experiments in
     simulation to test GPT-Fabric against prior state of the art methods for
-    folding and smoothing. We obtain comparable or better performance to most
+    smoothing and folding. We obtain comparable or better performance to most
     methods even without explicitly training on a fabric-specific dataset (i.e.,
     zero-shot manipulation).  Furthermore, we apply GPT-Fabric in physical
-    experiments over 12 folding and 10 smoothing rollouts. Our results suggest
+    experiments over 10 smoothing and 12 folding rollouts. Our results suggest
     that GPT-Fabric is a promising approach for high-precision fabric
     manipulation tasks.
   authors: "Vedant Raval*, Enyu Zhao*, Hejia Zhang, Stefanos Nikolaidis, Daniel Seita"
   award: null
   bib: "@inproceedings{raval2024gptfabric,\n
-    \ title = {{GPT-Fabric: Folding and Smoothing Fabric by Leveraging Pre-Trained Foundation Models}},\n
+    \ title = {{GPT-Fabric: Smoothing and Folding Fabric by Leveraging Pre-Trained Foundation Models}},\n
     \ author = {Vedant Raval and Enyu Zhao and Hejia Zhang and Stefanos Nikolaidis and Daniel Seita},\n
     \ booktitle = {International Symposium of Robotics Research (ISRR)},\n
     \ Year = {2024}\n}"
-  img: ../img/papers/placeholder_isrr.png
+  img: ../img/papers/GPT-Fabric-Fold.gif
   links:
     '[arXiv]': https://arxiv.org/abs/2406.09640
   short_id: 2024_GPTFabric
   site: https://sites.google.com/usc.edu/gpt-fabrics/home
-  title: "GPT-Fabric: Folding and Smoothing Fabric by Leveraging Pre-Trained Foundation Models"
+  title: "GPT-Fabric: Smoothing and Folding Fabric by Leveraging Pre-Trained Foundation Models"
   venue: International Symposium of Robotics Research (ISRR), 2024
   video_embed: null
   tags:
