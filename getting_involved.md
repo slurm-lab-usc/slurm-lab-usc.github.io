@@ -52,8 +52,8 @@ of available times.
 
 ## Masters and Undergraduate Students at USC
 
-Please fill out [the following application][1]. While we actively monitor this
-form, it can help to send me a brief email reminder to check the form. Do *not*
+**Please fill out [the following application][1]**. We actively monitor this form, 
+but **it can help to send me a brief email reminder to check the form**. Do *not*
 attach any documents to this email, since you can upload them in the form. We
 will reach out if we decide to interview you.
 
