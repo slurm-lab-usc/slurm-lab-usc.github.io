@@ -63,9 +63,6 @@ members:
           - name: Rajas Chitale
             photo_url: https://slurm-lab-usc.github.io/img/people/RajasChitale.JPG
             web_url: https://www.linkedin.com/in/rajas-chitale-rcv/
-          - name: Diya Saraf
-            photo_url: https://slurm-lab-usc.github.io/img/people/DiyaSaraf.png
-            web_url: https://ds257.github.io/
 
   - name: Undergraduate Students
     list:
