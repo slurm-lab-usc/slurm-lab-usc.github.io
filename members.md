@@ -64,7 +64,7 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/RajasChitale.JPG
             web_url: https://www.linkedin.com/in/rajas-chitale-rcv/
           - name: Ashwin Balasubramanian
-            photo_url: https://slurm-lab-usc.github.io/img/people/ashwin_balasubramanian.jpg
+            photo_url: https://slurm-lab-usc.github.io/img/people/ashwin_balasubramanian.jpeg
             web_url: https://www.linkedin.com/in/balasubramanian-ashwin/
 
   - name: Undergraduate Students
