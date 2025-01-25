@@ -15,6 +15,50 @@
 # Current tags for research areas, see the research areas page for more details:
 # deform_obj_manip, 3D_afford_obj_manip, multimodal, rl_algs, auto_driving, active_perception, self_sup_rob
 
+- abs: Understanding the physical world is a fundamental challenge in embodied
+    AI, critical for enabling agents to perform complex tasks and operate
+    safely in real-world environments. While Vision-Language Models (VLMs) have
+    shown great promise in reasoning and task planning for embodied agents,
+    their ability to comprehend physical phenomena remains extremely limited.
+    To close this gap, we introduce PhysBench, a comprehensive benchmark
+    designed to evaluate VLMs' physical world understanding capability across a
+    diverse set of tasks. PhysBench contains 100,000 entries of interleaved
+    video-image-text data, categorized into four major domains, physical object
+    properties, physical object relationships, physical scene understanding,
+    and physics-based dynamics, further divided into 19 subclasses and 8
+    distinct capability dimensions. Our extensive experiments, conducted on 39
+    representative VLMs, reveal that while these models excel in common-sense
+    reasoning, they struggle with understanding the physical world---likely due
+    to the absence of physical knowledge in their training data and the lack of
+    embedded physical priors. To tackle the shortfall, we introduce PhysAgent,
+    a novel framework that combines the generalization strengths of VLMs with
+    the specialized expertise of vision models, significantly enhancing VLMs'
+    physical understanding across a variety of tasks, including an 18.4%
+    improvement on GPT-4o. Furthermore, our results demonstrate that enhancing
+    VLMs’ physical world understanding capabilities can significantly help the
+    deployment of embodied agents, pushing the boundaries of machine
+    intelligence in comprehending and interacting with the physical world. We
+    believe that PhysBench and PhysAgent offer valuable insights and contribute
+    to bridging the gap between VLMs and physical world understanding.
+  authors: "Wei Chow*, Jiageng Mao*, Boyi Li, Daniel Seita, Vitor Campagnolo Guizilini, Yue Wang"
+  award: null
+  bib: "@inproceedings{chow2025physbench,\n
+    \ title = {{PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding}},\n
+    \ author = {Wei Chow and Jiageng Mao and Boyi Li and Daniel Seita and Vitor Campagnolo Guizilini and Yue Wang},\n
+    \ booktitle = {International Conference on Learning Representations (ICLR)},\n
+    \ Year = {2025}\n}"
+  img: ../img/papers/physbench.png
+  links:
+    '[OpenReview]': https://openreview.net/forum?id=Q6a9W6kzv5
+  short_id: 2025_PhysBench
+  site: https://anoy1314.github.io/
+  title: "PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding"
+  venue: International Conference on Learning Representations (ICLR), 2025
+  video_embed: null
+  tags:
+    - vlm
+    - benchmark
+
 - abs: Cross-modal feature extraction and integration have led to steady
     performance improvements in few-shot learning tasks due to generating
     richer features. However, existing multi-modal object detection (MM-OD)
