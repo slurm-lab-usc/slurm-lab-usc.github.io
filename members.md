@@ -66,6 +66,9 @@ members:
           - name: Ashwin Balasubramanian
             photo_url: https://slurm-lab-usc.github.io/img/people/ashwin_balasubramanian.jpeg
             web_url: https://www.linkedin.com/in/balasubramanian-ashwin/
+          - name: Nikita Sarawgi
+            photo_url: https://slurm-lab-usc.github.io/img/people/NikitaSarawgi.jpg
+            web_url: https://www.linkedin.com/in/nikita-sarawgi/
 
   - name: Undergraduate Students
     list:
