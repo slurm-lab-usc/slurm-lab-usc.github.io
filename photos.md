@@ -4,6 +4,12 @@ title: Lab Photos
 # slim: true
 
 lab_photos:
+  - semester: Spring 2025
+    list:
+      - month: February
+        list:
+          - event: Post-RSS deadline lunch with lead authors
+            photo_url: /img/lab_photos/Post_RSS2025.jpg
   - semester: Fall 2024
     list:
       - month: September
