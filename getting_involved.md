@@ -15,8 +15,6 @@ Please do *not* send the same generic mass email to a long list of professors.
 
 ## PhD Students
 
-*For those looking to start a PhD in Fall 2026: Unfortunately, I am not hiring new PhD students.*
-
 For PhD applicants: please apply to USC for a PhD program and indicate my name in
 your application. My home department is [computer science](https://www.cs.usc.edu/),
 though I am open to co-advising students from other departments (and co-advising
