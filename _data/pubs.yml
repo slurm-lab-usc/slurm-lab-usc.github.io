@@ -49,9 +49,10 @@
     \ Year = {2025}\n}"
   img: ../img/papers/physbench.png
   links:
+    '[arXiv]': https://arxiv.org/abs/2501.16411 
     '[OpenReview]': https://openreview.net/forum?id=Q6a9W6kzv5
   short_id: 2025_PhysBench
-  site: https://anoy1314.github.io/
+  site: https://physbench.github.io/ 
   title: "PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding"
   venue: International Conference on Learning Representations (ICLR), 2025
   video_embed: null
