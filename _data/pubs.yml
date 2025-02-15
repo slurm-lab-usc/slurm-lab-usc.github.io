@@ -41,7 +41,7 @@
     believe that PhysBench and PhysAgent offer valuable insights and contribute
     to bridging the gap between VLMs and physical world understanding.
   authors: "Wei Chow*, Jiageng Mao*, Boyi Li, Daniel Seita, Vitor Campagnolo Guizilini, Yue Wang"
-  award: null
+  award: <award>Oral Presentation (Top 1.8%)</award>
   bib: "@inproceedings{chow2025physbench,\n
     \ title = {{PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding}},\n
     \ author = {Wei Chow and Jiageng Mao and Boyi Li and Daniel Seita and Vitor Campagnolo Guizilini and Yue Wang},\n
@@ -969,7 +969,7 @@
     normal SGD update. Our experiments demonstrate several order-of-magnitude
     speedups over previous work."
   authors: Daniel Seita, Xinlei Pan, Haoyu Chen, John Canny
-  award: Honorable Mention for Best Student Paper
+  award: <award>Honorable Mention for Best Student Paper</award>
   bib: "@inproceedings{seita_uai_2017,\n
     \ title = {{An Efficient Minibatch Acceptance Test for Metropolis-Hastings}},\n
     \ author = {Seita, Daniel and Pan, Xinlei and Chen, Haoyu and Canny, John},\n
