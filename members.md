@@ -69,6 +69,9 @@ members:
           - name: Nikita Sarawgi
             photo_url: https://slurm-lab-usc.github.io/img/people/NikitaSarawgi.jpg
             web_url: https://www.linkedin.com/in/nikita-sarawgi/
+          - name: Zinan Li
+            photo_url: https://slurm-lab-usc.github.io/img/people/Zinan.jpg
+            web_url: https://www.linkedin.com/in/zinanli02/
 
   - name: Undergraduate Students
     list:
