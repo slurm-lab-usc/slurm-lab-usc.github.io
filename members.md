@@ -27,9 +27,6 @@ members:
     list:
       - full: true
         list:
-          - name: Dhanush Penmetsa
-            photo_url: https://slurm-lab-usc.github.io/img/people/dhanush_varma.jpg
-            web_url: https://www.linkedin.com/in/dhanush-varma/
           - name: Vedant Raval
             photo_url: https://slurm-lab-usc.github.io/img/people/VedantRaval.jpeg
             web_url: https://vedant2311.github.io
@@ -45,9 +42,6 @@ members:
           - name: Charlene Yuen
             photo_url: https://slurm-lab-usc.github.io/img/people/Charlene.jpg
             web_url: https://lazerbird.github.io/
-          - name: Harshitha B R
-            photo_url: https://slurm-lab-usc.github.io/img/people/HBR.JPG
-            web_url: https://www.linkedin.com/in/harshitha-b-r-2ab510190/
           - name: Hanyang Zhou
             photo_url: https://slurm-lab-usc.github.io/img/people/HanyangZHOU.png
             web_url: https://hanyang-zhou.github.io/
@@ -152,6 +146,14 @@ members:
       - name: Master's Students
         full: False
         list:
+          - name: Harshitha B R
+            photo_url: https://slurm-lab-usc.github.io/img/people/HBR.JPG
+            web_url: https://www.linkedin.com/in/harshitha-b-r-2ab510190/
+            period: 2024 (CS)
+          - name: Dhanush Penmetsa
+            photo_url: https://slurm-lab-usc.github.io/img/people/dhanush_varma.jpg
+            web_url: https://www.linkedin.com/in/dhanush-varma/
+            period: 2023-2024 (ECE)
           - name: Anupam Patil
             photo_url: https://slurm-lab-usc.github.io/img/people/AnupamPatil.jpeg
             web_url: https://www.linkedin.com/in/anupam-patil-114b841b0/
