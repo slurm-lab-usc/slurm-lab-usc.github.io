@@ -5,7 +5,7 @@ title: Getting Involved
 ---
 
 Thank you for your interest in our research! See below for how you can get
-involved. This information is accurate as of **February 2025**.
+involved. This information is last updated **March 2025**.
 
 If you have additional questions after reading the below and want to get involved, feel free to email me.
 My contact information is [available on my website](https://danielseita.github.io/).
@@ -14,6 +14,8 @@ I will try to respond to emails that are tailored to me. For example, they might
 Please do *not* send the same generic mass email to a long list of professors.
 
 ## PhD Students
+
+**I am not hiring new PhD students.**
 
 For PhD applicants: please apply to USC for a PhD program and indicate my name in
 your application. My home department is [computer science](https://www.cs.usc.edu/),
