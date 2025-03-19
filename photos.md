@@ -6,6 +6,10 @@ title: Lab Photos
 lab_photos:
   - semester: Spring 2025
     list:
+      - month: March
+        list:
+          - event: New PhD admits welcome dinner with Geometry, Vision, and Learning Lab
+            photo_url: /img/lab_photos/new_PhD_admits_welcome_dinner.JPEG
       - month: February
         list:
           - event: Post-RSS deadline lunch with lead authors
