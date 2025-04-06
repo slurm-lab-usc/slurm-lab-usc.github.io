@@ -22,6 +22,9 @@ members:
           - name: Ayano Hiranaka
             photo_url: https://slurm-lab-usc.github.io/img/people/AyanoHiranaka.jpg
             web_url: https://misoshiruseijin.github.io
+          - name: Hao Jiang
+            photo_url: https://slurm-lab-usc.github.io/img/people/HaoJiang.png
+            web_url: https://haojiang4400.github.io/
 
   - name: Master's Students
     list:
@@ -71,9 +74,6 @@ members:
     list:
       - full: true
         list:
-          - name: Hao Jiang
-            photo_url: https://slurm-lab-usc.github.io/img/people/HaoJiang.png
-            web_url: https://haojiang4400.github.io/
           - name: Oluwatobiloba Adesanya
             photo_url: https://slurm-lab-usc.github.io/img/people/TobiAdesanya.jpeg
             web_url: https://www.linkedin.com/in/oluwatobilobaadesanya
@@ -123,10 +123,14 @@ members:
       - name: Undergraduate Students
         full: False
         list:
+          - name: Hao Jiang
+            web_url: https://haojiang4400.github.io/
+            period: 2023-2024 (CS & AM)
+            next_step: University of Southern California, PhD in CS
           - name: Qian (Peter) Wang
             web_url: https://pwang649.github.io/
             period: 2023-2024 (CS & AM)
-            next_step: PhD in CS, Yale University
+            next_step: Yale University, PhD in CS
           - name: Emily Zhu
             web_url: https://www.linkedin.com/in/emily-k-zhu/
             period: 2023-2024 (CS & BA)
