@@ -18,7 +18,7 @@ subtitle:
   }
 </style>
 
-You can also find publications on <a href="https://scholar.google.com/citations?hl=en&user=ECHSnpYAAAAJ">Google Scholar</a>.
+You can also find publications on <a href="https://scholar.google.com/citations?hl=en&user=ECHSnpYAAAAJ">Google Scholar</a> which may include some preprints not yet listed here.
 
 <!-- Just make a table and iterate through publications. -->
 <table cellpadding="10" width="100%">
