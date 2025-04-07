@@ -125,7 +125,7 @@ members:
         list:
           - name: Hao Jiang
             web_url: https://haojiang4400.github.io/
-            period: 2023-2024 (CS & AM)
+            period: 2023-2025 (CS & AM)
             next_step: University of Southern California, PhD in CS
           - name: Qian (Peter) Wang
             web_url: https://pwang649.github.io/
