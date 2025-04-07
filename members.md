@@ -25,6 +25,9 @@ members:
           - name: Hao Jiang
             photo_url: https://slurm-lab-usc.github.io/img/people/HaoJiang.png
             web_url: https://haojiang4400.github.io/
+          - name: Toan Nguyen
+            photo_url: https://slurm-lab-usc.github.io/img/people/ToanNguyen.jpeg
+            web_url: https://toannguyen1904.github.io/
 
   - name: Master's Students
     list:
