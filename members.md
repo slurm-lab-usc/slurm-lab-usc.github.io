@@ -36,15 +36,9 @@ members:
           - name: Vedant Raval
             photo_url: https://slurm-lab-usc.github.io/img/people/VedantRaval.jpeg
             web_url: https://vedant2311.github.io
-          - name: Yuhai Wang
-            photo_url: https://slurm-lab-usc.github.io/img/people/Yuhai.jpg
-            web_url: https://yuhaiw.github.io/
           - name: Karan Owalekar
             photo_url: https://slurm-lab-usc.github.io/img/people/karanOwalekar.jpg
             web_url: https://www.linkedin.com/in/karan-owalekar/
-          - name: Enyu Zhao
-            photo_url: https://slurm-lab-usc.github.io/img/people/Enyu.jpeg
-            web_url: https://www.linkedin.com/in/enyu-zhao-564566250/
           - name: Charlene Yuen
             photo_url: https://slurm-lab-usc.github.io/img/people/Charlene.jpg
             web_url: https://lazerbird.github.io/
@@ -83,21 +77,12 @@ members:
           - name: Jonathan Ong
             photo_url: https://slurm-lab-usc.github.io/img/people/JonathanOng.jpg
             web_url: https://www.linkedin.com/in/ongjonathand
-          - name: Letian Zhang
-            photo_url: https://slurm-lab-usc.github.io/img/people/LetianZhang.jpeg
-            web_url: https://www.linkedin.com/in/letian-zhang-630b37235/
           - name: Jason Chen
             photo_url: https://slurm-lab-usc.github.io/img/people/JasonChen.jpeg
             web_url: https://jasoonchen.com/
-          - name: Rida Faraz
-            photo_url: https://slurm-lab-usc.github.io/img/people/ridafaraz.jpg
-            web_url: https://www.linkedin.com/in/rida-faraz/
           - name: Samuel Burns
             photo_url: https://slurm-lab-usc.github.io/img/people/SamBurns.jpeg
             web_url: https://www.linkedin.com/in/samuel-burns-75702526b/
-          - name: Maria Guerrero Cordoba
-            photo_url: https://slurm-lab-usc.github.io/img/people/MariaGC.jpg
-            web_url: https://www.linkedin.com/in/maria-guerrero-cordoba-80a116333
           - name: David Kim
             photo_url: https://slurm-lab-usc.github.io/img/people/DavidKim.jpeg
             web_url: https://www.linkedin.com/in/david-kim-b50046206/
@@ -150,21 +135,47 @@ members:
             web_url: https://www.linkedin.com/in/anisha-chitta/
             period: 2024 (CSBA)
             next_step:
+          - name: Rida Faraz
+            web_url: https://www.linkedin.com/in/rida-faraz/
+            period: 2024-2025 (CECS)
+            next_step:
+          - name: Maria Guerrero Cordoba
+            web_url: https://www.linkedin.com/in/maria-guerrero-cordoba-80a116333
+            period: 2025 (CS)
+            next_step:
+          - name: Letian Zhang
+            photo_url: https://slurm-lab-usc.github.io/img/people/LetianZhang.jpeg
+            web_url: https://www.linkedin.com/in/letian-zhang-630b37235/
+            period: 2024-2025 (CS)
+            next_step: CMU, INI MSIS
       - name: Master's Students
         full: False
         list:
+          - name: Yuhai Wang
+            photo_url: https://slurm-lab-usc.github.io/img/people/Yuhai.jpg
+            web_url: https://yuhaiw.github.io/
+            period: 2023-2025 (Analytics)
+            next_step: Northeastern University, PhD in Civil & EE
+          - name: Enyu Zhao
+            photo_url: https://slurm-lab-usc.github.io/img/people/Enyu.jpeg
+            web_url: https://enyu-zhao.github.io/
+            period: 2023-2025 (Analytics)
+            next_step: University of Utah, PhD in CS 
           - name: Harshitha B R
             photo_url: https://slurm-lab-usc.github.io/img/people/HBR.JPG
             web_url: https://www.linkedin.com/in/harshitha-b-r-2ab510190/
             period: 2024 (CS)
+            next_step: 
           - name: Dhanush Penmetsa
             photo_url: https://slurm-lab-usc.github.io/img/people/dhanush_varma.jpg
             web_url: https://www.linkedin.com/in/dhanush-varma/
             period: 2023-2024 (ECE)
+            next_step: 
           - name: Anupam Patil
             photo_url: https://slurm-lab-usc.github.io/img/people/AnupamPatil.jpeg
             web_url: https://www.linkedin.com/in/anupam-patil-114b841b0/
             period: 2023-2024 (CS)
+            next_step: SWE at Wealth.com
       - name: Visitors / Volunteers
         full: False
         list:
@@ -179,7 +190,7 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/gayathri.jpg
             web_url: https://www.linkedin.com/in/gayathri-rajesh-b84560228/
             period: IUSSTF-Viterbi 2024 (Undergrad at National Institute of Technology, Tiruchirappalli)
-            next_step:
+            next_step: UC San Diego, Masters in CS
           - name: Abhinav Pillai
             photo_url: https://slurm-lab-usc.github.io/img/people/Abhinav_Pillai.jpg
             web_url: https://www.linkedin.com/in/abhinav-pillai-62244b237

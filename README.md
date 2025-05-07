@@ -37,6 +37,8 @@ sudo apt-get install build-essential
 sudo gem install http_parser.rb -v 0.8.0
 ```
 
+[Daniel (May 07, 2025): might not be needed as we already include such an exclude in `_config.yml` now.]
+
 Add `vendor` in `_config.yml` line 285:
 
 ```

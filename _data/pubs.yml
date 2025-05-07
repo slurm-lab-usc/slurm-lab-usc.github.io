@@ -15,6 +15,74 @@
 # Current tags for research areas, see the research areas page for more details:
 # deform_obj_manip, 3D_afford_obj_manip, multimodal, rl_algs, auto_driving, active_perception, self_sup_rob
 
+- abs: Advancing dexterous manipulation with multi-fingered robotic hands
+    requires rich sensory capabilities, but existing designs lack onboard
+    thermal and torque sensing. In this work, we propose the MOTIF hand, a novel
+    multimodal and versatile robotic hand that extends the LEAP hand by
+    integrating (i) dense tactile information across the fingers and palm, (ii)
+    a depth sensor, (iii) a thermal camera, (iv), IMU sensors, and (v) a visual
+    sensor.  The MOTIF hand is designed to be relatively low-cost (under 4000
+    USD) and easily reproducible.  We also propose experiments to validate our
+    hand design by using it to reconstruct 3D scenes and infer thermal
+    affordances of objects with varying temperatures.  Our experiments will
+    demonstrate that the MOTIF hand is a promising approach for the future of
+    dexterous robotic hands with multiple sensors. 
+  authors: "Hanyang Zhou*, Haozhe Lou*, Wenhao Liu*, Enyu Zhao, Yue Wang, Daniel Seita"
+  award: null
+  bib: "@inproceedings{Zhou2025MOTIF,\n
+    \ title={{The MOTIF Hand: A Robotic Hand for Multimodal Observations with Thermal, Inertial, and Force Sensors}},\n
+    \ author={Hanyang Zhou and Haozhe Lou and Wenhao Liu and Enyu Zhao and Yue Wang and Daniel Seita},\n
+    \ booktitle={International Symposium on Experimental Robotics (ISER)},\n
+    \ Year={2025}\n}"
+  img: ../img/papers/placeholder_general.png
+  links:
+    '[arXiv]': 
+  short_id: 2025_MOTIF_v1
+  site: 
+  title: "The MOTIF Hand: A Robotic Hand for Multimodal Observations with Thermal, Inertial, and Force Sensors"
+  venue: International Symposium on Experimental Robotics (ISER), 2025
+  video_embed: null
+  tags:
+    - dexterous_hands
+    - hardware
+
+- abs: Real-time human perception is crucial for successful human-robot
+    interaction (HRI). Large vision-language models (VLMs) offer great potential
+    for generalizable perceptual capabilities but often suffer from increased
+    latency, negatively impacting user experience and thus limiting their
+    real-world applicability. To systematically study VLMs' capabilities in human
+    perception for HRI and their performance-latency tradeoff, we introduce
+    HRIBench, a visual question answering (VQA) benchmark designed to evaluate
+    VLMs on a diverse set of human perceptual tasks critical for HRI.  HRIBench
+    covers five key domains. (1) non-verbal cue understanding, (2) verbal
+    instruction understanding, (3) human-robot-object relationship
+    understanding, (4) social navigation, and (5) person identification. In this
+    work, we conduct HRI experiments to collect real-world HRI data while also
+    leveraging existing datasets to design new VQA questions for VLM evaluation.
+    Our preliminary results demonstrate that, despite their generalizability,
+    VLMs still struggle with fundamental perceptual skills important for HRI.
+    For the final paper submission, we plan to expand HRIBench to 1,000 VQA
+    questions and conduct a full evaluation of state-of-the-art closed-source
+    and open-source VLMs.
+  authors: "Zhonghao Shi, Enyu Zhao, Nathaniel Dennler, Jingzhen Wang, Xinyang Xu, Kaleen Shrestha, Daniel Seita, Maja Mataric"
+  award: null
+  bib: "@inproceedings{Shi2025HRIBench,\n
+    \ title = {{HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction}},\n
+    \ author={Zhonghao Shi and Enyu Zhao and Nathaniel Dennler and Jingzhen Wang and Xinyang Xu and Kaleen Shrestha and Daniel Seita and Maja Mataric},\n
+    \ booktitle={International Symposium on Experimental Robotics (ISER)},\n
+    \ Year = {2025}\n}"
+  img: ../img/papers/HRIBench.png
+  links:
+    '[arXiv]': 
+  short_id: 2025_HRIBench
+  site: 
+  title: "HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction"
+  venue: International Symposium on Experimental Robotics (ISER), 2025
+  video_embed: null
+  tags:
+    - vlm
+    - bnechmark
+
 - abs: Understanding the physical world is a fundamental challenge in embodied
     AI, critical for enabling agents to perform complex tasks and operate
     safely in real-world environments. While Vision-Language Models (VLMs) have
@@ -35,7 +103,7 @@
     the specialized expertise of vision models, significantly enhancing VLMs'
     physical understanding across a variety of tasks, including an 18.4%
     improvement on GPT-4o. Furthermore, our results demonstrate that enhancing
-    VLMs’ physical world understanding capabilities can significantly help the
+    VLMs' physical world understanding capabilities can significantly help the
     deployment of embodied agents, pushing the boundaries of machine
     intelligence in comprehending and interacting with the physical world. We
     believe that PhysBench and PhysAgent offer valuable insights and contribute
