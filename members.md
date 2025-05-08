@@ -159,7 +159,7 @@ members:
           - name: Enyu Zhao
             photo_url: https://slurm-lab-usc.github.io/img/people/Enyu.jpeg
             web_url: https://enyu-zhao.github.io/
-            period: 2023-2025 (Analytics)
+            period: 2023-2025 (CS)
             next_step: University of Utah, PhD in CS 
           - name: Harshitha B R
             photo_url: https://slurm-lab-usc.github.io/img/people/HBR.JPG
