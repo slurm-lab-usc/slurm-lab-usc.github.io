@@ -195,7 +195,7 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/Abhinav_Pillai.jpg
             web_url: https://www.linkedin.com/in/abhinav-pillai-62244b237
             period: USC REU 2024 (Undergrad at Indian Institute of Technology, Kharagpur)
-            next_step:
+            next_step: Arizona State University, PhD in AE
           - name: Ebonee Davis
             photo_url: https://slurm-lab-usc.github.io/img/people/EboneeDavis.jpeg
             web_url: https://www.linkedin.com/in/eboneetdavis/
