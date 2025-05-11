@@ -66,6 +66,9 @@ members:
           - name: Zinan Li
             photo_url: https://slurm-lab-usc.github.io/img/people/Zinan.jpg
             web_url: https://www.linkedin.com/in/zinanli02/
+          - name: Michael Gu
+            photo_url: https://slurm-lab-usc.github.io/img/people/MichaelGu.jpg
+            web_url: https://mgu247.github.io/
 
   - name: Undergraduate Students
     list:
