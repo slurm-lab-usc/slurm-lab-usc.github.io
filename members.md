@@ -69,7 +69,9 @@ members:
           - name: Michael Gu
             photo_url: https://slurm-lab-usc.github.io/img/people/MichaelGu.jpg
             web_url: https://mgu247.github.io/
-
+          - name: Anthony Zhang
+            photo_url: https://slurm-lab-usc.github.io/img/people/AnthonyZhang.png
+            web_url: https://www.linkedin.com/in/anthonyzhangseattle/
   - name: Undergraduate Students
     list:
       - full: true
