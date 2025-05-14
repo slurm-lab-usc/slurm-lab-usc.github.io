@@ -57,9 +57,6 @@ members:
           - name: Rajas Chitale
             photo_url: https://slurm-lab-usc.github.io/img/people/RajasChitale.JPG
             web_url: https://www.linkedin.com/in/rajas-chitale-rcv/
-          - name: Ashwin Balasubramanian
-            photo_url: https://slurm-lab-usc.github.io/img/people/ashwin_balasubramanian.jpeg
-            web_url: https://www.linkedin.com/in/balasubramanian-ashwin/
           - name: Nikita Sarawgi
             photo_url: https://slurm-lab-usc.github.io/img/people/NikitaSarawgi.jpg
             web_url: https://www.linkedin.com/in/nikita-sarawgi/
@@ -155,30 +152,29 @@ members:
         full: False
         list:
           - name: Yuhai Wang
-            photo_url: https://slurm-lab-usc.github.io/img/people/Yuhai.jpg
             web_url: https://yuhaiw.github.io/
             period: 2023-2025 (Analytics)
             next_step: Northeastern University, PhD in Civil & EE
           - name: Enyu Zhao
-            photo_url: https://slurm-lab-usc.github.io/img/people/Enyu.jpeg
             web_url: https://enyu-zhao.github.io/
             period: 2023-2025 (CS)
             next_step: University of Utah, PhD in CS 
+          - name: Ashwin Balasubramanian
+            period: 2024-2025 (CS)
+            web_url: https://www.linkedin.com/in/balasubramanian-ashwin/
+            next_step: SWE at Google 
           - name: Harshitha B R
-            photo_url: https://slurm-lab-usc.github.io/img/people/HBR.JPG
             web_url: https://www.linkedin.com/in/harshitha-b-r-2ab510190/
             period: 2024 (CS)
             next_step: 
-          - name: Dhanush Penmetsa
-            photo_url: https://slurm-lab-usc.github.io/img/people/dhanush_varma.jpg
-            web_url: https://www.linkedin.com/in/dhanush-varma/
-            period: 2023-2024 (ECE)
-            next_step: 
           - name: Anupam Patil
-            photo_url: https://slurm-lab-usc.github.io/img/people/AnupamPatil.jpeg
             web_url: https://www.linkedin.com/in/anupam-patil-114b841b0/
             period: 2023-2024 (CS)
             next_step: SWE at Wealth.com
+          - name: Dhanush Penmetsa
+            web_url: https://www.linkedin.com/in/dhanush-varma/
+            period: 2023-2024 (ECE)
+            next_step: 
       - name: Visitors / Volunteers
         full: False
         list:
