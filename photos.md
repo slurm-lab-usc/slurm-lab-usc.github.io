@@ -4,6 +4,12 @@ title: Lab Photos
 # slim: true
 
 lab_photos:
+  - semester: Summer 2025
+    list:
+      - month: May
+        list:
+          - event: "Lab social: 7 wonders"
+            photo_url: /img/lab_photos/lab_social_2025_summer.jpg
   - semester: Spring 2025
     list:
       - month: March
@@ -30,7 +36,7 @@ lab_photos:
     list:
       - month: August
         list:
-          - event: Detroit Pizza Depot
+          - event: "Lab social: Detroit Pizza Depot"
             photo_url: /img/lab_photos/Lab_social.jpg
           - event: Happy birthday to Daniel!🎂
             photo_url: /img/lab_photos/Birthday.jpg
