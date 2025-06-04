@@ -180,6 +180,11 @@ members:
       - name: Visitors / Volunteers
         full: False
         list:
+          - name: William Wang
+            photo_url: https://slurm-lab-usc.github.io/img/people/williamwang.jpg
+            web_url: https://wwang22.com/
+            period: Summer 2025 (Undergrad at Columbia University)
+            next_step: Columbia University
           - name: Ce (Chris) Wang
             web_url: https://www.linkedin.com/in/wangce94/
             period: 2024 (Remote collaborator)
