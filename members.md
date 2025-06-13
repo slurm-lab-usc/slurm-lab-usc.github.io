@@ -166,7 +166,7 @@ members:
           - name: Ashwin Balasubramanian
             period: 2024-2025 (CS)
             web_url: https://www.linkedin.com/in/balasubramanian-ashwin/
-            next_step: SWE at Google 
+            next_step: Google 
           - name: Harshitha B R
             web_url: https://www.linkedin.com/in/harshitha-b-r-2ab510190/
             period: 2024 (CS)
@@ -174,7 +174,7 @@ members:
           - name: Anupam Patil
             web_url: https://www.linkedin.com/in/anupam-patil-114b841b0/
             period: 2023-2024 (CS)
-            next_step: SWE at Wealth.com
+            next_step: Wealth.com
           - name: Dhanush Penmetsa
             web_url: https://www.linkedin.com/in/dhanush-varma/
             period: 2023-2024 (ECE)
@@ -182,10 +182,14 @@ members:
       - name: Visitors / Volunteers
         full: False
         list:
+          - name: Rutvik Patel
+            web_url: https://www.linkedin.com/in/rutvik-p4t3l/
+            period: 2024-2025
+            next_step: GrayMatter Robotics 
           - name: Ce (Chris) Wang
             web_url: https://www.linkedin.com/in/wangce94/
-            period: 2024 (Remote collaborator)
-            next_step: SWE at Ambarella Inc
+            period: 2024
+            next_step: Ambarella Inc
       - name: Interns
         full: False
         list:
