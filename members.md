@@ -33,12 +33,6 @@ members:
     list:
       - full: true
         list:
-          - name: Vedant Raval
-            photo_url: https://slurm-lab-usc.github.io/img/people/VedantRaval.jpeg
-            web_url: https://vedant2311.github.io
-          - name: Karan Owalekar
-            photo_url: https://slurm-lab-usc.github.io/img/people/karanOwalekar.jpg
-            web_url: https://www.linkedin.com/in/karan-owalekar/
           - name: Charlene Yuen
             photo_url: https://slurm-lab-usc.github.io/img/people/Charlene.jpg
             web_url: https://lazerbird.github.io/
@@ -153,6 +147,14 @@ members:
       - name: Master's Students
         full: False
         list:
+          - name: Vedant Raval
+            web_url: https://vedant2311.github.io
+            period: 2023-2025 (CS)
+            next_step: AutoX
+          - name: Karan Owalekar
+            web_url: https://www.linkedin.com/in/karan-owalekar/
+            period: 2023-2025 (CS)
+            next_step: Field AI
           - name: Yuhai Wang
             web_url: https://yuhaiw.github.io/
             period: 2023-2025 (Analytics)
