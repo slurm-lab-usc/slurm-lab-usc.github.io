@@ -82,6 +82,9 @@ members:
           - name: David Kim
             photo_url: https://slurm-lab-usc.github.io/img/people/DavidKim.jpeg
             web_url: https://www.linkedin.com/in/david-kim-b50046206/
+          - name: William Wang
+            photo_url: https://slurm-lab-usc.github.io/img/people/williamwang.jpg
+            web_url: https://wwang22.com/
 
   # - name: Interns and Visitors
   #   list:
