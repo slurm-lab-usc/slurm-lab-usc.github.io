@@ -15,6 +15,45 @@
 # Current tags for research areas, see the research areas page for more details:
 # deform_obj_manip, 3D_afford_obj_manip, multimodal, rl_algs, auto_driving, active_perception, self_sup_rob
 
+- abs: Sequentially grasping multiple objects with multi-fingered hands is
+    common in daily life, where humans can fully leverage the dexterity of their
+    hands to enclose multiple objects. However, the diversity of object
+    geometries and the complex contact interactions required for high-DOF hands
+    to grasp one object while enclosing another make sequential multi-object
+    grasping challenging for robots. In this paper, we propose SeqMultiGrasp, a
+    system for sequentially grasping objects with a four-fingered Allegro Hand.
+    We focus on sequentially grasping two objects, ensuring that the hand fully
+    encloses one object before lifting it and then grasps the second object
+    without dropping the first. Our system first synthesizes single-object grasp
+    candidates, where each grasp is constrained to use only a subset of the
+    hand's links. These grasps are then validated in a physics simulator to
+    ensure stability and feasibility. Next, we merge the validated single-object
+    grasp poses to construct multi-object grasp configurations. For real-world
+    deployment, we train a diffusion model conditioned on point clouds to
+    propose grasp poses, followed by a heuristic-based execution strategy. We
+    test our system using 8x8 object combinations in simulation and 6x3 object
+    combinations in real. Our diffusion-based grasp model obtains an average
+    success rate of 65.8% over 1600 simulation trials and 56.7% over 90
+    real-world trials, suggesting that it is a promising approach for sequential
+    multi-object grasping with multi-fingered hands. 
+  authors: "Sicheng He, Zeyu Shangguan, Kuanning Wang, Yongchong Gu, Yuqian Fu, Yanwei Fu, Daniel Seita"
+  award: null
+  bib: "@inproceedings{he2025seqdex,\n
+    \ title={{Sequential Multi-Object Grasping with One Dexterous Hand}},\n
+    \ author={Sicheng He and Zeyu Shangguan and Kuanning Wang and Yongchong Gu and Yuqian Fu and Yanwei Fu and Daniel Seita},\n
+    \ booktitle={International Conference on Intelligent Robots and Systems (IROS)},\n
+    \ Year={2025}\n}"
+  img: ../img/papers/SeqDex-IROS.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2503.09078
+  short_id: 2025_SeqDexGrasp
+  site: https://hesic73.github.io/SeqMultiGrasp/
+  title: "Sequential Multi-Object Grasping with One Dexterous Hand"
+  venue: International Conference on Intelligent Robots and Systems (IROS), 2025
+  video_embed: null
+  tags:
+    - dexterous_hands
+
 - abs: Advancing dexterous manipulation with multi-fingered robotic hands
     requires rich sensory capabilities, but existing designs lack onboard
     thermal and torque sensing. In this work, we propose the MOTIF hand, a novel
