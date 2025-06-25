@@ -75,9 +75,9 @@
     \ Year={2025}\n}"
   img: ../img/papers/placeholder_general.png
   links:
-    '[arXiv]': 
+    '[arXiv]': https://arxiv.org/abs/2506.19201
   short_id: 2025_MOTIF_v1
-  site: 
+  site: https://slurm-lab-usc.github.io/motif-hand/
   title: "The MOTIF Hand: A Robotic Hand for Multimodal Observations with Thermal, Inertial, and Force Sensors"
   venue: International Symposium on Experimental Robotics (ISER), 2025
   video_embed: null
