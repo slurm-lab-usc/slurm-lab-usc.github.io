@@ -103,18 +103,18 @@
     For the final paper submission, we plan to expand HRIBench to 1,000 VQA
     questions and conduct a full evaluation of state-of-the-art closed-source
     and open-source VLMs.
-  authors: "Zhonghao Shi, Enyu Zhao, Nathaniel Dennler, Jingzhen Wang, Xinyang Xu, Kaleen Shrestha, Daniel Seita, Maja Mataric"
+  authors: "Zhonghao Shi, Enyu Zhao, Nathaniel Dennler, Jingzhen Wang, Xinyang Xu, Kaleen Shrestha, Mengxue Fu, Daniel Seita, Maja Mataric"
   award: null
   bib: "@inproceedings{Shi2025HRIBench,\n
     \ title = {{HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction}},\n
-    \ author={Zhonghao Shi and Enyu Zhao and Nathaniel Dennler and Jingzhen Wang and Xinyang Xu and Kaleen Shrestha and Daniel Seita and Maja Mataric},\n
+    \ author={Zhonghao Shi and Enyu Zhao and Nathaniel Dennler and Jingzhen Wang and Xinyang Xu and Kaleen Shrestha and Mengxue Fu and Daniel Seita and Maja Mataric},\n
     \ booktitle={International Symposium on Experimental Robotics (ISER)},\n
     \ Year = {2025}\n}"
   img: ../img/papers/HRIBench.png
   links:
-    '[arXiv]': 
+    '[arXiv]': https://arxiv.org/abs/2506.20566
   short_id: 2025_HRIBench
-  site: 
+  site: https://github.com/interaction-lab/HRIBench
   title: "HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction"
   venue: International Symposium on Experimental Robotics (ISER), 2025
   video_embed: null
