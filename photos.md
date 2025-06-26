@@ -9,7 +9,7 @@ lab_photos:
       - month: June
         list:
           - event: "RSS 2025 🤖 & Volunteers"
-            photo_url: /img/lab_photos/RSS3.jpg
+            photo_url: /img/lab_photos/RSS1.jpg
           - event: "RSS 2025 🤖 & Volunteers"
             photo_url: /img/lab_photos/RSS2.jpg
   - semester: Spring 2025
