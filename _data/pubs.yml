@@ -73,7 +73,7 @@
     \ author={Hanyang Zhou and Haozhe Lou and Wenhao Liu and Enyu Zhao and Yue Wang and Daniel Seita},\n
     \ booktitle={International Symposium on Experimental Robotics (ISER)},\n
     \ Year={2025}\n}"
-  img: ../img/papers/placeholder_general.png
+  img: ../img/papers/MOTIF_hand.gif
   links:
     '[arXiv]': https://arxiv.org/abs/2506.19201
   short_id: 2025_MOTIF_v1
