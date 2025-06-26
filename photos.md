@@ -6,12 +6,18 @@ title: Lab Photos
 lab_photos:
   - semester: Summer 2025
     list:
+      - month: June
+        list:
+          - event: "RSS 2025 🤖 & Volunteers"
+            photo_url: /img/lab_photos/RSS3.jpg
+          - event: "RSS 2025 🤖 & Volunteers"
+            photo_url: /img/lab_photos/RSS2.jpg
+  - semester: Spring 2025
+    list:
       - month: May
         list:
           - event: "Lab social: 7 wonders"
             photo_url: /img/lab_photos/lab_social_2025_summer.jpg
-  - semester: Spring 2025
-    list:
       - month: March
         list:
           - event: New PhD admits welcome dinner with Geometry, Vision, and Learning Lab
