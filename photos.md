@@ -6,6 +6,12 @@ title: Lab Photos
 lab_photos:
   - semester: Summer 2025
     list:
+      - month: July
+        list:
+          - event: "ISER 2025: Wenhao speaking"
+            photo_url: /img/lab_photos/ISER1.png
+          - event: "ISER 2025: Social event"
+            photo_url: /img/lab_photos/ISER2.jpg
       - month: June
         list:
           - event: "RSS 2025 🤖 & Volunteers"
