@@ -25,9 +25,11 @@ navbar-links:
   # Research Areas: "areas"
   Publications: "publications"
   Getting Involved: "getting_involved"
-  Other:
-    - Lab Photos: "photos"
-    - Broader Impacts: "broader_impacts"
+  Lab Photos: "photos"
+  Broader Impacts: "broader_impacts"
+  # Other:
+  #   - Lab Photos: "photos"
+  #   - Broader Impacts: "broader_impacts"
   # About Me: "aboutme"
   # Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
