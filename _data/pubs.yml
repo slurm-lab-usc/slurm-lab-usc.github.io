@@ -15,6 +15,147 @@
 # Current tags for research areas, see the research areas page for more details:
 # deform_obj_manip, 3D_afford_obj_manip, multimodal, rl_algs, auto_driving, active_perception, self_sup_rob
 
+- abs: Vision-Language Models (VLMs) have revolutionized artificial intelligence
+    and robotics due to their commonsense reasoning capabilities. In robotic
+    manipulation, VLMs are used primarily as high-level planners, but recent
+    work has also studied their lower-level reasoning ability, which refers to
+    making decisions about precise robot movements. However, the community
+    currently lacks a clear and common benchmark that can evaluate how well VLMs
+    can aid low-level reasoning in robotics. Consequently, we propose a novel
+    benchmark, ManipBench, to evaluate the low-level robot manipulation
+    reasoning capabilities of VLMs across various dimensions, including how well
+    they understand object-object interactions and deformable object
+    manipulation. We extensively test 33 representative VLMs across 10 model
+    families on our benchmark, including variants to test different model sizes.
+    Our evaluation shows that the performance of VLMs significantly varies
+    across tasks, and there is a strong correlation between this performance and
+    trends in our real-world manipulation tasks. It also shows that there
+    remains a significant gap between these models and human-level understanding. 
+  authors: "Enyu Zhao*, Vedant Raval*, Hejia Zhang*, Jiageng Mao, Zeyu Shangguan, Stefanos Nikolaidis, Yue Wang, Daniel Seita"
+  award: null
+  bib: "@inproceedings{zhao2025ManipBench,\n
+    \ title={{ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation}},\n
+    \ author={Enyu Zhao and Vedant Raval and Hejia Zhang and Jiageng Mao and Zeyu Shangguan and Stefanos Nikolaidis and Yue Wang and Daniel Seita},\n
+    \ booktitle={Conference on Robot Learning (CoRL)},\n
+    \ Year={2025}\n}"
+  img: ../img/papers/placeholder_general.png
+  links:
+    '[arXiv]': https://arxiv.org/abs/2505.09698
+  short_id: 2025_ManipBench
+  site: https://manipbench.github.io/ 
+  title: "ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation"
+  venue: Conference on Robot Learning (CoRL), 2025. 
+  video_embed: null
+  tags:
+    - benchmark 
+    - vlm 
+
+- abs: Learning bimanual manipulation is challenging due to its high
+    dimensionality and tight coordination required between two arms. Eye-in-hand
+    imitation learning, which uses wrist-mounted cameras, simplifies perception
+    by focusing on task-relevant views. However, collecting diverse
+    demonstrations remains costly, motivating the need for scalable data
+    augmentation. While prior work has explored visual augmentation in
+    single-arm settings, extending these approaches to bimanual manipulation
+    requires generating viewpoint-consistent observations across both arms and
+    producing corresponding action labels that are both valid and feasible. In
+    this work, we propose Diffusion for COordinated Dual-arm Data Augmentation
+    (D-CODA), a method for offline data augmentation tailored to eye-in-hand
+    bimanual imitation learning that trains a diffusion model to synthesize
+    novel, viewpoint-consistent wrist-camera images for both arms while
+    simultaneously generating joint-space action labels. It employs constrained
+    optimization to ensure that augmented states involving gripper-to-object
+    contacts adhere to constraints suitable for bimanual coordination. We
+    evaluate D-CODA on 5 simulated and 3 real-world tasks. Our results across
+    2250 simulation trials and 300 real-world trials demonstrate that it
+    outperforms baselines and ablations, showing its potential for scalable data
+    augmentation in eye-in-hand bimanual manipulation. 
+  authors: "I-Chun Arthur Liu, Jason Chen, Gaurav Sukhatme\u2020, Daniel Seita\u2020"
+  award: null
+  bib: "@inproceedings{liu2025DCODA,\n
+    \ title={{D-CODA: Diffusion for Coordinated Dual-Arm Data Augmentation}},\n
+    \ author={I-Chun Arthur Liu and Jason Chen and Gaurav Sukhatme and Daniel Seita},\n
+    \ booktitle={Conference on Robot Learning (CoRL)},\n
+    \ Year={2025}\n}"
+  img: ../img/papers/placeholder_general.png
+  links:
+    '[arXiv]': https://arxiv.org/abs/2505.04860 
+  short_id: 2025_DCODA
+  site: https://dcodaaug.github.io/D-CODA/ 
+  title: "D-CODA: Diffusion for Coordinated Dual-Arm Data Augmentation"
+  venue: Conference on Robot Learning (CoRL), 2025. 
+  video_embed: null
+  tags:
+    - dexterous_hands
+
+- abs: Legged robots have the potential to leverage obstacles to climb steep
+    sand slopes. However, efficiently repositioning these obstacles to desired
+    locations is challenging. Here we present DiffusiveGRAIN, a learning-based
+    method that enables a multi-legged robot to strategically induce localized
+    sand avalanches during locomotion and indirectly manipulate obstacles. We
+    conducted 375 trials, systematically varying obstacle spacing, robot
+    orientation, and leg actions in 75 of them. Results show that the movement
+    of closely-spaced obstacles exhibits significant interference, requiring
+    joint modeling. In addition, different multi-leg excavation actions could
+    cause distinct robot state changes, necessitating integrated planning of
+    manipulation and locomotion.  To address these challenges, DiffusiveGRAIN
+    includes a diffusion-based environment predictor to capture multi-obstacle
+    movements under granular flow interferences and a robot state predictor to
+    estimate changes in robot state from multi-leg action patterns. Deployment
+    experiments (90 trials) demonstrate that by integrating the environment and
+    robot state predictors, the robot can autonomously plan its movements based
+    on loco-manipulation goals, successfully shifting closely located rocks to
+    desired locations in over 65% of trials. Our study showcases the potential
+    for a locomoting robot to strategically manipulate obstacles to achieve
+    improved mobility on challenging terrains.
+  authors: "Haodi Hu, Yue Wu, Feifei Qian\u2020, Daniel Seita\u2020"
+  award: null
+  bib: "@inproceedings{hu2025DiffusiveGRAIN,\n
+    \ title={{Granular Loco-Manipulation: Repositioning Rocks Through Strategic Sand Avalanche}},\n
+    \ author={Haodi Hu and Yue Wu and Feifei Qian and Daniel Seita},\n
+    \ booktitle={Conference on Robot Learning (CoRL)},\n
+    \ Year={2025}\n}"
+  img: ../img/papers/placeholder_general.png
+  links:
+    '[arXiv]': https://arxiv.org/abs/2505.12934
+  short_id: 2025_DiffusiveGRAIN
+  site: https://sites.google.com/view/diffusivegrain/home 
+  title: "Granular Loco-Manipulation: Repositioning Rocks Through Strategic Sand Avalanche"
+  venue: Conference on Robot Learning (CoRL), 2025. 
+  video_embed: null
+  tags:
+    - dexterous_hands
+
+- abs: We introduce RoLA, a framework that transforms any in-the-wild image into
+    an interactive, physics-enabled robotic environment. Unlike previous
+    methods, RoLA operates directly on a single image without requiring
+    additional hardware or digital assets. Our framework democratizes robotic
+    data generation by producing massive visuomotor robotic demonstrations
+    within minutes from a wide range of image sources, including camera
+    captures, robotic datasets, and Internet images. At its core, our approach
+    combines a novel method for single-view physical scene recovery with an
+    efficient visual blending strategy for photorealistic data collection. We
+    demonstrate RoLA's versatility across applications like scalable robotic
+    data generation and augmentation, robot learning from Internet images, and
+    single-image real-to-sim-to-real systems for manipulators and humanoids.
+  authors: "Siheng Zhao*, Jiageng Mao*, Wei Chow, Zeyu Shangguan, Tianheng Shi, Rong Xue, Yuxi Zheng, Yijia Weng, Yang You, Daniel Seita, Leonidas Guibas, Sergey Zakharov, Vitor Campagnolo Guizilini, Yue Wang"
+  award: null
+  bib: "@inproceedings{zhao2025RoLA,\n
+    \ title={{Robot Learning from Any Images}},\n
+    \ author={Siheng Zhao and Jiageng Mao and Wei Chow and Zeyu Shangguan and Tianheng Shi and Rong Xue and Yuxi Zheng and Yijia Weng and Yang You and Daniel Seita and Leonidas Guibas and Sergey Zakharov and Vitor Campagnolo Guizilini and Yue Wang},\n
+    \ booktitle={Conference on Robot Learning (CoRL)},\n
+    \ Year={2025}\n}"
+  img: ../img/papers/placeholder_general.png
+  links:
+    '[arXiv]': https://sihengz02.github.io/RoLA/
+  short_id: 2025_RoLA
+  site: https://sihengz02.github.io/RoLA/ 
+  title: "Robot Learning from Any Images"
+  venue: Conference on Robot Learning (CoRL), 2025. 
+  video_embed: null
+  tags:
+    - Real2Sim2Real
+
 - abs: Sequentially grasping multiple objects with multi-fingered hands is
     common in daily life, where humans can fully leverage the dexterity of their
     hands to enclose multiple objects. However, the diversity of object
@@ -274,7 +415,6 @@
   tags:
     - vlm
     - deformable
-
 
 - abs: Legged robot locomotion on sand slopes is challenging due to the complex
     dynamics of granular media and how the lack of solid surfaces can hinder

@@ -8,9 +8,9 @@ lab_photos:
     list:
       - month: July
         list:
-          - event: "ISER 2025: Wenhao speaking"
+          - event: "ISER 2025: Wenhao Liu and Hanyang Zhou during a panel discussion"
             photo_url: /img/lab_photos/ISER1.png
-          - event: "ISER 2025: Social event"
+          - event: "ISER 2025: Hiking event with Wenhao, Hanyang, and Daniel"
             photo_url: /img/lab_photos/ISER2.jpg
       - month: June
         list:
