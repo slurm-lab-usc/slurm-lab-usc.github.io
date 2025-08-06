@@ -38,7 +38,7 @@
     \ author={Enyu Zhao and Vedant Raval and Hejia Zhang and Jiageng Mao and Zeyu Shangguan and Stefanos Nikolaidis and Yue Wang and Daniel Seita},\n
     \ booktitle={Conference on Robot Learning (CoRL)},\n
     \ Year={2025}\n}"
-  img: ../img/papers/placeholder_general.png
+  img: ../img/papers/ManipBench_CoRL2025.gif
   links:
     '[arXiv]': https://arxiv.org/abs/2505.09698
   short_id: 2025_ManipBench
