@@ -196,6 +196,16 @@ members:
       - name: Interns
         full: False
         list:
+          - name: Min Aung Paing
+            web_url: https://www.linkedin.com/in/min-aung-paing-swe/
+            photo_url: 
+            period: USC Jump Start 2025 (Undergrad at UC San Diego)
+            next_step:
+          - name: Ethan Foong
+            photo_url: 
+            web_url: https://www.linkedin.com/in/ethan-foong/
+            period: USC SURE 2025 (Undergrad at Northwestern)
+            next_step:
           - name: Gayathri Rajesh
             photo_url: https://slurm-lab-usc.github.io/img/people/gayathri.jpg
             web_url: https://www.linkedin.com/in/gayathri-rajesh-b84560228/
