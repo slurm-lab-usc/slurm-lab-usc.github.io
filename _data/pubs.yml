@@ -77,7 +77,7 @@
     \ author={I-Chun Arthur Liu and Jason Chen and Gaurav Sukhatme and Daniel Seita},\n
     \ booktitle={Conference on Robot Learning (CoRL)},\n
     \ Year={2025}\n}"
-  img: ../img/papers/placeholder_general.png
+  img: ../img/papers/DCODA_CoRL2025.gif
   links:
     '[arXiv]': https://arxiv.org/abs/2505.04860 
   short_id: 2025_DCODA
