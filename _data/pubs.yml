@@ -70,7 +70,7 @@
     2250 simulation trials and 300 real-world trials demonstrate that it
     outperforms baselines and ablations, showing its potential for scalable data
     augmentation in eye-in-hand bimanual manipulation. 
-  authors: "I-Chun Arthur Liu, Jason Chen, Gaurav Sukhatme\u2020, Daniel Seita\u2020"
+  authors: "I-Chun Arthur Liu, Jason Chen, Gaurav Sukhatme, Daniel Seita"
   award: null
   bib: "@inproceedings{liu2025DCODA,\n
     \ title={{D-CODA: Diffusion for Coordinated Dual-Arm Data Augmentation}},\n
@@ -145,7 +145,7 @@
     \ author={Siheng Zhao and Jiageng Mao and Wei Chow and Zeyu Shangguan and Tianheng Shi and Rong Xue and Yuxi Zheng and Yijia Weng and Yang You and Daniel Seita and Leonidas Guibas and Sergey Zakharov and Vitor Campagnolo Guizilini and Yue Wang},\n
     \ booktitle={Conference on Robot Learning (CoRL)},\n
     \ Year={2025}\n}"
-  img: ../img/papers/placeholder_general.png
+  img: ../img/papers/RoLA_CoRL2025.gif
   links:
     '[arXiv]': https://sihengz02.github.io/RoLA/
   short_id: 2025_RoLA
