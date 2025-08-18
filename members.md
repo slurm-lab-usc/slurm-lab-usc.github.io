@@ -28,6 +28,9 @@ members:
           - name: Toan Nguyen
             photo_url: https://slurm-lab-usc.github.io/img/people/ToanNguyen.jpeg
             web_url: https://toannguyen1904.github.io/
+          - name: Kyle Hatch
+            photo_url: https://slurm-lab-usc.github.io/img/people/KyleHatchSquare.jpg
+            web_url: https://khatch31.github.io/
 
   - name: Master's Students
     list:
