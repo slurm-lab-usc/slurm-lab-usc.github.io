@@ -39,9 +39,6 @@ members:
           - name: Charlene Yuen
             photo_url: https://slurm-lab-usc.github.io/img/people/Charlene.jpg
             web_url: https://lazerbird.github.io/
-          - name: Hanyang Zhou
-            photo_url: https://slurm-lab-usc.github.io/img/people/HanyangZHOU.png
-            web_url: https://hanyang-zhou.github.io/
           - name: Sicheng He
             photo_url: https://slurm-lab-usc.github.io/img/people/hesicheng.jpg
             web_url: https://hesic73.github.io/
@@ -66,6 +63,7 @@ members:
           - name: Anthony Zhang
             photo_url: https://slurm-lab-usc.github.io/img/people/AnthonyZhang.png
             web_url: https://www.linkedin.com/in/anthonyzhangseattle/
+
   - name: Undergraduate Students
     list:
       - full: true
@@ -82,12 +80,6 @@ members:
           - name: Samuel Burns
             photo_url: https://slurm-lab-usc.github.io/img/people/SamBurns.jpeg
             web_url: https://www.linkedin.com/in/samuel-burns-75702526b/
-          - name: David Kim
-            photo_url: https://slurm-lab-usc.github.io/img/people/DavidKim.jpeg
-            web_url: https://www.linkedin.com/in/david-kim-b50046206/
-          - name: William Wang
-            photo_url: https://slurm-lab-usc.github.io/img/people/williamwang.jpg
-            web_url: https://wwang22.com/
 
   # - name: Interns and Visitors
   #   list:
@@ -146,13 +138,21 @@ members:
             period: 2025 (CS)
             next_step:
           - name: Letian Zhang
-            photo_url: https://slurm-lab-usc.github.io/img/people/LetianZhang.jpeg
             web_url: https://www.linkedin.com/in/letian-zhang-630b37235/
             period: 2024-2025 (CS)
             next_step: CMU, INI MSIS
+          - name: David Kim
+            web_url: https://www.linkedin.com/in/david-kim-b50046206/
+            period: 2024-2025 (CS)
+            next_step: 
+
       - name: Master's Students
         full: False
         list:
+          - name: Hanyang Zhou
+            web_url: https://hanyang-zhou.github.io/
+            period: 2024-2025 (CS)
+            next_step: 
           - name: Vedant Raval
             web_url: https://vedant2311.github.io
             period: 2023-2025 (CS)
@@ -185,9 +185,14 @@ members:
             web_url: https://www.linkedin.com/in/dhanush-varma/
             period: 2023-2024 (ECE)
             next_step: 
+
       - name: Visitors / Volunteers
         full: False
         list:
+          - name: William Wang
+            web_url: https://wwang22.com/
+            period: 2025
+            next_step: Undergraduate at Columbia University
           - name: Rutvik Patel
             web_url: https://www.linkedin.com/in/rutvik-p4t3l/
             period: 2024-2025
@@ -196,6 +201,7 @@ members:
             web_url: https://www.linkedin.com/in/wangce94/
             period: 2024
             next_step: Ambarella Inc
+
       - name: Interns
         full: False
         list:
