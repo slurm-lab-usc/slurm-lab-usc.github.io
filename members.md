@@ -39,6 +39,9 @@ members:
           - name: Charlene Yuen
             photo_url: https://slurm-lab-usc.github.io/img/people/Charlene.jpg
             web_url: https://lazerbird.github.io/
+          - name: Changhui Hou
+            photo_url: https://slurm-lab-usc.github.io/img/people/changhuiUSC.jpg
+            web_url: https://github.com/changhuiUSC
           - name: Sicheng He
             photo_url: https://slurm-lab-usc.github.io/img/people/hesicheng.jpg
             web_url: https://hesic73.github.io/
