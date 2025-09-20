@@ -81,8 +81,8 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/JasonChen.jpeg
             web_url: https://jasoonchen.com/
           - name: Freddie Liang
-            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png 
-            web_url:
+            photo_url: https://slurm-lab-usc.github.io/img/people/FreddieLiang.jpeg
+            web_url: https://www.linkedin.com/in/freddie-liang/
           - name: Kevin Kim
             photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png 
             web_url:
