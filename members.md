@@ -42,9 +42,6 @@ members:
           - name: Changhui Hou
             photo_url: https://slurm-lab-usc.github.io/img/people/changhuiUSC.jpg
             web_url: https://github.com/changhuiUSC
-          - name: Sicheng He
-            photo_url: https://slurm-lab-usc.github.io/img/people/hesicheng.jpg
-            web_url: https://hesic73.github.io/
           - name: Jonathan Zamora
             photo_url: https://slurm-lab-usc.github.io/img/people/jonzamora.jpg
             web_url: https://jonzamora.dev/
@@ -66,6 +63,9 @@ members:
           - name: Anthony Zhang
             photo_url: https://slurm-lab-usc.github.io/img/people/AnthonyZhang.png
             web_url: https://www.linkedin.com/in/anthonyzhangseattle/
+          - name: Faiz Aladin
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png 
+            web_url:
 
   - name: Undergraduate Students
     list:
@@ -80,9 +80,18 @@ members:
           - name: Jason Chen
             photo_url: https://slurm-lab-usc.github.io/img/people/JasonChen.jpeg
             web_url: https://jasoonchen.com/
-          - name: Samuel Burns
-            photo_url: https://slurm-lab-usc.github.io/img/people/SamBurns.jpeg
-            web_url: https://www.linkedin.com/in/samuel-burns-75702526b/
+          - name: Freddie Liang
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png 
+            web_url:
+          - name: Kevin Kim
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png 
+            web_url:
+          - name: Amrutha Challa
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png 
+            web_url:
+          - name: Bruce Zhang
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png 
+            web_url:
 
   # - name: Interns and Visitors
   #   list:
@@ -140,6 +149,9 @@ members:
             web_url: https://www.linkedin.com/in/maria-guerrero-cordoba-80a116333
             period: 2025 (CS)
             next_step:
+          - name: Samuel Burns
+            web_url: https://www.linkedin.com/in/samuel-burns-75702526b/
+            period: 2025 (AME)
           - name: Letian Zhang
             web_url: https://www.linkedin.com/in/letian-zhang-630b37235/
             period: 2024-2025 (CS)
@@ -156,6 +168,10 @@ members:
             web_url: https://hanyang-zhou.github.io/
             period: 2024-2025 (CS)
             next_step: 
+          - name: Sicheng He
+            web_url: https://hesic73.github.io/
+            period: 2024-2025 (CS)
+            next_step:
           - name: Vedant Raval
             web_url: https://vedant2311.github.io
             period: 2023-2025 (CS)
