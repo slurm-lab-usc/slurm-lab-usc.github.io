@@ -84,7 +84,7 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/FreddieLiang.jpeg
             web_url: https://www.linkedin.com/in/freddie-liang/
           - name: Kevin Kim
-            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png 
+            photo_url: https://slurm-lab-usc.github.io/img/KevinKim.jpg
             web_url:
           - name: Amrutha Challa
             photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png 
