@@ -93,7 +93,7 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png 
             web_url:
           - name: Sid Srikanth
-            photo_url: https://slurm-lab-usc.github.io/img/SidSrikanth.jpeg
+            photo_url: https://slurm-lab-usc.github.io/img/people/SidSrikanth.jpeg
             web_url: http://sidsrikanth.com
 
   # - name: Interns and Visitors
