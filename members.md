@@ -90,7 +90,7 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png 
             web_url:
           - name: Bruce Zhang
-            photo_url: https://slurm-lab-usc.github.io/img/people/BruceZhang.jpg 
+            photo_url: https://slurm-lab-usc.github.io/img/people/BruceZhang_photo.jpeg 
             web_url: https://www.linkedin.com/in/changyang-zhang-351221329/
           - name: Sid Srikanth
             photo_url: https://slurm-lab-usc.github.io/img/people/SidSrikanth.jpeg
