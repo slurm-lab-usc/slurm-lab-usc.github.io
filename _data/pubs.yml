@@ -147,7 +147,7 @@
     \ Year={2025}\n}"
   img: ../img/papers/RoLA_CoRL2025.gif
   links:
-    '[arXiv]': https://sihengz02.github.io/RoLA/
+    '[arXiv]': https://arxiv.org/abs/2509.22970
   short_id: 2025_RoLA
   site: https://sihengz02.github.io/RoLA/ 
   title: "Robot Learning from Any Images"
