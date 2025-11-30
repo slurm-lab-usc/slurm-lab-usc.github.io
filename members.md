@@ -42,18 +42,9 @@ members:
           - name: Changhui Hou
             photo_url: https://slurm-lab-usc.github.io/img/people/changhuiUSC.jpg
             web_url: https://github.com/changhuiUSC
-          - name: Jonathan Zamora
-            photo_url: https://slurm-lab-usc.github.io/img/people/jonzamora.jpg
-            web_url: https://jonzamora.dev/
-          - name: Wenhao Liu
-            photo_url: https://slurm-lab-usc.github.io/img/people/WenhaoLiu.jpg
-            web_url: https://Liu-wenhao-1223.github.io/
           - name: Rajas Chitale
             photo_url: https://slurm-lab-usc.github.io/img/people/RajasChitale.JPG
             web_url: https://www.linkedin.com/in/rajas-chitale-rcv/
-          - name: Nikita Sarawgi
-            photo_url: https://slurm-lab-usc.github.io/img/people/NikitaSarawgi.jpg
-            web_url: https://www.linkedin.com/in/nikita-sarawgi/
           - name: Zinan Li
             photo_url: https://slurm-lab-usc.github.io/img/people/Zinan.jpg
             web_url: https://www.linkedin.com/in/zinanli02/
@@ -66,17 +57,14 @@ members:
           - name: Faiz Aladin
             photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png 
             web_url:
+          - name: Autumn Kwon 
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png 
+            web_url:
 
   - name: Undergraduate Students
     list:
       - full: true
         list:
-          - name: Oluwatobiloba Adesanya
-            photo_url: https://slurm-lab-usc.github.io/img/people/TobiAdesanya.jpeg
-            web_url: https://www.linkedin.com/in/oluwatobilobaadesanya
-          - name: Jonathan Ong
-            photo_url: https://slurm-lab-usc.github.io/img/people/JonathanOng.jpg
-            web_url: https://www.linkedin.com/in/ongjonathand
           - name: Jason Chen
             photo_url: https://slurm-lab-usc.github.io/img/people/JasonChen.jpeg
             web_url: https://jasoonchen.com/
@@ -128,13 +116,21 @@ members:
             web_url: https://pwang649.github.io/
             period: 2023-2024 (CS & AM)
             next_step: Yale University, PhD in CS
+          - name: Letian Zhang
+            web_url: https://www.linkedin.com/in/letian-zhang-630b37235/
+            period: 2024-2025 (CS)
+            next_step: CMU, INI MSIS
+          - name: Oluwatobiloba Adesanya
+            web_url: https://www.linkedin.com/in/oluwatobilobaadesanya
+            period: 2024-2025 (CS)
+            next_step:
+          - name: Jonathan Ong
+            web_url: https://www.linkedin.com/in/ongjonathand
+            period: 2024-2025 (CS)
+            next_step:
           - name: Emily Zhu
             web_url: https://www.linkedin.com/in/emily-k-zhu/
             period: 2023-2024 (CS & BA)
-            next_step:
-          - name: Vijay Kumaravelrajan
-            web_url: https://www.linkedin.com/in/vijay-kumaravelrajan/
-            period: 2024 (CS & AM)
             next_step:
           - name: Zitong Huang
             web_url: https://www.linkedin.com/in/zitong-huang/
@@ -155,10 +151,6 @@ members:
           - name: Samuel Burns
             web_url: https://www.linkedin.com/in/samuel-burns-75702526b/
             period: 2025 (AME)
-          - name: Letian Zhang
-            web_url: https://www.linkedin.com/in/letian-zhang-630b37235/
-            period: 2024-2025 (CS)
-            next_step: CMU, INI MSIS
           - name: David Kim
             web_url: https://www.linkedin.com/in/david-kim-b50046206/
             period: 2024-2025 (CS)
@@ -167,12 +159,24 @@ members:
       - name: Master's Students
         full: False
         list:
+          - name: Jonathan Zamora
+            web_url: https://jonzamora.dev/
+            period: 2024-2025 (CS)
+            next_step: 
+          - name: Wenhao Liu
+            web_url: https://Liu-wenhao-1223.github.io/
+            period: 2024-2025 (ECE)
+            next_step: 
           - name: Hanyang Zhou
             web_url: https://hanyang-zhou.github.io/
             period: 2024-2025 (CS)
-            next_step: 
+            next_step: Startup 
           - name: Sicheng He
             web_url: https://hesic73.github.io/
+            period: 2024-2025 (CS)
+            next_step:
+          - name: Nikita Sarawgi
+            web_url: https://www.linkedin.com/in/nikita-sarawgi/
             period: 2024-2025 (CS)
             next_step:
           - name: Vedant Raval
@@ -218,7 +222,7 @@ members:
           - name: Rutvik Patel
             web_url: https://www.linkedin.com/in/rutvik-p4t3l/
             period: 2024-2025
-            next_step: GrayMatter Robotics 
+            next_step: GrayMatter Robotics -> Nimble Robotics
           - name: Ce (Chris) Wang
             web_url: https://www.linkedin.com/in/wangce94/
             period: 2024

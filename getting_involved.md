@@ -5,12 +5,13 @@ title: Getting Involved
 ---
 
 Thank you for your interest in our research! See below for how you can get
-involved. This information is last updated **October 2025**.
+involved. This information is last updated **December 2025**.
 
 If you have additional questions after reading the below and want to get involved, feel free to email me.
 My contact information is [available on my website](https://danielseita.github.io/).
 I encourage you to read [Yonatan Bisk's FAQ][2] about emailing professors.
 I will try to respond to emails that are tailored to me. For example, they might explain why my lab is a good fit.
+If you tried your best and are still unsure if your email is tailored, say so in the email.
 Please do *not* send the same generic mass email to a long list of professors.
 
 ## PhD Students
@@ -33,7 +34,6 @@ experience, skills, or criteria:
 - who have implemented robotics or physics simulators.
 - who have significant experience in deep learning, imitation/reinforcement
   learning, and vision-language (foundation) models.
-- who have applied robotics to fields such as agriculture and health care.
 - who come from underrepresented, non-traditional, and/or low-income
   backgrounds, but who have reasonably "maxed out" their available resources to
   learn about robotics and machine learning.
@@ -105,7 +105,7 @@ Here is my brief perspective on advising.
 
 If this all sounds good, please apply to work with me!
 
-[1]:https://docs.google.com/forms/d/e/1FAIpQLSd3dFwQE4xSsBJw1QQsRkYo6RxrEabIGwkKZh_w3FcRWK2P5g/viewform
+[1]:https://docs.google.com/forms/d/e/1FAIpQLSdnNwtXetCNCypyC8A-cn23s19O8JLngnZwxwv8p9bwOR-gnQ/viewform?usp=sharing&ouid=116132570662240120034
 [2]:https://talkingtorobots.com/FAQ.html
 [3]:https://rasc.usc.edu/
 [4]:https://viterbischool.usc.edu/ginsburghall/
