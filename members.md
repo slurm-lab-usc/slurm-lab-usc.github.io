@@ -14,21 +14,29 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/ZeyuShangguan.jpeg
             web_url: https://zshanggu.github.io/
           - name: Yunshuang Li
+            coadvisor: Gaurav Sukhatme
+            coadvisor_url: https://uscresl.org/principal-investigator/
             photo_url: https://slurm-lab-usc.github.io/img/people/Yunshuang.jpeg
             web_url: https://li-yunshuang.github.io/
           - name: Yiyang Ling
             photo_url: https://slurm-lab-usc.github.io/img/people/Yiyang.jpg
             web_url: https://yiyang0207.github.io/
           - name: Ayano Hiranaka
+            coadvisor: Erdem Bıyık
+            coadvisor_url: https://ebiyik.github.io/
             photo_url: https://slurm-lab-usc.github.io/img/people/AyanoHiranaka.jpg
             web_url: https://misoshiruseijin.github.io
           - name: Hao Jiang
             photo_url: https://slurm-lab-usc.github.io/img/people/HaoJiang.png
             web_url: https://haojiang4400.github.io/
           - name: Toan Nguyen
+            coadvisor: Yue Wang
+            coadvisor_url: https://yuewang.xyz/
             photo_url: https://slurm-lab-usc.github.io/img/people/ToanNguyen.jpeg
             web_url: https://toannguyen1904.github.io/
           - name: Kyle Hatch
+            coadvisor: Yue Wang
+            coadvisor_url: https://yuewang.xyz/
             photo_url: https://slurm-lab-usc.github.io/img/people/KyleHatchSquare.jpg
             web_url: https://khatch31.github.io/
 
@@ -270,15 +278,20 @@ members:
             <h2 style="text-align: left; margin-bottom: 20px;"> {{ group.name }} </h2>
           {% endif %}
           {% if group.full %}
-          <div class="row member-row">
+          <div class="row member-row" style="display: flex; flex-wrap: wrap;">
             {% for member in group.list %}
-              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
+              <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col" style="margin-bottom: 30px;">
                 <a target="_blank" href="{{ member.web_url }}">
                   <img class="img-responsive" src="{{ member.photo_url }}" alt="{{member.name}}">
                 </a>
-                <a target="_blank" href="{{ member.web_url }}">
+                <a target="_blank" href="{{ member.web_url }}" style="display: block;">
                   {{ member.name }}
                 </a>
+                {% if member.coadvisor %}
+                  <span style="font-size: 0.85em; display: block; margin-top: 2px;">
+                    w/ <a target="_blank" href="{{ member.coadvisor_url }}">{{ member.coadvisor }}</a>
+                  </span>
+                {% endif %}
               </div>
             {% endfor %}
           </div>
