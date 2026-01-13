@@ -68,6 +68,9 @@ members:
           - name: Autumn Kwon 
             photo_url: https://slurm-lab-usc.github.io/img/people/AutumnKwon.jpg
             web_url: https://kwongaeu.github.io/
+          - name: Kelly Wu
+            photo_url: https://slurm-lab-usc.github.io/img/people/KellyWu.jpg
+            web_url: https://linkedin.com/in/kellywu533
 
   - name: Undergraduate Students
     list:
