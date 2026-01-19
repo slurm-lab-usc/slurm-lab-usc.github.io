@@ -122,15 +122,15 @@ members:
           - name: Hao Jiang
             web_url: https://haojiang4400.github.io/
             period: 2023-2025 (CS & AM)
-            next_step: University of Southern California, PhD in CS
+            next_step: University of Southern California, PhD in CS from 2025
           - name: Qian (Peter) Wang
             web_url: https://pwang649.github.io/
             period: 2023-2024 (CS & AM)
-            next_step: Yale University, PhD in CS
+            next_step: Yale University, PhD in CS from 2024
           - name: Letian Zhang
             web_url: https://www.linkedin.com/in/letian-zhang-630b37235/
             period: 2024-2025 (CS)
-            next_step: CMU, INI MSIS
+            next_step: CMU, INI MSIS from 2025
           - name: Oluwatobiloba Adesanya
             web_url: https://www.linkedin.com/in/oluwatobilobaadesanya
             period: 2024-2025 (CS)
@@ -138,7 +138,7 @@ members:
           - name: Jonathan Ong
             web_url: https://www.linkedin.com/in/ongjonathand
             period: 2024-2025 (CS)
-            next_step:
+            next_step: Amazon
           - name: Emily Zhu
             web_url: https://www.linkedin.com/in/emily-k-zhu/
             period: 2023-2024 (CS & BA)
@@ -189,7 +189,7 @@ members:
           - name: Nikita Sarawgi
             web_url: https://www.linkedin.com/in/nikita-sarawgi/
             period: 2024-2025 (CS)
-            next_step:
+            next_step: GrayMatter Robotics
           - name: Vedant Raval
             web_url: https://vedant2311.github.io
             period: 2023-2025 (CS)
@@ -201,11 +201,11 @@ members:
           - name: Yuhai Wang
             web_url: https://yuhaiw.github.io/
             period: 2023-2025 (Analytics)
-            next_step: Northeastern University, PhD in Civil & EE
+            next_step: Northeastern University, PhD in Civil & EE from 2025
           - name: Enyu Zhao
             web_url: https://enyu-zhao.github.io/
             period: 2023-2025 (CS)
-            next_step: University of Utah, PhD in CS 
+            next_step: University of Utah, PhD in CS from 2025
           - name: Ashwin Balasubramanian
             period: 2024-2025 (CS)
             web_url: https://www.linkedin.com/in/balasubramanian-ashwin/
@@ -213,7 +213,7 @@ members:
           - name: Harshitha B R
             web_url: https://www.linkedin.com/in/harshitha-b-r-2ab510190/
             period: 2024 (CS)
-            next_step: University of Southern California, PhD in CS
+            next_step: University of Southern California, PhD in CS from 2025
           - name: Anupam Patil
             web_url: https://www.linkedin.com/in/anupam-patil-114b841b0/
             period: 2023-2024 (CS)
@@ -221,7 +221,7 @@ members:
           - name: Dhanush Penmetsa
             web_url: https://www.linkedin.com/in/dhanush-varma/
             period: 2023-2024 (ECE)
-            next_step: 
+            next_step: University of Colorado Boulder, PhD in CS from 2025
 
       - name: Visitors / Volunteers
         full: False
@@ -256,12 +256,12 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/gayathri.jpg
             web_url: https://www.linkedin.com/in/gayathri-rajesh-b84560228/
             period: IUSSTF-Viterbi 2024 (Undergrad at National Institute of Technology, Tiruchirappalli)
-            next_step: UC San Diego, Masters in CS
+            next_step: UC San Diego, Masters in CS from 2025
           - name: Abhinav Pillai
             photo_url: https://slurm-lab-usc.github.io/img/people/Abhinav_Pillai.jpg
             web_url: https://www.linkedin.com/in/abhinav-pillai-62244b237
             period: USC REU 2024 (Undergrad at Indian Institute of Technology, Kharagpur)
-            next_step: Arizona State University, PhD in AE
+            next_step: Arizona State University, PhD in AE from 2025
           - name: Ebonee Davis
             photo_url: https://slurm-lab-usc.github.io/img/people/EboneeDavis.jpeg
             web_url: https://www.linkedin.com/in/eboneetdavis/
