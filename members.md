@@ -74,6 +74,9 @@ members:
           - name: Max Shen
             photo_url: https://slurm-lab-usc.github.io/img/people/MaxShen.png
             web_url: https://www.linkedin.com/in/maxshen1212/
+          - name: Zeqing Wang
+            photo_url: https://slurm-lab-usc.github.io/img/people/ZeqingWang.jpg
+            web_url: https://www.linkedin.com/in/zeqing-wang-477405374
 
   - name: Undergraduate Students
     list:
