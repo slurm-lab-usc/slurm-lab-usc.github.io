@@ -71,6 +71,9 @@ members:
           - name: Kelly Wu
             photo_url: https://slurm-lab-usc.github.io/img/people/KellyWu.jpg
             web_url: https://linkedin.com/in/kellywu533
+          - name: Zeqing Wang
+            photo_url: https://slurm-lab-usc.github.io/img/people/ZeqingWang.jpg
+            web_url: https://www.linkedin.com/in/zeqing-wang-477405374
 
   - name: Undergraduate Students
     list:
