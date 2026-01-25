@@ -63,14 +63,17 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/AnthonyZhang.png
             web_url: https://www.linkedin.com/in/anthonyzhangseattle/
           - name: Faiz Aladin
-            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png 
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
             web_url:
-          - name: Autumn Kwon 
+          - name: Autumn Kwon
             photo_url: https://slurm-lab-usc.github.io/img/people/AutumnKwon.jpg
             web_url: https://kwongaeu.github.io/
           - name: Kelly Wu
             photo_url: https://slurm-lab-usc.github.io/img/people/KellyWu.jpg
             web_url: https://linkedin.com/in/kellywu533
+          - name: Max Shen
+            photo_url: https://slurm-lab-usc.github.io/img/people/MaxShen.png
+            web_url: https://www.linkedin.com/in/maxshen1212/
 
   - name: Undergraduate Students
     list:
@@ -86,10 +89,10 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/KevinKim.jpg
             web_url:
           - name: Amrutha Challa
-            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png 
+            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
             web_url:
           - name: Bruce Zhang
-            photo_url: https://slurm-lab-usc.github.io/img/people/BruceZhang_photo.jpeg 
+            photo_url: https://slurm-lab-usc.github.io/img/people/BruceZhang_photo.jpeg
             web_url: https://www.linkedin.com/in/changyang-zhang-351221329/
           - name: Sid Srikanth
             photo_url: https://slurm-lab-usc.github.io/img/people/SidSrikanth.jpeg
@@ -165,7 +168,7 @@ members:
           - name: David Kim
             web_url: https://www.linkedin.com/in/david-kim-b50046206/
             period: 2024-2025 (CS)
-            next_step: 
+            next_step:
 
       - name: Master's Students
         full: False
@@ -173,15 +176,15 @@ members:
           - name: Jonathan Zamora
             web_url: https://jonzamora.dev/
             period: 2024-2025 (CS)
-            next_step: 
+            next_step:
           - name: Wenhao Liu
             web_url: https://Liu-wenhao-1223.github.io/
             period: 2024-2025 (ECE)
-            next_step: 
+            next_step:
           - name: Hanyang Zhou
             web_url: https://hanyang-zhou.github.io/
             period: 2024-2025 (CS)
-            next_step: Startup 
+            next_step: Startup
           - name: Sicheng He
             web_url: https://hesic73.github.io/
             period: 2024-2025 (CS)
@@ -209,7 +212,7 @@ members:
           - name: Ashwin Balasubramanian
             period: 2024-2025 (CS)
             web_url: https://www.linkedin.com/in/balasubramanian-ashwin/
-            next_step: Google 
+            next_step: Google
           - name: Harshitha B R
             web_url: https://www.linkedin.com/in/harshitha-b-r-2ab510190/
             period: 2024 (CS)
@@ -244,11 +247,11 @@ members:
         list:
           - name: Min Aung Paing
             web_url: https://www.linkedin.com/in/min-aung-paing-swe/
-            photo_url: 
+            photo_url:
             period: USC Jump Start 2025 (Undergrad at UC San Diego)
             next_step:
           - name: Ethan Foong
-            photo_url: 
+            photo_url:
             web_url: https://www.linkedin.com/in/ethan-foong/
             period: USC SURE 2025 (Undergrad at Northwestern)
             next_step:
