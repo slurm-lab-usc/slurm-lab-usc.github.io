@@ -15,6 +15,78 @@
 # Current tags for research areas, see the research areas page for more details:
 # deform_obj_manip, 3D_afford_obj_manip, multimodal, rl_algs, auto_driving, active_perception, self_sup_rob
 
+- abs: Preference‑based reward learning is widely used for shaping agent
+    behavior to match a user's preference, yet its sparse binary feedback makes
+    it especially vulnerable to causal confusion. The learned reward often
+    latches onto spurious features that merely co‑occur with preferred
+    trajectories during training, collapsing when those correlations disappear
+    or reverse at test time.  We introduce ReCouPLe, a lightweight framework
+    that uses natural language rationales to provide the missing causal signal.
+    Each rationale is treated as a guiding projection axis in embedding space,
+    training the model to score trajectories based on features aligned with that
+    axis while de-emphasizing context that is unrelated to the stated reason.
+    Because identical rationales can arise across multiple tasks (e.g., "it
+    avoids collisions with a fragile object"), ReCouPLe naturally reuses the
+    same causal direction whenever tasks share semantics, and transfers
+    preference knowledge to novel tasks without extra data or language‑model
+    fine-tuning. Our learned reward model can ground preferences on the
+    articulated reason, aligning better with user intent and generalizing beyond
+    spurious features.
+  authors: "Minjune Hwang, Yigit Korkmaz, Daniel Seita\u2020, Erdem Bıyık\u2020"
+  award: null
+  bib: "@inproceedings{hwang2026recouple,\n
+    \ title={{Causally Robust Reward Learning From Reason-Augmented Preference Feedback}},\n
+    \ author={Minjune Hwang and Yigit Korkmaz and Daniel Seita and Erdem Bıyık},\n
+    \ booktitle={International Conference on Learning Representations (ICLR)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/placeholder_general.png 
+  links:
+    '[arXiv]':  
+  short_id: 2026_ReCouPLe
+  site:  
+  title: "Causally Robust Reward Learning From Reason-Augmented Preference Feedback"
+  venue: International Conference on Learning Representations (ICLR), 2026. 
+  video_embed: null
+  tags:
+    - rlhf 
+    - reward_learning 
+
+- abs: Simulation provides a cost-effective and flexible platform for data
+    generation and policy learning to develop robotic systems. However, bridging
+    the gap between simulation and real-world dynamics remains a significant
+    challenge, especially in physical parameter identification. In this work, we
+    introduce a real-to-sim-to-real engine that leverages the Gaussian Splat
+    representations to build a differentiable engine, enabling object mass
+    identification from real-world visual observations and robot control
+    signals, while enabling grasping policy learning simultaneously. Through
+    optimizing the mass of the manipulated object, our method automatically
+    builds high-fidelity and physically plausible digital twins. Additionally,
+    we propose a novel approach to train force-aware grasping policies from
+    limited data by transferring feasible human demonstrations into simulated
+    robot demonstrations. Through comprehensive experiments, we demonstrate that
+    our engine achieves accurate and robust performance in mass identification
+    across various object geometries and mass values. Those optimized mass
+    values facilitate force-aware policy learning, achieving superior and high
+    performance in object grasping, effectively reducing the sim-to-real gap.
+  authors: "Haozhe Lou, Mingtong Zhang, Haoran Geng, Hanyang Zhou, Sicheng He, Zhiyuan Gao, Siheng Zhao, Jiageng Mao, Pieter Abbeel, Jitendra Malik, Daniel Seita, Yue Wang" 
+  award: null
+  bib: "@inproceedings{lou2026DREX,\n
+    \ title={{D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping}},\n
+    \ author={Haozhe Lou and Mingtong Zhang and Haoran Geng and Hanyang Zhou and Sicheng He and Zhiyuan Gao and Siheng Zhao and Jiageng Mao and Pieter Abbeel and Jitendra Malik and Daniel Seita and Yue Wang},\n
+    \ booktitle={International Conference on Learning Representations (ICLR)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/placeholder_general.png 
+  links:
+    '[arXiv]':  
+  short_id: 2026_DREX
+  site:  
+  title: "D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping"
+  venue: International Conference on Learning Representations (ICLR), 2026. 
+  video_embed: null
+  tags:
+    - real2sim2real 
+    - grasping 
+
 - abs: Vision-Language Models (VLMs) have revolutionized artificial intelligence
     and robotics due to their commonsense reasoning capabilities. In robotic
     manipulation, VLMs are used primarily as high-level planners, but recent
