@@ -114,7 +114,7 @@ members:
       - full: true
         list:
           - name: Ue-Hwan Kim
-            photo_url: https://slurm-lab-usc.github.io/img/people/UehwanKim.png
+            photo_url: https://slurm-lab-usc.github.io/img/people/UehwanKim.jpg
             web_url: https://uehwan.github.io/
 
   - name: Faculty
