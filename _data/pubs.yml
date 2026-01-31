@@ -15,6 +15,265 @@
 # Current tags for research areas, see the research areas page for more details:
 # deform_obj_manip, 3D_afford_obj_manip, multimodal, rl_algs, auto_driving, active_perception, self_sup_rob
 
+- abs: Training robust bimanual manipulation policies via imitation learning
+    requires demonstration data with broad coverage over robot poses, contacts,
+    and scene contexts. However, collecting diverse and precise real-world
+    demonstrations is costly and time-consuming, which hinders scalability.
+    Prior works have addressed this with data augmentation, typically for either
+    eye-in-hand (wrist camera) setups with RGB inputs or for generating novel
+    images without paired actions, leaving augmentation for eye-to-hand
+    (third-person) RGB-D training with new action labels less explored. In this
+    paper, we propose Synthetic Robot Pose Generation for RGB-D Bimanual Data
+    Augmentation (ROPA), an offline imitation learning data augmentation method
+    that fine-tunes Stable Diffusion to synthesize third-person RGB and RGB-D
+    observations of novel robot poses. Our approach simultaneously generates
+    corresponding joint-space action labels while employing constrained
+    optimization to enforce physical consistency through appropriate
+    gripper-to-object contact constraints in bimanual scenarios.  We evaluate
+    our method on 5 simulated and 3 real-world tasks. Our results across 2625
+    simulation trials and 300 real-world trials demonstrate that ROPA
+    outperforms baselines and ablations, showing its potential for scalable RGB
+    and RGB-D data augmentation in eye-to-hand bimanual manipulation. 
+  authors: "Jason Chen, I-Chun Arthur Liu, Gaurav Sukhatme, Daniel Seita" 
+  award: null
+  bib: "@inproceedings{chen2026ropa,\n
+    \ title={{ROPA: Synthetic Robot Pose Generation for RGB-D Bimanual Data Augmentation}},\n
+    \ author={Jason Chen and I-Chun Arthur Liu and Gaurav Sukhatme and Daniel Seita},\n
+    \ booktitle={International Conference on Robotics and Automation (ICRA)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/placeholder_general.png 
+  links:
+    '[arXiv]': https://www.arxiv.org/abs/2509.19454 
+  short_id: 2026_ROPA
+  site: https://ropaaug.github.io/ 
+  title: "ROPA: Synthetic Robot Pose Generation for RGB-D Bimanual Data Augmentation"
+  venue: International Conference on Robotics and Automation (ICRA), 2026.
+  video_embed: null
+  tags:
+    - bimanual 
+    - data_augmentation 
+
+- abs: Nonprehensile manipulation, such as pushing and pulling, enables robots
+    to move, align, or reposition objects that may be difficult to grasp due to
+    their geometry, size, or relationship to the robot or the environment. Much
+    of the existing work in nonprehensile manipulation relies on parallel-jaw
+    grippers or tools such as rods and spatulas. In contrast, multi-fingered
+    dexterous hands offer richer contact modes and versatility for handling
+    diverse objects to provide stable support over the objects, which
+    compensates for the difficulty of modeling the dynamics of nonprehensile
+    manipulation. Therefore, we propose Geometry-aware Dexterous Pushing and
+    Pulling (GD2P) for nonprehensile manipulation with dexterous robotic hands.
+    We study pushing and pulling by framing the problem as synthesizing and
+    learning pre-contact dexterous hand poses that lead to effective
+    manipulation. We generate diverse hand poses via contact-guided sampling,
+    filter them using physics simulation, and train a diffusion model
+    conditioned on object geometry to predict viable poses. At test time, we
+    sample hand poses and use standard motion planners to select and execute
+    pushing and pulling actions. We perform 840 real-world experiments with an
+    Allegro Hand, comparing our method to baselines. The results indicate that
+    GD2P offers a scalable route for training dexterous nonprehensile
+    manipulation policies. We further demonstrate GD2P on a LEAP Hand,
+    highlighting its applicability to different hand morphologies. Our
+    pre-trained models and dataset, including 1.3 million hand poses across 2.3k
+    objects, will be open-source to facilitate further research. 
+  authors: "Yunshuang Li, Yiyang Ling, Gaurav Sukhatme, Daniel Seita" 
+  award: null
+  bib: "@inproceedings{li2026nonprehensile,\n
+    \ title={{Learning Geometry-Aware Nonprehensile Pushing and Pulling with Dexterous Hands}},\n
+    \ author={Yunshuang Li and Yiyang Ling and Gaurav Sukhatme and Daniel Seita},\n
+    \ booktitle={International Conference on Robotics and Automation (ICRA)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/placeholder_general.png 
+  links:
+    '[arXiv]': https://arxiv.org/abs/2509.18455 
+  short_id: 2026_GD2P
+  site: https://geodex2p.github.io/ 
+  title: "Learning Geometry-Aware Nonprehensile Pushing and Pulling with Dexterous Hands"
+  venue: International Conference on Robotics and Automation (ICRA), 2026.
+  video_embed: null
+  tags:
+    - dexterous
+    - nonprehensile 
+
+- abs: Motion planning involves determining a sequence of robot configurations
+    to reach a desired pose, subject to movement and safety constraints.
+    Traditional motion planning finds collision-free paths, but this is overly
+    restrictive in clutter, where it may not be possible for a robot to
+    accomplish a task without contact. In addition, contacts range from
+    relatively benign (e.g. brushing a soft pillow) to more dangerous (e.g.
+    toppling a glass vase), making it difficult to characterize which may be
+    acceptable. In this paper, we propose IMPACT, a novel motion planning
+    framework that uses Vision-Language Models (VLMs) to infer environment
+    semantics, identifying which parts of the environment can best tolerate
+    contact based on object properties and locations. Our approach generates an
+    anisotropic cost map that encodes directional push safety. We pair this map
+    with a contact-aware A* planner to find stable contact-rich paths. We
+    perform experiments using 20 simulation and 10 real-world scenes and assess
+    using task success rate, object displacements, and feedback from human
+    evaluators. Our results over 3200 simulation and 200 real-world trials
+    suggest that IMPACT enables efficient contact-rich motion planning in
+    cluttered settings while outperforming alternative methods and ablations.
+  authors: "Yiyang Ling*, Karan Owalekar*, Oluwatobiloba Adesanya, Erdem Bıyık, Daniel Seita" 
+  award: null
+  bib: "@inproceedings{ling2026impact,\n
+    \ title={{IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models}},\n
+    \ author={Yiyang Ling and Karan Owalekar and Oluwatobiloba Adesanya and Erdem Bıyık and Daniel Seita},\n
+    \ booktitle={International Conference on Robotics and Automation (ICRA)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/placeholder_general.png 
+  links:
+    '[arXiv]': https://arxiv.org/abs/2503.10110 
+  short_id: 2026_IMPACT
+  site: https://impact-planning.github.io/
+  title: "IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models"
+  venue: International Conference on Robotics and Automation (ICRA), 2026.
+  video_embed: null
+  tags:
+    - vlm 
+    - clutter 
+
+- abs: Reachability analysis has become increasingly important in robotics to
+    distinguish safe from unsafe states. Unfortunately, existing reachability
+    and safety analysis methods often fall short, as they typically require
+    known system dynamics or large datasets to estimate accurate system models,
+    are computationally expensive, and assume full state information. A recent
+    method, called MORALS, aims to address these shortcomings by using
+    topological tools to estimate Regions of Attraction (ROA) in a
+    low-dimensional latent space. However, MORALS still relies on full state
+    knowledge and has not been studied when only sensor measurements are
+    available. This paper presents Visual Morse Graph-Aided Estimation of
+    Regions of Attraction in a Learned Space (V-MORALS). V-MORALS takes in a
+    dataset of image-based trajectories of a system under a given controller,
+    and learns a latent space for reachability analysis. Using this learned
+    latent space, our method is able to generate well-defined Morse Graphs, from
+    which we can compute ROAs for various systems and controllers. V-MORALS
+    provides capabilities similar to the original MORALS architecture without
+    relying on state knowledge, and using only high-level sensor data. 
+  authors: "Faiz Aladin, Ashwin Balasubramanian, Lars Lindemann, Daniel Seita" 
+  award: null
+  bib: "@inproceedings{aladin2026vmorals,\n
+    \ title={{V-MORALS: Visual Morse Graph-Aided Discovery of Regions of Attraction in a Learned Space}},\n
+    \ author={Faiz Aladin and Ashwin Balasubramanian and Lars Lindemann and Daniel Seita},\n
+    \ booktitle={International Conference on Robotics and Automation (ICRA)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/placeholder_general.png 
+  links:
+    '[arXiv]':  
+  short_id: 2026_VMORALS
+  site:  
+  title: "V-MORALS: Visual Morse Graph-Aided Discovery of Regions of Attraction in a Learned Space"
+  venue: International Conference on Robotics and Automation (ICRA), 2026.
+  video_embed: null
+  tags:
+    - reachability
+    - safety 
+
+- abs: Scooping items with tools such as spoons and ladles is common in daily
+    life, ranging from assistive feeding to retrieving items from environmental
+    disaster sites. However, developing a general and autonomous robotic
+    scooping policy is challenging since it requires reasoning about complex
+    tool-object interactions. Furthermore, scooping often involves manipulating
+    deformable objects, such as granular media or liquids, which is challenging
+    due to their infinite-dimensional configuration spaces and complex dynamics.
+    We propose a method, SCOOP'D, which uses simulation from OmniGibson (built
+    on NVIDIA Omniverse) to collect scooping demonstrations using algorithmic
+    procedures that rely on privileged state information. Then, we use
+    generative policies via diffusion to imitate demonstrations from
+    observational input. We directly apply the learned policy in diverse
+    real-world scenarios, testing its performance on various item quantities,
+    item characteristics, and container types. In zero-shot deployment, our
+    method demonstrates promising results across 465 trials in diverse
+    scenarios, including objects of different difficulty levels that we
+    categorize as "Level 1" and "Level 2." SCOOP'D outperforms all baselines and
+    ablations, suggesting that this is a promising approach to acquiring robotic
+    scooping skills. 
+  authors: "Kuanning Wang, Yongchong Gu, Yuqian Fu, Zeyu Shangguan, Sicheng He, Xiangyang Xue, Yanwei Fu, Daniel Seita" 
+  award: null
+  bib: "@inproceedings{wang2026scooping,\n
+    \ title={{SCOOP'D: State-based Sim2Real Generative Policy for Generalizable Mixed-Liquid-Solid Scooping}},\n
+    \ author={Kuanning Wang and Yongchong Gu and Yuqian Fu and Zeyu Shangguan and Sicheng He and Xiangyang Xue and Yanwei Fu and Daniel Seita},\n
+    \ booktitle={International Conference on Robotics and Automation (ICRA)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/placeholder_general.png 
+  links:
+    '[arXiv]': https://arxiv.org/abs/2510.11566
+  short_id: 2026_SCOOPD
+  site: https://scoopdiff.github.io/ 
+  title: "SCOOP'D: State-based Sim2Real Generative Policy for Generalizable Mixed-Liquid-Solid Scooping"
+  venue: International Conference on Robotics and Automation (ICRA), 2026.
+  video_embed: null
+  tags:
+    - scooping 
+    - deformable 
+    - sim2real 
+
+- abs: We present OCRA, an Object-Centric framework for video-based
+    human-to-Robot Action transfer that learns directly from human demonstration
+    videos to enable robust manipulation. Object-centric learning emphasizes
+    task-relevant objects and their interactions while filtering out irrelevant
+    background, providing a natural and scalable way to teach robots. OCRA
+    leverages multi-view RGB videos, the state-of-the-art 3D foundation model
+    VGGT, and advanced detection and segmentation models to reconstruct
+    object-centric 3D point clouds, capturing rich interactions between objects.
+    To handle properties not easily perceived by vision alone, we incorporate
+    tactile priors via a large-scale dataset of over one million tactile images.
+    These 3D and tactile priors are fused through a multimodal module (ResFiLM)
+    and fed into a Diffusion Policy to generate robust manipulation actions.
+    Extensive experiments on both vision-only and visuo-tactile tasks show that
+    OCRA significantly outperforms existing baselines and ablations,
+    demonstrating its effectiveness for learning from human demonstration
+    videos.
+  authors: "Kuanning Wang, Ke Fan, Yuqian Fu, Siyu Lin, Hu Luo, Daniel Seita, Yanwei Fu, Yu-Gang Jiang, Xiangyang Xue" 
+  award: null
+  bib: "@inproceedings{wang2026orca,\n
+    \ title={{OCRA: Object-Centric Learning with 3D and Tactile Priors for Human-to-Robot Action Transfer}},\n
+    \ author={Kuanning Wang and Ke Fan and Yuqian Fu and Siyu Lin and Hu Luo and Daniel Seita and Yanwei Fu and Yu{-}Gang Jiang and Xiangyang Xue},\n
+    \ booktitle={International Conference on Robotics and Automation (ICRA)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/placeholder_general.png 
+  links:
+    '[arXiv]':  
+  short_id: 2026_OCRA
+  site: 
+  title: "OCRA: Object-Centric Learning with 3D and Tactile Priors for Human-to-Robot Action Transfer"
+  venue: International Conference on Robotics and Automation (ICRA), 2026.
+  video_embed: null
+  tags:
+    - learn_videos 
+    - tactile 
+
+- abs:  Robotic bin packing is widely deployed in warehouse automation, with
+    current systems achieving robust performance through heuristic and
+    learning-based strategies. These systems must balance compact placement with
+    rapid execution, where actions such as selecting alternative items or
+    reorienting them can improve space utilization but introduce additional
+    time. We propose a selection-based formulation that explicitly reasons over
+    this trade-off; at each step, the robot evaluates multiple candidate
+    actions, weighing expected packing benefit against estimated operational
+    time. This enables time-aware strategies that selectively accept increased
+    operational time when it yields meaningful spatial improvements. Our method,
+    STEP (Space-Time Efficient Packing), uses a Transformerbased policy
+    conditioned on dynamic preferences, and allows generalization across
+    candidate set sizes and integration with standard placement modules. It
+    achieves higher packing density without compromising operational time. 
+  authors: "Nikita Sarawgi, Omey M. Manyar, Fan Wang, Thinh H. Nguyen, Daniel Seita, Satyandra K. Gupta" 
+  award: null
+  bib: "@inproceedings{sarawgi2026binpacking,\n
+    \ title={{Expanding Picking Actions for Time-Efficient Online 3D Bin Packing}},\n
+    \ author={Nikita Sarawgi and Omey M. Manyar and Fan Wang and Thinh H. Nguyen and Daniel Seita and Satyandra K. Gupta},\n
+    \ booktitle={International Conference on Robotics and Automation (ICRA)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/placeholder_general.png 
+  links:
+    '[arXiv]':  
+  short_id: 2026_binpacking
+  site: https://step-packing.github.io/
+  title: "Expanding Picking Actions for Time-Efficient Online 3D Bin Packing"
+  venue: International Conference on Robotics and Automation (ICRA), 2026.
+  video_embed: null
+  tags:
+    - bin_picking 
+
 - abs: Preference‑based reward learning is widely used for shaping agent
     behavior to match a user's preference, yet its sparse binary feedback makes
     it especially vulnerable to causal confusion. The learned reward often
