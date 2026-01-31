@@ -109,6 +109,14 @@ members:
   #           photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
   #           web_url: https://slurm-lab-usc.github.io/
 
+  - name: Visitor
+    list:
+      - full: true
+        list:
+          - name: Ue-Hwan Kim
+            photo_url: https://slurm-lab-usc.github.io/img/people/UehwanKim.png
+            web_url: https://uehwan.github.io/
+
   - name: Faculty
     list:
       - full: true
