@@ -263,7 +263,7 @@
     \ author={Nikita Sarawgi and Omey M. Manyar and Fan Wang and Thinh H. Nguyen and Daniel Seita and Satyandra K. Gupta},\n
     \ booktitle={International Conference on Robotics and Automation (ICRA)},\n
     \ Year={2026}\n}"
-  img: ../img/papers/placeholder_general.png 
+  img: ../img/papers/BinPacking_ICRA2026.gif 
   links:
     '[arXiv]':  
   short_id: 2026_binpacking
