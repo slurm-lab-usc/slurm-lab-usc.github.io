@@ -120,7 +120,7 @@
     \ author={Yiyang Ling and Karan Owalekar and Oluwatobiloba Adesanya and Erdem Bıyık and Daniel Seita},\n
     \ booktitle={International Conference on Robotics and Automation (ICRA)},\n
     \ Year={2026}\n}"
-  img: ../img/papers/placeholder_general.png 
+  img: ../img/papers/IMPACT_ICRA2026.gif 
   links:
     '[arXiv]': https://arxiv.org/abs/2503.10110 
   short_id: 2026_IMPACT
