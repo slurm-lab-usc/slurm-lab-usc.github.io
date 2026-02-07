@@ -156,7 +156,7 @@
     \ author={Faiz Aladin and Ashwin Balasubramanian and Lars Lindemann and Daniel Seita},\n
     \ booktitle={International Conference on Robotics and Automation (ICRA)},\n
     \ Year={2026}\n}"
-  img: ../img/papers/placeholder_general.png 
+  img: ../img/papers/VMORALS_ICRA2026.gif 
   links:
     '[arXiv]':  
   short_id: 2026_VMORALS
