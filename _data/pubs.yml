@@ -626,7 +626,7 @@
     \ author = {Wei Chow and Jiageng Mao and Boyi Li and Daniel Seita and Vitor Campagnolo Guizilini and Yue Wang},\n
     \ booktitle = {International Conference on Learning Representations (ICLR)},\n
     \ Year = {2025}\n}"
-  img: ../img/papers/physbench.png
+  img: ../img/papers/PhysBench_ICLR2025.mp4
   links:
     '[arXiv]': https://arxiv.org/abs/2501.16411 
     '[OpenReview]': https://openreview.net/forum?id=Q6a9W6kzv5
