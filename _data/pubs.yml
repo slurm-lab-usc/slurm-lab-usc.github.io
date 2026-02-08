@@ -298,7 +298,7 @@
     \ author={Minjune Hwang and Yigit Korkmaz and Daniel Seita and Erdem Bıyık},\n
     \ booktitle={International Conference on Learning Representations (ICLR)},\n
     \ Year={2026}\n}"
-  img: ../img/papers/placeholder_general.png 
+  img: ../img/papers/ReCouPLe_ICLR2026.gif
   links:
     '[arXiv]':  
   short_id: 2026_ReCouPLe
