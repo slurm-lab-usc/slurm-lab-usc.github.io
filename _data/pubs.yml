@@ -83,7 +83,7 @@
     \ author={Yunshuang Li and Yiyang Ling and Gaurav Sukhatme and Daniel Seita},\n
     \ booktitle={International Conference on Robotics and Automation (ICRA)},\n
     \ Year={2026}\n}"
-  img: ../img/papers/placeholder_general.png 
+  img: ../img/papers/GD2P_ICRA2026.gif
   links:
     '[arXiv]': https://arxiv.org/abs/2509.18455 
   short_id: 2026_GD2P
