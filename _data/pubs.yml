@@ -230,7 +230,7 @@
     \ author={Kuanning Wang and Ke Fan and Yuqian Fu and Siyu Lin and Hu Luo and Daniel Seita and Yanwei Fu and Yu{-}Gang Jiang and Xiangyang Xue},\n
     \ booktitle={International Conference on Robotics and Automation (ICRA)},\n
     \ Year={2026}\n}"
-  img: ../img/papers/placeholder_general.png 
+  img: ../img/papers/OCRA_ICRA2026.gif
   links:
     '[arXiv]':  
   short_id: 2026_OCRA
