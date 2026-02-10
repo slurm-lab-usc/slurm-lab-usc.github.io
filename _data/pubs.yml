@@ -334,7 +334,7 @@
     \ author={Haozhe Lou and Mingtong Zhang and Haoran Geng and Hanyang Zhou and Sicheng He and Zhiyuan Gao and Siheng Zhao and Jiageng Mao and Pieter Abbeel and Jitendra Malik and Daniel Seita and Yue Wang},\n
     \ booktitle={International Conference on Learning Representations (ICLR)},\n
     \ Year={2026}\n}"
-  img: ../img/papers/placeholder_general.png 
+  img: ../img/papers/DREX_ICLR2026.gif
   links:
     '[arXiv]':  
   short_id: 2026_DREX
