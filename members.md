@@ -63,8 +63,8 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/AnthonyZhang.png
             web_url: https://www.linkedin.com/in/anthonyzhangseattle/
           - name: Faiz Aladin
-            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
-            web_url:
+            photo_url: https://slurm-lab-usc.github.io/img/people/FaizAladin.png
+            web_url: https://faizaladin.github.io
           - name: Autumn Kwon
             photo_url: https://slurm-lab-usc.github.io/img/people/AutumnKwon.jpg
             web_url: https://kwongaeu.github.io/
