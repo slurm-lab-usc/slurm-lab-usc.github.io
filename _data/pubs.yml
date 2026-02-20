@@ -223,7 +223,7 @@
     OCRA significantly outperforms existing baselines and ablations,
     demonstrating its effectiveness for learning from human demonstration
     videos.
-  authors: "Kuanning Wang, Ke Fan, Yuqian Fu, Siyu Lin, Hu Luo, Daniel Seita, Yanwei Fu, Yu-Gang Jiang, Xiangyang Xue" 
+  authors: "Kuanning Wang*, Ke Fan*, Yuqian Fu, Siyu Lin, Hu Luo, Daniel Seita, Yanwei Fu, Yu-Gang Jiang, Xiangyang Xue" 
   award: null
   bib: "@inproceedings{wang2026orca,\n
     \ title={{OCRA: Object-Centric Learning with 3D and Tactile Priors for Human-to-Robot Action Transfer}},\n
