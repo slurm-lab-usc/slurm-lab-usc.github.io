@@ -234,7 +234,7 @@
   links:
     '[arXiv]':  
   short_id: 2026_OCRA
-  site: 
+  site: https://sressers.github.io/OCRA/
   title: "OCRA: Object-Centric Learning with 3D and Tactile Priors for Human-to-Robot Action Transfer"
   venue: International Conference on Robotics and Automation (ICRA), 2026.
   video_embed: null
