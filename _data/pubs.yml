@@ -327,7 +327,7 @@
     across various object geometries and mass values. Those optimized mass
     values facilitate force-aware policy learning, achieving superior and high
     performance in object grasping, effectively reducing the sim-to-real gap.
-  authors: "Haozhe Lou, Mingtong Zhang, Haoran Geng, Hanyang Zhou, Sicheng He, Zhiyuan Gao, Siheng Zhao, Jiageng Mao, Pieter Abbeel, Jitendra Malik, Daniel Seita, Yue Wang" 
+  authors: "Haozhe Lou*, Mingtong Zhang*, Haoran Geng, Hanyang Zhou, Sicheng He, Zhiyuan Gao, Siheng Zhao, Jiageng Mao, Pieter Abbeel, Jitendra Malik, Daniel Seita, Yue Wang" 
   award: null
   bib: "@inproceedings{lou2026DREX,\n
     \ title={{D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping}},\n
