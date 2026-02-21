@@ -15,6 +15,40 @@
 # Current tags for research areas, see the research areas page for more details:
 # deform_obj_manip, 3D_afford_obj_manip, multimodal, rl_algs, auto_driving, active_perception, self_sup_rob
 
+- abs: We introduce LAM, a system that explores the collaboration of large-language models and 
+	vision-language models to generate articulated objects from text prompts. Our approach differs 
+	from previous methods that either rely on input visual structure (e.g., an image) or assemble 
+	articulated models from pre-built assets. In contrast, we formulate articulated object 
+	generation as a unified code generation task, where geometry and articulations can be 
+	co-designed from scratch. Given an input text, LAM coordinates a team of specialized modules 
+	to generate code to represent the desired articulated object procedurally. The LAM first 
+	reasons about the hierarchical structure of parts (links) with Link Designer, then writes 
+	code, compiles it, and debugs it with Geometry & Articulation Coders and self-corrects with 
+	Geometry & Articulation Checkers. The code serves as a structured and interpretable bridge 
+	between individual links, ensuring correct relationships among them. Representing everything 
+	with code allows the system to determine appropriate joint types and calculate their exact 
+	placements more reliably. Experiments demonstrate the power of leveraging code as a 
+	generative medium within an agentic system, showcasing its effectiveness in automatically 
+	constructing complex articulated objects.
+  authors: "Yipeng Gao, Yunhao Ge, Peilin Cai, Daniel Seita, Laurent Itti" 
+  award: null
+  bib: "@inproceedings{gao2026LAM,\n
+    \ title={{LAM: Language Articulated Object Modelers}},\n
+    \ author={Yipeng Gao and Yunhao Ge and Peilin Cai and Daniel Seita and Laurent Itti},\n
+    \ booktitle={Computer Vision and Pattern Recognition (CVPR)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/LAM_CVPR2026.png
+  links:
+    '[arXiv]': 
+  short_id: 2026_LAM
+  site: 
+  title: "LAM: Language Articulated Object Modelers"
+  venue: Computer Vision and Pattern Recognition (CVPR), 2026.
+  video_embed: null
+  tags:
+    - articulated_objects
+    - llm
+
 - abs: Training robust bimanual manipulation policies via imitation learning
     requires demonstration data with broad coverage over robot poses, contacts,
     and scene contexts. However, collecting diverse and precise real-world
