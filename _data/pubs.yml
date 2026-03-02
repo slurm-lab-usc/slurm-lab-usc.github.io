@@ -195,7 +195,7 @@
     \ Year={2026}\n}"
   img: ../img/papers/VMORALS_ICRA2026.gif 
   links:
-    '[arXiv]':  
+    '[arXiv]': https://arxiv.org/abs/2602.23524
   short_id: 2026_VMORALS
   site: https://v-morals.onrender.com/
   title: "V-MORALS: Visual Morse Graph-Aided Discovery of Regions of Attraction in a Learned Space"
