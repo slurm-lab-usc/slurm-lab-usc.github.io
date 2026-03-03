@@ -373,9 +373,9 @@
     \ Year={2026}\n}"
   img: ../img/papers/DREX_ICLR2026.gif
   links:
-    '[arXiv]':  
+    '[arXiv]': https://arxiv.org/abs/2603.01151
   short_id: 2026_DREX
-  site:  
+  site: https://louhz.github.io/drex.github.io/
   title: "D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping"
   venue: International Conference on Learning Representations (ICLR), 2026. 
   video_embed: null
