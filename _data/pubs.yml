@@ -337,9 +337,9 @@
     \ Year={2026}\n}"
   img: ../img/papers/ReCouPLe_ICLR2026.gif
   links:
-    '[arXiv]':  
+    '[arXiv]': https://arxiv.org/abs/2603.04861
   short_id: 2026_ReCouPLe
-  site:  
+  site: https://github.com/mj-hwang/ReCouPLe
   title: "Causally Robust Reward Learning From Reason-Augmented Preference Feedback"
   venue: International Conference on Learning Representations (ICLR), 2026. 
   video_embed: null
