@@ -296,7 +296,7 @@
   authors: "Nikita Sarawgi, Omey M. Manyar, Fan Wang, Thinh H. Nguyen, Daniel Seita, Satyandra K. Gupta" 
   award: null
   bib: "@inproceedings{sarawgi2026binpacking,\n
-    \ title={{Expanding Picking Actions for Time-Efficient Online 3D Bin Packing}},\n
+    \ title={{Preference-Conditioned Reinforcement Learning for Space-Time Efficient Online 3D Bin Packing}},\n
     \ author={Nikita Sarawgi and Omey M. Manyar and Fan Wang and Thinh H. Nguyen and Daniel Seita and Satyandra K. Gupta},\n
     \ booktitle={International Conference on Robotics and Automation (ICRA)},\n
     \ Year={2026}\n}"
@@ -305,7 +305,7 @@
     '[arXiv]':  
   short_id: 2026_binpacking
   site: https://step-packing.github.io/
-  title: "Expanding Picking Actions for Time-Efficient Online 3D Bin Packing"
+  title: "Preference-Conditioned Reinforcement Learning for Space-Time Efficient Online 3D Bin Packing"
   venue: International Conference on Robotics and Automation (ICRA), 2026.
   video_embed: null
   tags:
