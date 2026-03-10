@@ -302,7 +302,7 @@
     \ Year={2026}\n}"
   img: ../img/papers/BinPacking_ICRA2026.gif 
   links:
-    '[arXiv]':  
+    '[arXiv]': https://arxiv.org/abs/2603.07800
   short_id: 2026_binpacking
   site: https://step-packing.github.io/
   title: "Preference-Conditioned Reinforcement Learning for Space-Time Efficient Online 3D Bin Packing"
