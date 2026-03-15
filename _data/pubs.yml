@@ -279,20 +279,20 @@
     - learn_videos 
     - tactile 
 
-- abs:  Robotic bin packing is widely deployed in warehouse automation, with
-    current systems achieving robust performance through heuristic and
-    learning-based strategies. These systems must balance compact placement with
-    rapid execution, where actions such as selecting alternative items or
-    reorienting them can improve space utilization but introduce additional
-    time. We propose a selection-based formulation that explicitly reasons over
-    this trade-off; at each step, the robot evaluates multiple candidate
-    actions, weighing expected packing benefit against estimated operational
-    time. This enables time-aware strategies that selectively accept increased
-    operational time when it yields meaningful spatial improvements. Our method,
-    STEP (Space-Time Efficient Packing), uses a Transformerbased policy
-    conditioned on dynamic preferences, and allows generalization across
-    candidate set sizes and integration with standard placement modules. It
-    achieves higher packing density without compromising operational time. 
+- abs:  Robotic bin packing is widely deployed in warehouse automation, 
+    with current systems achieving robust performance through heuristic and 
+    learning-based strategies. These systems must balance compact placement 
+    with rapid execution, where selecting alternative items or reorienting 
+    them can improve space utilization but introduce additional time. We 
+    propose a selection-based formulation that explicitly reasons over this 
+    trade-off - at each step, the robot evaluates multiple candidate actions, 
+    weighing expected packing benefit against estimated operational time. This 
+    enables time-aware strategies that selectively accept increased operational 
+    time when it yields meaningful spatial improvements. Our method, 
+    STEP (Space-Time Efficient Packing), uses a preference-conditioned, Transformer-based 
+    reinforcement learning policy, and allows generalization across candidate set 
+    sizes and integration with standard placement modules. It achieves a 44% 
+    reduction in operational time without compromising packing density.
   authors: "Nikita Sarawgi, Omey M. Manyar, Fan Wang, Thinh H. Nguyen, Daniel Seita, Satyandra K. Gupta" 
   award: null
   bib: "@inproceedings{sarawgi2026binpacking,\n
