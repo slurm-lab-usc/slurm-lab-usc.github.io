@@ -27,7 +27,7 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/AyanoHiranaka.jpg
             web_url: https://misoshiruseijin.github.io
           - name: Hao Jiang
-            photo_url: https://slurm-lab-usc.github.io/img/people/HaoJiang.png
+            photo_url: https://slurm-lab-usc.github.io/img/people/HaoJiang.JPG
             web_url: https://haojiang4400.github.io/
           - name: Toan Nguyen
             coadvisor: Yue Wang
