@@ -269,7 +269,7 @@
     \ Year={2026}\n}"
   img: ../img/papers/OCRA_ICRA2026.gif
   links:
-    '[arXiv]':  
+    '[arXiv]': https://arxiv.org/abs/2603.14401
   short_id: 2026_OCRA
   site: https://sressers.github.io/OCRA/
   title: "OCRA: Object-Centric Learning with 3D and Tactile Priors for Human-to-Robot Action Transfer"
