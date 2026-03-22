@@ -4,6 +4,18 @@ title: Lab Photos
 # slim: true
 
 lab_photos:
+  - semester: Spring 2026
+    list:
+      - month: March
+        list:
+          - event: "Lab social: hiking (northwest LA background)"
+            photo_url: /img/lab_photos/2026_03_LA_hike_1.jpg
+          - event: "Lab social: hiking (downtown LA background)"
+            photo_url: /img/lab_photos/2026_03_LA_hike_2.jpg
+      - month: February
+        list:
+          - event: Pizza and healthy snacks before the IROS 2026 deadline
+            photo_url: /img/lab_photos/2026_02_pre_IROS.jpeg
   - semester: Summer 2025
     list:
       - month: July
