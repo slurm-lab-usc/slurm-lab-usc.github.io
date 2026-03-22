@@ -199,7 +199,7 @@ members:
           - name: Sicheng He
             web_url: https://hesic73.github.io/
             period: 2024-2025 (CS)
-            next_step: University of California, Irvine, PhD in Computer Science from 2026
+            next_step: University of California, Irvine, PhD in CS from 2026
           - name: Nikita Sarawgi
             web_url: https://www.linkedin.com/in/nikita-sarawgi/
             period: 2024-2025 (CS)
