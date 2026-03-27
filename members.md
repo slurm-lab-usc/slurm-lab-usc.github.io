@@ -227,7 +227,7 @@ members:
           - name: Harshitha B R
             web_url: https://www.linkedin.com/in/harshitha-b-r-2ab510190/
             period: 2024 (CS)
-            next_step: University of Southern California, PhD in CS from 2025
+            next_step: USC and then Georgia Tech, PhD in CS from 2025
           - name: Anupam Patil
             web_url: https://www.linkedin.com/in/anupam-patil-114b841b0/
             period: 2023-2024 (CS)
