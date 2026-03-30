@@ -187,15 +187,15 @@ members:
           - name: Jonathan Zamora
             web_url: https://jonzamora.dev/
             period: 2024-2025 (CS)
-            next_step:
-          - name: Wenhao Liu
-            web_url: https://Liu-wenhao-1223.github.io/
-            period: 2024-2025 (ECE)
-            next_step:
+            next_step: Startup
           - name: Hanyang Zhou
             web_url: https://hanyang-zhou.github.io/
             period: 2024-2025 (CS)
             next_step: Startup
+          - name: Wenhao Liu
+            web_url: https://Liu-wenhao-1223.github.io/
+            period: 2024-2025 (ECE)
+            next_step:
           - name: Sicheng He
             web_url: https://hesic73.github.io/
             period: 2024-2025 (CS)
