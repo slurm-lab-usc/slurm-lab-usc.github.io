@@ -133,14 +133,6 @@ members:
       - name: Undergraduate Students
         full: False
         list:
-          - name: Hao Jiang
-            web_url: https://haojiang4400.github.io/
-            period: 2023-2025 (CS & AM)
-            next_step: University of Southern California, PhD in CS from 2025
-          - name: Qian (Peter) Wang
-            web_url: https://pwang649.github.io/
-            period: 2023-2024 (CS & AM)
-            next_step: Yale University, PhD in CS from 2024
           - name: Letian Zhang
             web_url: https://www.linkedin.com/in/letian-zhang-630b37235/
             period: 2024-2025 (CS)
@@ -153,33 +145,14 @@ members:
             web_url: https://www.linkedin.com/in/ongjonathand
             period: 2024-2025 (CS)
             next_step: Amazon
-          - name: Emily Zhu
-            web_url: https://www.linkedin.com/in/emily-k-zhu/
-            period: 2023-2024 (CS & BA)
-            next_step:
-          - name: Zitong Huang
-            web_url: https://www.linkedin.com/in/zitong-huang/
-            period: 2024 (CECS)
-            next_step:
-          - name: Anisha Chitta
-            web_url: https://www.linkedin.com/in/anisha-chitta/
-            period: 2024 (CSBA)
-            next_step:
-          - name: Rida Faraz
-            web_url: https://www.linkedin.com/in/rida-faraz/
-            period: 2024-2025 (CECS)
-            next_step:
-          - name: Maria Guerrero Cordoba
-            web_url: https://www.linkedin.com/in/maria-guerrero-cordoba-80a116333
-            period: 2025 (CS)
-            next_step:
-          - name: Samuel Burns
-            web_url: https://www.linkedin.com/in/samuel-burns-75702526b/
-            period: 2025 (AME)
-          - name: David Kim
-            web_url: https://www.linkedin.com/in/david-kim-b50046206/
-            period: 2024-2025 (CS)
-            next_step:
+          - name: Hao Jiang
+            web_url: https://haojiang4400.github.io/
+            period: 2023-2025 (CS & AM)
+            next_step: University of Southern California, PhD in CS from 2025
+          - name: Qian (Peter) Wang
+            web_url: https://pwang649.github.io/
+            period: 2023-2024 (CS & AM)
+            next_step: Yale University, PhD in CS from 2024
 
       - name: Master's Students
         full: False
