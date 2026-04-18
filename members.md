@@ -240,6 +240,10 @@ members:
       - name: Visitors / Volunteers
         full: False
         list:
+          - name: Yuxuan Li
+            web_url: https://yuxuanli224284.github.io/
+            period: 2025-2026
+            next_step: Arizona State University, PhD from 2026
           - name: William Wang
             web_url: https://wwang22.com/
             period: 2025
