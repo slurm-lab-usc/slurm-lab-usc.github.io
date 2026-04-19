@@ -157,6 +157,10 @@ members:
       - name: Master's Students
         full: False
         list:
+          - name: Hanwen Fan
+            web_url: https://www.linkedin.com/in/hanwenfan/ 
+            period: 2025-2026 (CS)
+            next: Iowa State University, PhD from 2026
           - name: Jonathan Zamora
             web_url: https://jonzamora.dev/
             period: 2024-2025 (CS)
@@ -216,7 +220,7 @@ members:
           - name: Yuxuan Li
             web_url: https://yuxuanli224284.github.io/
             period: 2025-2026
-            next_step: Arizona State University, PhD from 2026
+            next_step: Arizona State University, PhD in ME from 2026
           - name: William Wang
             web_url: https://wwang22.com/
             period: 2025
