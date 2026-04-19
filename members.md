@@ -160,7 +160,7 @@ members:
           - name: Hanwen Fan
             web_url: https://www.linkedin.com/in/hanwenfan/ 
             period: 2025-2026 (CS)
-            next: Iowa State University, PhD from 2026
+            next_step: Iowa State University, PhD from 2026
           - name: Jonathan Zamora
             web_url: https://jonzamora.dev/
             period: 2024-2025 (CS)
