@@ -6,6 +6,13 @@ title: Lab Photos
 lab_photos:
   - semester: Spring 2026
     list:
+      - month: April 
+        list:
+          - event: "Minjune Hwang presenting at ICLR 2026"
+            photo_url: /img/lab_photos/ICLR_2026_Minjune.png 
+          - event: "Daniel Seita presenting at ICLR 2026"
+            photo_url: /img/lab_photos/ICLR_2026_Daniel.png 
+
       - month: March
         list:
           - event: "Lab social: hiking (northwest LA background)"
