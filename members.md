@@ -62,9 +62,6 @@ members:
           - name: Anthony Zhang
             photo_url: https://slurm-lab-usc.github.io/img/people/AnthonyZhang.png
             web_url: https://www.linkedin.com/in/anthonyzhangseattle/
-          - name: Faiz Aladin
-            photo_url: https://slurm-lab-usc.github.io/img/people/FaizAladin.png
-            web_url: https://faizaladin.github.io
           - name: Autumn Kwon
             photo_url: https://slurm-lab-usc.github.io/img/people/AutumnKwon.jpg
             web_url: https://kwongaeu.github.io/
@@ -97,9 +94,6 @@ members:
           - name: Bruce Zhang
             photo_url: https://slurm-lab-usc.github.io/img/people/BruceZhang_photo.jpeg
             web_url: https://www.linkedin.com/in/changyang-zhang-351221329/
-          - name: Sid Srikanth
-            photo_url: https://slurm-lab-usc.github.io/img/people/SidSrikanth.jpeg
-            web_url: http://sidsrikanth.com
 
   # - name: Interns and Visitors
   #   list:
@@ -133,6 +127,10 @@ members:
       - name: Undergraduate Students
         full: False
         list:
+          - name: Sid Srikanth
+            period: 2025-2026 (CS)
+            web_url: http://sidsrikanth.com
+            next_step: Columbia University, PhD in CS from 2026
           - name: Letian Zhang
             web_url: https://www.linkedin.com/in/letian-zhang-630b37235/
             period: 2024-2025 (CS)
@@ -157,6 +155,10 @@ members:
       - name: Master's Students
         full: False
         list:
+          - name: Faiz Aladin
+            web_url: https://faizaladin.github.io
+            period: 2025-2026 (ECE)
+            next_step: VinMotion
           - name: Hanwen Fan
             web_url: https://www.linkedin.com/in/hanwenfan/ 
             period: 2025-2026 (CS)
@@ -214,7 +216,7 @@ members:
             period: 2023-2024 (ECE)
             next_step: University of Colorado Boulder, PhD in CS from 2025
 
-      - name: Visitors / Volunteers
+      - name: Visitors / Volunteers / Collaborators
         full: False
         list:
           - name: Yuxuan Li
