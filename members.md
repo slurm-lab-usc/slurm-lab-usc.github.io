@@ -50,9 +50,6 @@ members:
           - name: Changhui Hou
             photo_url: https://slurm-lab-usc.github.io/img/people/changhuiUSC.jpg
             web_url: https://github.com/changhuiUSC
-          - name: Rajas Chitale
-            photo_url: https://slurm-lab-usc.github.io/img/people/RajasChitale.JPG
-            web_url: https://www.linkedin.com/in/rajas-chitale-rcv/
           - name: Zinan Li
             photo_url: https://slurm-lab-usc.github.io/img/people/Zinan.jpg
             web_url: https://www.linkedin.com/in/zinanli02/
@@ -155,6 +152,10 @@ members:
       - name: Master's Students
         full: False
         list:
+          - name: Rajas Chitale
+            web_url: https://www.linkedin.com/in/rajas-chitale-rcv/ 
+            period: 2024-2026 (CS)
+            next_step: Spectral AI
           - name: Faiz Aladin
             web_url: https://faizaladin.github.io
             period: 2025-2026 (ECE)
