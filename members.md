@@ -220,6 +220,10 @@ members:
       - name: Visitors / Volunteers / Collaborators
         full: False
         list:
+          - name: Kuanning Wang
+            web_url: https://sressers.github.io/knw/
+            period: 2024-2026
+            next_step: Fudan University, MS in CS
           - name: Yuxuan Li
             web_url: https://yuxuanli224284.github.io/
             period: 2025-2026
