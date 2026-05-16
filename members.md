@@ -188,7 +188,7 @@ members:
           - name: Vedant Raval
             web_url: https://vedant2311.github.io
             period: 2023-2025 (CS)
-            next_step: AutoX
+            next_step: Tensor Auto
           - name: Karan Owalekar
             web_url: https://www.linkedin.com/in/karan-owalekar/
             period: 2023-2025 (CS)
