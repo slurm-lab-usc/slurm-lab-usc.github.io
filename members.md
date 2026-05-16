@@ -85,9 +85,6 @@ members:
           - name: Kevin Kim
             photo_url: https://slurm-lab-usc.github.io/img/people/KevinKim.jpg
             web_url:
-          - name: Amrutha Challa
-            photo_url: https://slurm-lab-usc.github.io/img/USC_Slogan.png
-            web_url:
           - name: Bruce Zhang
             photo_url: https://slurm-lab-usc.github.io/img/people/BruceZhang_photo.jpeg
             web_url: https://www.linkedin.com/in/changyang-zhang-351221329/
@@ -128,6 +125,10 @@ members:
             period: 2025-2026 (CS)
             web_url: http://sidsrikanth.com
             next_step: Columbia University, PhD in CS from 2026
+          - name: Amrutha Challa
+            period: 2025-2026 (CS)
+            web_url: https://www.linkedin.com/in/amrutha-challa-b6a208223/
+            next_step: 
           - name: Letian Zhang
             web_url: https://www.linkedin.com/in/letian-zhang-630b37235/
             period: 2024-2025 (CS)
