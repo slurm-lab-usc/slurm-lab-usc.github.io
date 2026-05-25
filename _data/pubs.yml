@@ -38,7 +38,7 @@
     \ author={Ayano Hiranaka and Ya-Chuan Hsu and Stefanos Nikolaidis and Erdem Bıyık and Daniel Seita},\n
     \ booktitle={International Conference on Machine Learning (ICML)},\n
     \ Year={2026}\n}"
-  img: ../img/papers/placeholder_general.png
+  img: ../img/papers/sensei-thumbnail-wide-ICML2026.gif
   links:
     '[arXiv]':  
   short_id: 2026_SENSEI
