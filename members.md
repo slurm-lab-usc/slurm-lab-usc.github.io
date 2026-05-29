@@ -71,7 +71,10 @@ members:
           - name: Zeqing Wang
             photo_url: https://slurm-lab-usc.github.io/img/people/ZeqingWang.jpg
             web_url: https://www.linkedin.com/in/zeqing-wang-477405374
-
+          - name: Chengsheng Ge
+            photo_url: https://slurm-lab-usc.github.io/img/people/chengshengge.png
+            web_url: https://www.linkedin.com/in/chengsheng-ge-202754227/
+            
   - name: Undergraduate Students
     list:
       - full: true
