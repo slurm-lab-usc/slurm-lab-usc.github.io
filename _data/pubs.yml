@@ -42,7 +42,7 @@
   links:
     '[arXiv]':  
   short_id: 2026_SENSEI
-  site: 
+  site: https://misoshiruseijin.github.io/SENSEI/
   title: "Fix the Mind, Not the Move: Interpretable AI Assistance via Knowledge-Gap Localization"
   venue: International Conference on Machine Learning (ICML), 2026.
   video_embed: null
