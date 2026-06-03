@@ -74,6 +74,9 @@ members:
           - name: Chengsheng Ge
             photo_url: https://slurm-lab-usc.github.io/img/people/chengshengge.png
             web_url: https://www.linkedin.com/in/chengsheng-ge-202754227/
+          - name: Chenhao Liang
+            photo_url: https://slurm-lab-usc.github.io/img/people/Chenhao.jpg
+            web_url: https://www.linkedin.com/in/chenhao-liang/
             
   - name: Undergraduate Students
     list:
