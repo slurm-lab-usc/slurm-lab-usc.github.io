@@ -40,7 +40,7 @@
     \ Year={2026}\n}"
   img: ../img/papers/sensei-thumbnail-wide-ICML2026.gif
   links:
-    '[arXiv]':  
+    '[arXiv]': https://arxiv.org/abs/2606.05602
   short_id: 2026_SENSEI
   site: https://misoshiruseijin.github.io/SENSEI/
   title: "Fix the Mind, Not the Move: Interpretable AI Assistance via Knowledge-Gap Localization"
