@@ -79,7 +79,7 @@
   links:
     '[arXiv]': 
   short_id: 2026_LAM
-  site: 
+  site: https://gaoypeng.github.io/LAM/
   title: "LAM: Language Articulated Object Modelers"
   venue: Computer Vision and Pattern Recognition (CVPR), 2026.
   video_embed: null
