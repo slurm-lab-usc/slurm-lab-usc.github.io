@@ -77,7 +77,7 @@ members:
           - name: Chenhao Liang
             photo_url: https://slurm-lab-usc.github.io/img/people/Chenhao.jpg
             web_url: https://www.linkedin.com/in/chenhao-liang/
-         - name: Jaitra Venkiteela
+          - name: Jaitra Venkiteela
             photo_url: https://slurm-lab-usc.github.io/img/people/Venkiteela.jpeg
             web_url: https://www.linkedin.com/in/jaitra-venkiteela/ 
             
