@@ -94,6 +94,47 @@
     - dexterous_hands
     - imitation 
 
+- abs: Dexterous robot hands offer rich opportunities for multifunctional
+    manipulation, where a robot must execute multiple skills in sequence while
+    maintaining control over previously grasped objects. Most prior work in
+    dexterous manipulation focuses on single-object, single-skill tasks. In
+    contrast, our insight is that many sequential tasks require resource-aware
+    grasps that conserve fingers for future actions. In this paper, we study
+    sequential grasp-conditioned dexterous manipulation, where a robot first
+    grasps an object and then performs a second, distinct manipulation subtask
+    while preserving the initial grasp. We introduce HANDFUL, a learning
+    framework that models finger usage as a limited resource and encourages
+    exploration of resource-aware grasps through finger-level contact rewards.
+    These grasps are subsequently selected for downstream tasks via
+    curriculum-based policy learning.  We further propose HANDFUL-Bench, a
+    simulation benchmark that introduces sequential dexterous manipulation tasks
+    across multiple secondsubtask objectives, including pushing, pulling, and
+    pressing, under a shared grasp-conditioned setup. Extensive simulation
+    results demonstrate that prioritizing resource-aware grasps improves
+    second-subtask success and robustness compared to a baseline that greedily
+    optimizes the initial grasp before attempting the second subtask. We
+    additionally validate our approach on a real dexterous LEAP hand. Together,
+    this work establishes resource-aware grasp planning as a key principle for
+    multifunctional dexterous manipulation. 
+  authors: "Ethan Foong*, Yunshuang Li*, Hao Jiang, Gaurav Sukhatme, Daniel Seita" 
+  award: null
+  bib: "@inproceedings{jiang2026dexmulti,\n
+    \ title={{HANDFUL: Sequential Grasp-Conditioned Dexterous Manipulation with Resource Awareness}},\n
+    \ author={Ethan Foong and Yunshuang Li and Hao Jiang and Gaurav S. Sukhatme and Daniel Seita},\n
+    \ booktitle={International Conference on Intelligent Robots and Systems (IROS)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/placeholder_general.png
+  links:
+    '[arXiv]': https://arxiv.org/abs/2604.25126 
+  short_id: 2026_HANDFUL
+  site: https://handful-dex.github.io/ 
+  title: "HANDFUL: Sequential Grasp-Conditioned Dexterous Manipulation with Resource Awareness"
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
+  video_embed: null
+  tags:
+    - dexterous_hands
+    - reinforcement_learning 
+
 - abs: AI assistants in human-AI collaboration often correct suboptimal human
     actions through behavioral feedback (e.g., alerts or steering-wheel nudges
     in assistive driving). Such interventions can mitigate immediate errors, but
