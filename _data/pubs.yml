@@ -49,11 +49,50 @@
   short_id: 2026_CRAFT
   site: https://craftaug.github.io/
   title: "CRAFT: Video Diffusion for Bimanual Robot Data Generation"
-  venue: International Conference on Intelligent Robots and Systems (IROS), 2026.
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
   video_embed: null
   tags:
     - bimanual 
     - data_augmentation 
+
+- abs: Dexterous hands enable concurrent prehensile and nonprehensile
+    manipulation, such as holding one object while interacting with another, a
+    capability essential for everyday tasks yet underexplored in robotics.
+    Learning such long-horizon, contact-rich multi-stage behaviors is
+    challenging because demonstrations are expensive to collect and end-to-end
+    policies require substantial data to generalize across varied object
+    geometries and placements.  We present DexMulti, a sample-efficient approach
+    for real-world dexterous multi-task manipulation that decomposes
+    demonstrations into object-centric skills with well-defined temporal
+    boundaries. Rather than learning monolithic policies, our method retrieves
+    demonstrated skills based on current object geometry, aligns them to the
+    observed object state using an uncertainty-aware estimator that tracks
+    centroid and yaw, and executes them via a retrieve-align-execute paradigm.
+    We evaluate on three multi-stage tasks requiring concurrent manipulation
+    (Grasp + Pull, Grasp + Open, and Grasp + Grasp) across two dexterous hands
+    (Allegro and LEAP) in over 1,000 real-world trials. Our approach achieves an
+    average success rate of 66% on training objects with only 3-4 demonstrations
+    per object, outperforming diffusion policy baselines by 2-3x while requiring
+    far fewer demonstrations. Results demonstrate robust generalization to
+    held-out objects and spatial variations up to +/-25 cm.
+  authors: "Hao Jiang, Yue Wu, Yue Wang, Gaurav Sukhatme, Daniel Seita" 
+  award: null
+  bib: "@inproceedings{jiang2026dexmulti,\n
+    \ title={{Concurrent Prehensile and Nonprehensile Manipulation: A Practical Approach to Multi-Stage Dexterous Tasks}},\n
+    \ author={Hao Jiang and Yue Wu and Yue Wang and Gaurav S. Sukhatme and Daniel Seita},\n
+    \ booktitle={International Conference on Intelligent Robots and Systems (IROS)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/DexMulti_IROS2026.gif
+  links:
+    '[arXiv]': https://arxiv.org/abs/2603.11655 
+  short_id: 2026_DexMulti
+  site: https://dexmulti.github.io/ 
+  title: "Concurrent Prehensile and Nonprehensile Manipulation: A Practical Approach to Multi-Stage Dexterous Tasks"
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
+  video_embed: null
+  tags:
+    - dexterous_hands
+    - imitation 
 
 - abs: AI assistants in human-AI collaboration often correct suboptimal human
     actions through behavioral feedback (e.g., alerts or steering-wheel nudges
@@ -159,7 +198,7 @@
   short_id: 2026_ROPA
   site: https://ropaaug.github.io/ 
   title: "ROPA: Synthetic Robot Pose Generation for RGB-D Bimanual Data Augmentation"
-  venue: International Conference on Robotics and Automation (ICRA), 2026.
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2026.
   video_embed: null
   tags:
     - bimanual 
@@ -201,7 +240,7 @@
   short_id: 2026_GD2P
   site: https://geodex2p.github.io/ 
   title: "Learning Geometry-Aware Nonprehensile Pushing and Pulling with Dexterous Hands"
-  venue: International Conference on Robotics and Automation (ICRA), 2026.
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2026.
   video_embed: null
   tags:
     - dexterous
@@ -238,7 +277,7 @@
   short_id: 2026_IMPACT
   site: https://impact-planning.github.io/
   title: "IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models"
-  venue: International Conference on Robotics and Automation (ICRA), 2026.
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2026.
   video_embed: null
   tags:
     - vlm 
@@ -274,7 +313,7 @@
   short_id: 2026_VMORALS
   site: https://v-morals.onrender.com/
   title: "V-MORALS: Visual Morse Graph-Aided Discovery of Regions of Attraction in a Learned Space"
-  venue: International Conference on Robotics and Automation (ICRA), 2026.
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2026.
   video_embed: null
   tags:
     - reachability
@@ -312,7 +351,7 @@
   short_id: 2026_SCOOPD
   site: https://scoopdiff.github.io/ 
   title: "SCOOP'D: State-based Sim2Real Generative Policy for Generalizable Mixed-Liquid-Solid Scooping"
-  venue: International Conference on Robotics and Automation (ICRA), 2026.
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2026.
   video_embed: null
   tags:
     - scooping 
@@ -348,7 +387,7 @@
   short_id: 2026_OCRA
   site: https://sressers.github.io/OCRA/
   title: "OCRA: Object-Centric Learning with 3D and Tactile Priors for Human-to-Robot Action Transfer"
-  venue: International Conference on Robotics and Automation (ICRA), 2026.
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2026.
   video_embed: null
   tags:
     - learn_videos 
@@ -381,7 +420,7 @@
   short_id: 2026_binpacking
   site: https://step-packing.github.io/
   title: "Preference-Conditioned Reinforcement Learning for Space-Time Efficient Online 3D Bin Packing"
-  venue: International Conference on Robotics and Automation (ICRA), 2026.
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2026.
   video_embed: null
   tags:
     - bin_picking 
@@ -634,6 +673,7 @@
   site: https://hesic73.github.io/SeqMultiGrasp/
   title: "Sequential Multi-Object Grasping with One Dexterous Hand"
   venue: International Conference on Intelligent Robots and Systems (IROS), 2025
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
   video_embed: null
   tags:
     - dexterous_hands
@@ -953,7 +993,7 @@
   short_id: 2023slipbagging
   site: https://sites.google.com/view/slip-bagging/
   title: "Bagging by Learning to Singulate Layers Using Interactive Perception"
-  venue: International Conference on Intelligent Robots and Systems (IROS), 2023
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023
   video_embed: null
   tags:
     - deformable
@@ -989,7 +1029,7 @@
   short_id: 2023autobag
   site: https://sites.google.com/view/autobag
   title: "AutoBag: Learning to Open Plastic Bags and Insert Objects"
-  venue: International Conference on Robotics and Automation (ICRA), 2023
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2023
   video_embed: null
   tags:
     - deformable
@@ -1064,7 +1104,7 @@
   short_id: 2022reskinfabric
   site: https://sites.google.com/view/reskin-cloth/home
   title: Learning to Singulate Layers of Cloth Using Tactile Feedback
-  venue: International Conference on Intelligent Robots and Systems (IROS), 2022
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022
   video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/FTGbx1XDjJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   tags:
     - deformable
@@ -1175,7 +1215,7 @@
   short_id: 2022PRC
   site: https://sites.google.com/view/dynamic-cable
   title: Planar Robot Casting with Real2Sim2Real Self-Supervised Learning
-  venue: International Conference on Robotics and Automation (ICRA), 2022
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2022
   video_embed: null
   tags:
     - deformable
@@ -1248,7 +1288,7 @@
   short_id: 2022_LazyDAgger
   site: https://sites.google.com/view/lazydagger/home
   title: "LazyDAgger: Reducing Context Switching in Interactive Imitation Learning"
-  venue: International Conference on Automation Science and Engineering (CASE), 2021
+  venue: IEEE International Conference on Automation Science and Engineering (CASE), 2021
   video_embed: null
   tags:
     - deformable
@@ -1287,7 +1327,7 @@
   short_id: 2021GCTN
   site: https://berkeleyautomation.github.io/bags/
   title: Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks
-  venue: International Conference on Robotics and Automation (ICRA), 2021
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2021
   video_embed: null
   tags:
     - deformable
@@ -1323,7 +1363,7 @@
   short_id: 2021_robots_lost_arc
   site: https://sites.google.com/berkeley.edu/dynrope/home
   title: "Robots of the Lost Arc: Self-Supervised Learning to Dynamically Manipulate Fixed-Endpoint Cables"
-  venue: International Conference on Robotics and Automation (ICRA), 2021
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2021
   video_embed: null
   tags: null
     - deformable
@@ -1357,7 +1397,7 @@
   short_id: 2021_cloth_corresp
   site: https://sites.google.com/view/fabric-descriptors/home
   title: "Learning Dense Visual Correspondences in Simulation to Smooth and Fold Real Fabrics"
-  venue: International Conference on Robotics and Automation (ICRA), 2021
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2021
   video_embed: null
   tags: null
     - deformable
@@ -1397,7 +1437,7 @@
   short_id: 2021IVS
   site: https://sites.google.com/berkeley.edu/ivs/home
   title: "Intermittent Visual Servoing: Efficiently Learning Policies Robust to Tool Changes for High-precision Surgical Manipulation"
-  venue: International Conference on Robotics and Automation (ICRA), 2021
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2021
   video_embed: null
   tags: null
     - deformable
@@ -1435,7 +1475,7 @@
   short_id: 2020_gym_cloth
   site: https://sites.google.com/view/fabric-smoothing
   title: Deep Imitation Learning of Sequential Fabric Smoothing From an Algorithmic Supervisor
-  venue: International Conference on Intelligent Robots and Systems (IROS), 2020
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020
   video_embed: null
   tags: null
 
@@ -1470,7 +1510,7 @@
   short_id: 2020_Minho_RAL
   site: https://sites.google.com/view/peg-transfer
   title: Efficiently Calibrating Cable-Driven Surgical Robots with RGBD Fiducial Sensing and Recurrent Neural Networks
-  venue: Robotics and Automation Letters (RA-L), 2020
+  venue: IEEE Robotics and Automation Letters (RA-L), 2020
   video_embed: null
   tags: null
 
@@ -1605,7 +1645,7 @@
   short_id: 2019rararl
   site: https://sites.google.com/view/rararl
   title: Risk Averse Robust Adversarial Reinforcement Learning
-  venue: International Conference on Robotics and Automation (ICRA), 2019
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2019
   video_embed: null
   tags: null
 
@@ -1645,7 +1685,7 @@
   short_id: 2018debridement
   site: https://sites.google.com/view/calib-icra/
   title: Fast and Reliable Autonomous Surgical Debridement with Cable-Driven Robots Using a Two-Phase Calibration Procedure
-  venue: International Conference on Robotics and Automation (ICRA), 2018
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2018
   video_embed: null
   tags: null
 
