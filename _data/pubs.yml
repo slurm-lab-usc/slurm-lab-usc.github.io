@@ -161,7 +161,7 @@
     \ author={Toan Nguyen and Weiduo Yuan and Songlin Wei and Hui Li and Daniel Seita and Yue Wang},\n
     \ booktitle={International Conference on Intelligent Robots and Systems (IROS)},\n
     \ Year={2026}\n}"
-  img: ../img/papers/placeholder_general.png
+  img: ../img/papers/ICLR_IROS2026.gif 
   links:
     '[arXiv]': https://arxiv.org/abs/2603.07530
   short_id: 2026_ICLR_ICIL
@@ -204,7 +204,7 @@
     \ Year={2026}\n}"
   img: ../img/papers/placeholder_general.png
   links:
-    '[arXiv]':
+    '[arXiv]': https://arxiv.org/abs/2603.12510
   short_id: 2026_QDIG
   site: https://prefail.github.io/prefail/
   title: "Red-Teaming Vision-Language-Action Models via Quality Diversity Prompt Generation for Robust Robot Policies"
