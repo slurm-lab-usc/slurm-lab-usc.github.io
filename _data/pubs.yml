@@ -206,7 +206,7 @@
   links:
     '[arXiv]': https://arxiv.org/abs/2603.12510
   short_id: 2026_QDIG
-  site: https://prefail.github.io/prefail/
+  site: https://qdigvla.github.io/
   title: "Red-Teaming Vision-Language-Action Models via Quality Diversity Prompt Generation for Robust Robot Policies"
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
   video_embed: null
