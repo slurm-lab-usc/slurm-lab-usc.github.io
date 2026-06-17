@@ -153,7 +153,7 @@
     approach on both simulation and real-world datasets. Our experimental
     results demonstrate that PREFAIL substantially improves both the accuracy
     and timeliness of responses to failure precursors. 
-  authors: "Zeyu Shangguan and Rajas Chitale and Rutvik Patel and Satyandra K. Gupta and Daniel Seita"
+  authors: "Zeyu Shangguan, Rajas Chitale, Rutvik Patel, Satyandra K. Gupta, Daniel Seita"
   award: null
   bib: "@inproceedings{shangguan2026prefail,\n
     \ title={{PREFAIL: Identifying Precursors to Failures in Robotic Lift-and-Place Tasks to Improve Task Execution Performance}},\n
