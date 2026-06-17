@@ -135,6 +135,86 @@
     - dexterous_hands
     - reinforcement_learning 
 
+- abs: In-context imitation learning enables robots to adapt to new tasks from a
+    small number of demonstrations without additional training. However,
+    existing approaches typically condition only on state-action trajectories
+    and lack explicit representations of task intent. This limitation hinders
+    performance in complex and ambiguous task settings where the same actions
+    may be consistent with different objectives. To address this, we present
+    In-Context Imitation Learning with Visual Reasoning (ICLR), a novel
+    framework that augments demonstration prompts with structured visual
+    reasoning traces representing anticipated future robot trajectories in image
+    space. ICLR also jointly learns to generate reasoning traces and low-level
+    actions within a unified autoregressive transformer, enabling the model to
+    mimic not only action prediction but also the reasoning process that leads
+    to those actions. We extensively evaluate ICLR in both simulation and
+    real-world manipulation tasks and demonstrate consistent improvements in
+    success rates and generalization to unseen tasks and novel object
+    configurations compared to other in-context imitation learning methods.
+    These results suggest that incorporating embodied visual reasoning
+    represents a promising direction for enhancing the robustness and
+    generalization of robotic in-context learning systems.
+  authors: "Toan Nguyen, Weiduo Yuan, Songlin Wei, Hui Li, Daniel Seita\u2020, Yue Wang\u2020"
+  award: null
+  bib: "@inproceedings{ngyuen2026_icil_iclr,\n
+    \ title={{ICLR: In-Context Imitation Learning with Visual Reasoning}},\n
+    \ author={Toan Nguyen and Weiduo Yuan and Songlin Wei and Hui Li and Daniel Seita and Yue Wang},\n
+    \ booktitle={International Conference on Intelligent Robots and Systems (IROS)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/placeholder_general.png
+  links:
+    '[arXiv]': https://arxiv.org/abs/2603.07530
+  short_id: 2026_ICLR_ICIL
+  site: https://toannguyen1904.github.io/ICLR/
+  title: "ICLR: In-Context Imitation Learning with Visual Reasoning"
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
+  video_embed: null
+  tags:
+    - imitation_learning
+    - in_context_learning 
+
+- abs: Vision-Language-Action (VLA) models have significant potential to enable
+    general-purpose robotic systems for a range of vision-language tasks.
+    However, the performance of VLA-based robots is highly sensitive to the
+    precise wording of language instructions, and it remains difficult to
+    predict when such robots will fail. We propose Quality Diversity (QD)
+    optimization as a natural framework for red-teaming embodied models, and
+    present Q-DIG (Quality Diversity for Diverse Instruction Generation), which
+    performs red-teaming by scalably identifying diverse, natural language task
+    descriptions that induce failures while remaining task-relevant. Q-DIG
+    integrates QD techniques with Vision-Language Models (VLMs) to generate a
+    broad spectrum of adversarial instructions that expose meaningful
+    vulnerabilities in VLA behavior. Our results across multiple simulation
+    benchmarks show that Q-DIG finds more diverse and meaningful failure modes
+    compared to baseline methods, and that fine-tuning VLAs on the generated
+    instructions improves task success rates. Furthermore, results from a user
+    study highlight that Q-DIG generates prompts judged to be more natural and
+    human-like than those from baselines. Finally, real-world evaluations of
+    Q-DIG prompts show results consistent with simulation, and fine-tuning VLAs
+    on the generated prompts further success rates on unseen instructions.
+    Together, these findings suggest that Q-DIG is a promising approach for
+    identifying vulnerabilities and improving the robustness of VLA-based
+    robots. Our anonymous project website is at this http URL.
+  authors: "Siddharth Srikanth, Freddie Liang, Ya-Chuan Hsu, Varun Bhatt, Shihan Zhao, Henry Chen, Bryon Tjanaka, Minjune Hwang, Akanksha Saran, Daniel Seita\u2020, Aaquib Tabrez\u2020, Stefanos Nikolaidis\u2020"
+  award: null
+  bib: "@inproceedings{srikanth2026qdig,\n
+    \ title={{Red-Teaming Vision-Language-Action Models via Quality Diversity Prompt Generation for Robust Robot Policies}},\n
+    \ author={Siddharth Srikanth and Freddie Liang and Ya{-}Chuan Hsu and Varun Bhatt and Shihan Zhao and Henry Chen and Bryon Tjanaka and Minjune Hwang and Akanksha Saran and Daniel Seita and Aaquib Tabrez and Stefanos Nikolaidis},\n
+    \ booktitle={International Conference on Intelligent Robots and Systems (IROS)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/placeholder_general.png
+  links:
+    '[arXiv]':
+  short_id: 2026_QDIG
+  site: https://prefail.github.io/prefail/
+  title: "Red-Teaming Vision-Language-Action Models via Quality Diversity Prompt Generation for Robust Robot Policies"
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
+  video_embed: null
+  tags:
+    - quality_diversity 
+    - red_teaming 
+    - vla 
+
 - abs:  Non-prehensile manipulation enables flexible material handling with part
     carriers, but friction-based support makes high-speed motions failure-prone,
     while slower operation increases cycle time. Proactive failure prediction is
