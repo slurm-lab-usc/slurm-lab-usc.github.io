@@ -135,6 +135,42 @@
     - dexterous_hands
     - reinforcement_learning 
 
+- abs:  Non-prehensile manipulation enables flexible material handling with part
+    carriers, but friction-based support makes high-speed motions failure-prone,
+    while slower operation increases cycle time. Proactive failure prediction is
+    therefore essential for efficient and reliable performance, yet existing
+    approaches remain limited by key constraints, including sensitivity to
+    dynamic actions and high dependence on known policy structures. Furthermore,
+    existing methods and datasets lack a precise characterization of the latest
+    intervention time, leaving it unclear whether a detected failure can still
+    be prevented through timely intervention. In this paper, we investigate
+    liftand-place tasks for non-prehensile material handling manipulation and
+    propose a more effective approach to predicting precursors to failures
+    (PREFAIL) by analyzing the relative motion of target objects with respect to
+    the carrier. We further introduce a dataset that precisely identifies the
+    latest intervention time for risky manipulations, enabling rigorous
+    evaluation of whether a failure prediction is actionable. We validate our
+    approach on both simulation and real-world datasets. Our experimental
+    results demonstrate that PREFAIL substantially improves both the accuracy
+    and timeliness of responses to failure precursors. 
+  authors: "Zeyu Shangguan and Rajas Chitale and Rutvik Patel and Satyandra K. Gupta and Daniel Seita"
+  award: null
+  bib: "@inproceedings{shangguan2026prefail,\n
+    \ title={{PREFAIL: Identifying Precursors to Failures in Robotic Lift-and-Place Tasks to Improve Task Execution Performance}},\n
+    \ author={Zeyu Shangguan and Rajas Chitale and Rutvik Patel and Satyandra K. Gupta and Daniel Seita},\n
+    \ booktitle={International Conference on Intelligent Robots and Systems (IROS)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/placeholder_general.png
+  links:
+    '[arXiv]':
+  short_id: 2026_PREFAIL
+  site: https://prefail.github.io/prefail/
+  title: "PREFAIL: Identifying Precursors to Failures in Robotic Lift-and-Place Tasks to Improve Task Execution Performance"
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
+  video_embed: null
+  tags:
+    - failure_detection 
+
 - abs: AI assistants in human-AI collaboration often correct suboptimal human
     actions through behavioral feedback (e.g., alerts or steering-wheel nudges
     in assistive driving). Such interventions can mitigate immediate errors, but
