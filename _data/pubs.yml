@@ -123,7 +123,7 @@
     \ author={Ethan Foong and Yunshuang Li and Hao Jiang and Gaurav S. Sukhatme and Daniel Seita},\n
     \ booktitle={International Conference on Intelligent Robots and Systems (IROS)},\n
     \ Year={2026}\n}"
-  img: ../img/papers/placeholder_general.png
+  img: ../img/papers/HANDFUL_IROS2026.gif 
   links:
     '[arXiv]': https://arxiv.org/abs/2604.25126 
   short_id: 2026_HANDFUL
@@ -202,7 +202,7 @@
     \ author={Siddharth Srikanth and Freddie Liang and Ya{-}Chuan Hsu and Varun Bhatt and Shihan Zhao and Henry Chen and Bryon Tjanaka and Minjune Hwang and Akanksha Saran and Daniel Seita and Aaquib Tabrez and Stefanos Nikolaidis},\n
     \ booktitle={International Conference on Intelligent Robots and Systems (IROS)},\n
     \ Year={2026}\n}"
-  img: ../img/papers/placeholder_general.png
+  img: ../img/papers/QDIG_IROS2026.gif 
   links:
     '[arXiv]': https://arxiv.org/abs/2603.12510
   short_id: 2026_QDIG
@@ -215,7 +215,7 @@
     - red_teaming 
     - vla 
 
-- abs:  Non-prehensile manipulation enables flexible material handling with part
+- abs: Non-prehensile manipulation enables flexible material handling with part
     carriers, but friction-based support makes high-speed motions failure-prone,
     while slower operation increases cycle time. Proactive failure prediction is
     therefore essential for efficient and reliable performance, yet existing
