@@ -21,11 +21,13 @@
                 <pre>{{pub.bib}}</pre>
             </blockquote>
         </div>
+        {% comment %}
         <div id="abs{{pub.short_id}}" style="display:none">
             <blockquote>
                 {{pub.abs}}
             </blockquote>
         </div>
+        {% endcomment %}
         <div class="pubjournal">
             {% if pub.award %}
                 {{pub.venue}} - {{pub.award}}
@@ -41,9 +43,11 @@
             {% if pub.bib != null %}
                 <a href="javascript:copy(div{{pub.short_id}}, bib{{pub.short_id}})">[Bibtex]</a>
             {% endif %}
+            {% comment %}
             {% if pub.abs != null %}
                 <a href="javascript:copy(div{{pub.short_id}}, abs{{pub.short_id}})">[Abstract]</a>
             {% endif %}
+            {% endcomment %}
             {% for link in pub.links %}
                 <a href="{{link[1]}}">{{link[0]}}</a>
             {% endfor %}

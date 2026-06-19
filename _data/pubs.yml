@@ -240,7 +240,7 @@
     \ author={Zeyu Shangguan and Rajas Chitale and Rutvik Patel and Satyandra K. Gupta and Daniel Seita},\n
     \ booktitle={International Conference on Intelligent Robots and Systems (IROS)},\n
     \ Year={2026}\n}"
-  img: ../img/papers/placeholder_general.png
+  img: ../img/papers/PREFAIL.gif
   links:
     '[arXiv]':
   short_id: 2026_PREFAIL
@@ -973,7 +973,7 @@
     \ author = {Zeyu Shangguan and Daniel Seita and Mohammad Rostami},\n
     \ booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},\n
     \ Year = {2025}\n}"
-  img: ../img/papers/placeholder_wacv.png
+  img: ../img/papers/WACV.gif
   links:
     '[arXiv]': https://arxiv.org/abs/2403.16188
   short_id: 2025_CDMMFSOD
