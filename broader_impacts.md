@@ -13,21 +13,16 @@ broader_impacts:
           - event: Lab tours (UR5 demo)
             photo_url: /img/broader_impacts/IMG_8131_Zeyu.jpeg
   
+  - semester: Summer 2024
+    list:
+      - month: July
+        list:
+          - event: USC Robotics REU Tour at JPL
+            photo_url: /img/broader_impacts/2024_July_JPL_01.png
+          - event: USC Robotics REU Tour at JPL
+            photo_url: /img/broader_impacts/2024_July_JPL_02.png
+
 ---
-
-<!-- ## Summer 2024
-### August
-
-<div style="display: flex; justify-content: space-between; align-items: center;">  
-    <div style="flex: 1;">  
-        <img src="/img/broader_impacts/Lab_social.jpeg" alt="Detroit Pizza Depot" style="width: 90%; display: block;">  
-        <p style="text-align: center; margin-top: 10px;">Detroit Pizza Depot</p>  
-    </div>  
-    <div style="flex: 1;">  
-        <img src="/img/broader_impacts/Birthday.jpeg" alt="Happy birthday to Daniel!" style="width: 90%; display: block;">  
-        <p style="text-align: center; margin-top: 10px;">Happy birthday to Daniel!🎂</p>  
-    </div>  
-</div> -->
 
 <div class="row">
   {% for big_group in page.broader_impacts %}
