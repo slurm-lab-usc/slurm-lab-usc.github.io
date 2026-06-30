@@ -311,7 +311,7 @@
     \ author={Yipeng Gao and Yunhao Ge and Peilin Cai and Daniel Seita and Laurent Itti},\n
     \ booktitle={Computer Vision and Pattern Recognition (CVPR)},\n
     \ Year={2026}\n}"
-  img: ../img/papers/LAM_CVPR2026.png
+  img: ../img/papers/LAM_CVPR2026.gif
   links:
     '[arXiv]': 
   short_id: 2026_LAM
