@@ -829,8 +829,7 @@
   short_id: 2025_SeqDexGrasp
   site: https://hesic73.github.io/SeqMultiGrasp/
   title: "Sequential Multi-Object Grasping with One Dexterous Hand"
-  venue: International Conference on Intelligent Robots and Systems (IROS), 2025
-  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
   video_embed: null
   tags:
     - dexterous_hands
