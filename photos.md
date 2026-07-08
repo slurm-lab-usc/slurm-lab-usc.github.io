@@ -8,9 +8,9 @@ lab_photos:
     list:
       - month: April 
         list:
-          - event: "Minjune Hwang presenting at ICLR 2026"
+          - event: "Minjune Hwang presenting at ICLR 2026 in Rio de Janeiro"
             photo_url: /img/lab_photos/ICLR_2026_Minjune.png 
-          - event: "Daniel Seita presenting at ICLR 2026"
+          - event: "Daniel Seita presenting at ICLR 2026 in Rio de Janeiro"
             photo_url: /img/lab_photos/ICLR_2026_Daniel.png 
 
       - month: March
@@ -33,9 +33,9 @@ lab_photos:
             photo_url: /img/lab_photos/ISER2.jpg
       - month: June
         list:
-          - event: "RSS 2025 🤖 & Volunteers"
+          - event: "RSS 2025 🤖 & Volunteers at USC"
             photo_url: /img/lab_photos/RSS1.jpg
-          - event: "RSS 2025 🤖 & Volunteers"
+          - event: "RSS 2025 🤖 & Volunteers at USC"
             photo_url: /img/lab_photos/RSS2.jpg
   - semester: Spring 2025
     list:

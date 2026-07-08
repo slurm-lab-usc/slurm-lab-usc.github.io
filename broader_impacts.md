@@ -17,9 +17,9 @@ broader_impacts:
     list:
       - month: April
         list:
-          - event: Lab tours (ARX5 demo)
+          - event: Lab tours (ARX5 demo) by Ayano Hiranaka
             photo_url: /img/broader_impacts/IMG_8140_Ayano.jpeg
-          - event: Lab tours (UR5 demo)
+          - event: Lab tours (UR5 demo) by Zeyu Shangguan
             photo_url: /img/broader_impacts/IMG_8131_Zeyu.jpeg
   
   - semester: Summer 2024
