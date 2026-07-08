@@ -4,6 +4,15 @@ title: Broader Impacts
 # slim: true
 
 broader_impacts:
+  - semester: Summer 2026
+    list:
+      - month: July
+        list:
+          - event: USC Robotics REU Tour at JPL
+            photo_url: /img/broader_impacts/2026_July_JPL_01.jpeg‎
+          - event: USC Robotics REU Tour at JPL
+            photo_url: /img/broader_impacts/2026_July_JPL_02.jpeg‎
+  
   - semester: Spring 2025
     list:
       - month: April
@@ -18,9 +27,9 @@ broader_impacts:
       - month: July
         list:
           - event: USC Robotics REU Tour at JPL
-            photo_url: /img/broader_impacts/2024_July_JPL_01.png
-          - event: USC Robotics REU Tour at JPL
             photo_url: /img/broader_impacts/2024_July_JPL_02.png
+          - event: USC Robotics REU Tour at JPL
+            photo_url: /img/broader_impacts/2024_July_JPL_01.png
 
 ---
 
