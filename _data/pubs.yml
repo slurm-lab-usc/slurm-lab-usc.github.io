@@ -242,9 +242,9 @@
     \ Year={2026}\n}"
   img: ../img/papers/PREFAIL.gif
   links:
-    '[arXiv]':
+    '[arXiv]': https://arxiv.org/abs/2607.16921
   short_id: 2026_PREFAIL
-  site: https://prefail.github.io/prefail/
+  site: https://zshanggu.github.io/zeyu-prefail/
   title: "PREFAIL: Identifying Precursors to Failures in Robotic Lift-and-Place Tasks to Improve Task Execution Performance"
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
   video_embed: null
