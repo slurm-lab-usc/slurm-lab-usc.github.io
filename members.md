@@ -80,6 +80,9 @@ members:
           - name: Jaitra Venkiteela
             photo_url: https://slurm-lab-usc.github.io/img/people/Venkiteela.jpeg
             web_url: https://www.linkedin.com/in/jaitra-venkiteela/ 
+          - name: Vaidehi Dalmia
+            photo_url: https://slurm-lab-usc.github.io/img/people/VaidehiDalmia.jpg
+            web_url: https://www.linkedin.com/in/vaidehidalmia/
             
   - name: Undergraduate Students
     list:
