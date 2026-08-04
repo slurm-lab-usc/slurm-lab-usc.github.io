@@ -257,6 +257,14 @@ members:
       - name: Interns
         full: False
         list:
+          - name: Talin Saini
+            web_url: https://www.linkedin.com/in/talin-saini/
+            period: IUSSTF-Viterbi 2026 (Undergrad at Indian Institute of Technology Roorkee)
+            next_step:
+          - name: Luis Dominguez
+            web_url: https://www.linkedin.com/in/luis-dominguez-bb2a34356/
+            period: USC REU 2026 (Undergrad at University of New Mexico)
+            next_step: 
           - name: Min Aung Paing
             web_url: https://www.linkedin.com/in/min-aung-paing-swe/
             photo_url:
@@ -268,17 +276,14 @@ members:
             period: USC SURE 2025 (Undergrad at Northwestern)
             next_step:
           - name: Gayathri Rajesh
-            photo_url: https://slurm-lab-usc.github.io/img/people/gayathri.jpg
             web_url: https://www.linkedin.com/in/gayathri-rajesh-b84560228/
             period: IUSSTF-Viterbi 2024 (Undergrad at National Institute of Technology, Tiruchirappalli)
             next_step: UC San Diego, Masters in CS from 2025
           - name: Abhinav Pillai
-            photo_url: https://slurm-lab-usc.github.io/img/people/Abhinav_Pillai.jpg
             web_url: https://www.linkedin.com/in/abhinav-pillai-62244b237
             period: USC REU 2024 (Undergrad at Indian Institute of Technology, Kharagpur)
             next_step: Arizona State University, PhD in AE from 2025
           - name: Ebonee Davis
-            photo_url: https://slurm-lab-usc.github.io/img/people/EboneeDavis.jpeg
             web_url: https://www.linkedin.com/in/eboneetdavis/
             period: USC SURE 2024 (Undergrad at MIT)
             next_step:
