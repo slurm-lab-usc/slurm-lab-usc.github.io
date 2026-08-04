@@ -133,7 +133,7 @@ members:
       - name: Undergraduate Students
         full: False
         list:
-          - name: Sid Srikanth
+          - name: Siddharth Srikanth
             period: 2025-2026 (CS)
             web_url: http://sidsrikanth.com
             next_step: Columbia University, PhD in CS from 2026
