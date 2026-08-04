@@ -229,10 +229,10 @@ members:
             web_url: https://www.linkedin.com/in/anupam-patil-114b841b0/
             period: 2023-2024 (CS)
             next_step: Wealth.com
-          - name: Dhanush Penmetsa
+          - name: Dhanush Varma
             web_url: https://www.linkedin.com/in/dhanush-varma/
             period: 2023-2024 (ECE)
-            next_step: University of Colorado Boulder, PhD in CS from 2025
+            next_step: University of Colorado Boulder (2025) -> University of Tsubuka, PhD from 2026
 
       - name: Visitors / Volunteers / Collaborators
         full: False
