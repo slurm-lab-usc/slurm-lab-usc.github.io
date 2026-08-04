@@ -137,6 +137,10 @@ members:
             period: 2025-2026 (CS)
             web_url: http://sidsrikanth.com
             next_step: Columbia University, PhD in CS from 2026
+          - name: Yue (Jerry) Wu
+            period: 2025-2026 (ECE)
+            web_url: https://jerry-wy.github.io/ 
+            next_step: Continuing at USC (Master's PDP Program)
           - name: Amrutha Challa
             period: 2025-2026 (CS)
             web_url: https://www.linkedin.com/in/amrutha-challa-b6a208223/
