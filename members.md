@@ -273,7 +273,7 @@ members:
             web_url: https://www.linkedin.com/in/min-aung-paing-swe/
             photo_url:
             period: USC Jump Start 2025 (Undergrad at UC San Diego)
-            next_step:
+            next_step: Software Engineer at VISA
           - name: Ethan Foong
             photo_url:
             web_url: https://www.linkedin.com/in/ethan-foong/
