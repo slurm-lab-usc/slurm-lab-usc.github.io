@@ -47,18 +47,9 @@ members:
           - name: Charlene Yuen
             photo_url: https://slurm-lab-usc.github.io/img/people/Charlene.jpg
             web_url: https://lazerbird.github.io/
-          - name: Changhui Hou
-            photo_url: https://slurm-lab-usc.github.io/img/people/changhuiUSC.jpg
-            web_url: https://github.com/changhuiUSC
           - name: Zinan Li
             photo_url: https://slurm-lab-usc.github.io/img/people/Zinan.jpg
             web_url: https://www.linkedin.com/in/zinanli02/
-          - name: Michael Gu
-            photo_url: https://slurm-lab-usc.github.io/img/people/MichaelGu.jpg
-            web_url: https://mgu247.github.io/
-          - name: Anthony Zhang
-            photo_url: https://slurm-lab-usc.github.io/img/people/AnthonyZhang.png
-            web_url: https://www.linkedin.com/in/anthonyzhangseattle/
           - name: Autumn Kwon
             photo_url: https://slurm-lab-usc.github.io/img/people/AutumnKwon.jpg
             web_url: https://kwongaeu.github.io/
@@ -169,6 +160,18 @@ members:
       - name: Master's Students
         full: False
         list:
+          - name: Changhui Hou
+            period: 2025-2026 (CS)
+            web_url: https://github.com/changhuiUSC
+            next_step:
+          - name: Michael Gu
+            period: 2025-2026 (CS)
+            web_url: https://mgu247.github.io/
+            next_step:
+          - name: Anthony Zhang
+            period: 2025-2026 (CS)
+            web_url: https://www.linkedin.com/in/anthonyzhangseattle/
+            next_step:
           - name: Rajas Chitale
             web_url: https://www.linkedin.com/in/rajas-chitale-rcv/ 
             period: 2024-2026 (CS)
