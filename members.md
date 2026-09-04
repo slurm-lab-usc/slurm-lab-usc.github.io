@@ -44,6 +44,9 @@ members:
     list:
       - full: true
         list:
+          - name: Lebin Li
+            photo_url: https://slurm-lab-usc.github.io/img/people/LebinLi.jpg
+            web_url: https://rolibin455.github.io/
           - name: Charlene Yuen
             photo_url: https://slurm-lab-usc.github.io/img/people/Charlene.jpg
             web_url: https://lazerbird.github.io/
