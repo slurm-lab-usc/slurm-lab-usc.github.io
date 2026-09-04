@@ -15,6 +15,25 @@
 # Current tags for research areas, see the research areas page for more details:
 # deform_obj_manip, 3D_afford_obj_manip, multimodal, rl_algs, auto_driving, active_perception, self_sup_rob
 
+- abs: 
+  authors: "Bo-Ruei Huang, Daniel Seita, Erdem Bıyık" 
+  award: null
+  bib: "@inproceedings{huang2026wacl,\n
+    \ title={{Beyond the End-Effector: Learning Whole-Arm Contact Manipulation from Human Demonstrations}},\n
+    \ author={Bo-Ruei Huang and Daniel Seita and Erdem Bıyık},\n
+    \ booktitle={Conference on Robot Learning (CoRL)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/WACL_CoRL2026.gif
+  links:
+    '[arXiv]': 
+  short_id: 2026_WACL
+  site: https://wacl-robot.github.io/
+  title: "Beyond the End-Effector: Learning Whole-Arm Contact Manipulation from Human Demonstrations"
+  venue: Conference on Robot Learning (CoRL), 2026.
+  video_embed: null
+  tags:
+    - whole_arm
+
 - abs: Bimanual robot learning from demonstrations is fundamentally limited by
     the cost and narrow visual diversity of real-world data, which constrains
     policy robustness across viewpoints, object configurations, and embodiments.
