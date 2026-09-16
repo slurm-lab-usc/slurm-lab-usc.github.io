@@ -15,6 +15,25 @@
 # Current tags for research areas, see the research areas page for more details:
 # deform_obj_manip, 3D_afford_obj_manip, multimodal, rl_algs, auto_driving, active_perception, self_sup_rob
 
+- abs:
+  authors: "Yufei Ding, Yi Du, Weiduo Yuan, Hao Jiang, Dylan Goetting, Lawrence Yunliang Chen, Daniel Seita\u2020, Yue Wang\u2020"
+  award: null
+  bib: "@inproceedings{ding2026unilatent,\n
+    \ title={{UniLatent: Cross-Embodiment Transfer via Latent Observation Alignment}},\n
+    \ author={Yufei Ding and Yi Du and Weiduo Yuan and Hao Jiang and Dylan Goetting and Lawrence Yunliang Chen and Daniel Seita and Yue Wang},\n
+    \ booktitle={Conference on Robot Learning (CoRL)},\n
+    \ Year={2026}\n}"
+  img: ../img/papers/placeholder_new.png
+  links:
+    '[arXiv]':
+  short_id: 2026_UniLatent
+  site: 
+  title: "UniLatent: Cross-Embodiment Transfer via Latent Observation Alignment"
+  venue: Conference on Robot Learning (CoRL), 2026.
+  video_embed: null
+  tags:
+    - cross_embodiment
+
 - abs: 
   authors: "Bo-Ruei Huang, Daniel Seita, Erdem Bıyık" 
   award: null
