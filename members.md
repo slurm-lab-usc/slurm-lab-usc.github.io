@@ -243,6 +243,10 @@ members:
       - name: Visitors / Volunteers / Collaborators
         full: False
         list:
+          - name: Yufei Ding 
+            web_url: https://yufeiding.com/ 
+            period: 2025-2026
+            next_step: Stanford University, PhD in CS from 2026
           - name: Kuanning Wang
             web_url: https://sressers.github.io/knw/
             period: 2024-2026
