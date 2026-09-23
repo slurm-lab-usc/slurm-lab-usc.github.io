@@ -262,7 +262,7 @@ members:
           - name: Rutvik Patel
             web_url: https://www.linkedin.com/in/rutvik-p4t3l/
             period: 2024-2025
-            next_step: GrayMatter Robotics -> Nimble Robotics
+            next_step: GrayMatter Robotics -> Nimble Robotics -> Skild AI
           - name: Ce (Chris) Wang
             web_url: https://www.linkedin.com/in/wangce94/
             period: 2024
