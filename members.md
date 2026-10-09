@@ -88,9 +88,6 @@ members:
           - name: Freddie Liang
             photo_url: https://slurm-lab-usc.github.io/img/people/FreddieLiang.jpeg
             web_url: https://www.linkedin.com/in/freddie-liang/
-          - name: Kevin Kim
-            photo_url: https://slurm-lab-usc.github.io/img/people/KevinKim.jpg
-            web_url:
           - name: Bruce Zhang
             photo_url: https://slurm-lab-usc.github.io/img/people/BruceZhang_photo.jpeg
             web_url: https://www.linkedin.com/in/changyang-zhang-351221329/
@@ -127,6 +124,10 @@ members:
       - name: Undergraduate Students
         full: False
         list:
+          - name: Kevin Kim
+            period: 2025-2026 (CS and AMCM)
+            web_url: https://minjunkevink.github.io/
+            next_step: 
           - name: Siddharth Srikanth
             period: 2025-2026 (CS)
             web_url: http://sidsrikanth.com
