@@ -156,7 +156,7 @@
     multifunctional dexterous manipulation. 
   authors: "Ethan Foong*, Yunshuang Li*, Hao Jiang, Gaurav Sukhatme, Daniel Seita" 
   award: null
-  bib: "@inproceedings{jiang2026dexmulti,\n
+  bib: "@inproceedings{foong2026handful,\n
     \ title={{HANDFUL: Sequential Grasp-Conditioned Dexterous Manipulation with Resource Awareness}},\n
     \ author={Ethan Foong and Yunshuang Li and Hao Jiang and Gaurav S. Sukhatme and Daniel Seita},\n
     \ booktitle={International Conference on Intelligent Robots and Systems (IROS)},\n
