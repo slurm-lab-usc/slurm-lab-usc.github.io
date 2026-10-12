@@ -27,7 +27,7 @@
   links:
     '[arXiv]':
   short_id: 2026_UniLatent
-  site: 
+  site: https://selina2023.github.io/unilatent/
   title: "UniLatent: Cross-Embodiment Transfer via Latent Observation Alignment"
   venue: Conference on Robot Learning (CoRL), 2026.
   video_embed: null
