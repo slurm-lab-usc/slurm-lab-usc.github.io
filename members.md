@@ -77,6 +77,9 @@ members:
           - name: Vaidehi Dalmia
             photo_url: https://slurm-lab-usc.github.io/img/people/VaidehiDalmia.jpg
             web_url: https://www.linkedin.com/in/vaidehidalmia/
+          - name: Junha Liu
+            photo_url: https://slurm-lab-usc.github.io/img/people/JunhaLiu.jpg
+            web_url: https://www.linkedin.com/in/junha-liu-39243229a/
             
   - name: Undergraduate Students
     list:
