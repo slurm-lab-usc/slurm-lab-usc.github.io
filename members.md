@@ -47,9 +47,6 @@ members:
           - name: Lebin Li
             photo_url: https://slurm-lab-usc.github.io/img/people/LebinLi.jpg
             web_url: https://rolibin455.github.io/
-          - name: Charlene Yuen
-            photo_url: https://slurm-lab-usc.github.io/img/people/Charlene.jpg
-            web_url: https://lazerbird.github.io/
           - name: Zinan Li
             photo_url: https://slurm-lab-usc.github.io/img/people/Zinan.jpg
             web_url: https://www.linkedin.com/in/zinanli02/
@@ -68,9 +65,6 @@ members:
           - name: Chengsheng Ge
             photo_url: https://slurm-lab-usc.github.io/img/people/chengshengge.png
             web_url: https://www.linkedin.com/in/chengsheng-ge-202754227/
-          - name: Chenhao Liang
-            photo_url: https://slurm-lab-usc.github.io/img/people/Chenhao.jpg
-            web_url: https://www.linkedin.com/in/chenhao-liang/
           - name: Jaitra Venkiteela
             photo_url: https://slurm-lab-usc.github.io/img/people/Venkiteela.jpeg
             web_url: https://www.linkedin.com/in/jaitra-venkiteela/ 
@@ -164,10 +158,10 @@ members:
       - name: Master's Students
         full: False
         list:
-          - name: Changhui Hou
-            period: 2025-2026 (CS)
-            web_url: https://github.com/changhuiUSC
-            next_step:
+          - name: Chenhao Liang
+            period: 2026 (CS)
+            web_url: https://www.linkedin.com/in/chenhao-liang/
+            next_step: Startup
           - name: Michael Gu
             period: 2025-2026 (CS)
             web_url: https://mgu247.github.io/
@@ -176,6 +170,14 @@ members:
             period: 2025-2026 (CS)
             web_url: https://www.linkedin.com/in/anthonyzhangseattle/
             next_step:
+          - name: Changhui Hou
+            period: 2025-2026 (CS)
+            web_url: https://github.com/changhuiUSC
+            next_step: Startup
+          - name: Charlene Yuen
+            period: 2023-2026 (CS)
+            web_url: https://lazerbird.github.io/
+            next_step: Applied Research Associates
           - name: Rajas Chitale
             web_url: https://www.linkedin.com/in/rajas-chitale-rcv/ 
             period: 2024-2026 (CS)
