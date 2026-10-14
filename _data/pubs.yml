@@ -44,7 +44,7 @@
     \ Year={2026}\n}"
   img: ../img/papers/WACL_CoRL2026.gif
   links:
-    '[arXiv]': 
+    '[arXiv]': https://arxiv.org/abs/2610.17802
   short_id: 2026_WACL
   site: https://wacl-robot.github.io/
   title: "Beyond the End-Effector: Learning Whole-Arm Contact Manipulation from Human Demonstrations"
