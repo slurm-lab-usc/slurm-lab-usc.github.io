@@ -88,6 +88,9 @@ members:
           - name: Bruce Zhang
             photo_url: https://slurm-lab-usc.github.io/img/people/BruceZhang_photo.jpeg
             web_url: https://www.linkedin.com/in/changyang-zhang-351221329/
+          - name: Eric Li
+            photo_url: https://slurm-lab-usc.github.io/img/people/EricLi.jpg
+            web_url: https://www.linkedin.com/in/eric-li-6b9783386/
 
   # - name: Interns and Visitors
   #   list:
