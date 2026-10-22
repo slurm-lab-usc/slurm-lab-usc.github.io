@@ -74,6 +74,9 @@ members:
           - name: Junha Liu
             photo_url: https://slurm-lab-usc.github.io/img/people/JunhaLiu.jpg
             web_url: https://www.linkedin.com/in/junha-liu-39243229a/
+          - name: Meige Yang
+            photo_url: https://slurm-lab-usc.github.io/img/people/MeigeYang.jpg
+            web_url: https://www.linkedin.com/in/maggie-yang-592030267/
             
   - name: Undergraduate Students
     list:
