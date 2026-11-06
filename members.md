@@ -95,7 +95,7 @@ members:
             photo_url: https://slurm-lab-usc.github.io/img/people/EricLi.jpg
             web_url: https://www.linkedin.com/in/eric-li-6b9783386/
           - name: Alexander Jacob
-            photo_url: http://slurm-lab-usc.github.io/img/people/AlexanderJacob.png
+            photo_url: https://slurm-lab-usc.github.io/img/people/AlexanderJacob.png
             web_url: https://www.linkedin.com/in/alexander-jacob-0471aa295/
 
   # - name: Interns and Visitors
