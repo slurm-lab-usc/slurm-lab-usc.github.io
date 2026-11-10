@@ -25,7 +25,7 @@
     \ Year={2026}\n}"
   img: ../img/papers/UniLatent_CoRL2026.gif
   links:
-    '[arXiv]':
+    '[arXiv]': https://arxiv.org/abs/2611.10061
   short_id: 2026_UniLatent
   site: https://selina2023.github.io/unilatent/
   title: "UniLatent: Cross-Embodiment Transfer via Latent Observation Alignment"
