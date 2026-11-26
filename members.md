@@ -77,6 +77,9 @@ members:
           - name: Meige Yang
             photo_url: https://slurm-lab-usc.github.io/img/people/MeigeYang.jpg
             web_url: https://www.linkedin.com/in/maggie-yang-592030267/
+          - name: Joel E. Castro Hernandez
+            photo_url: /img/people/JoelCastroHernandez.png
+            web_url: https://joel-ca.github.io/portfolio/
             
   - name: Undergraduate Students
     list:
